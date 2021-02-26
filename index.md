@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Ling471!
 
 You can use the [editor on GitHub](https://github.com/olzama/Ling471-Spring2021-UW/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Syllabus](syllabus.md)
 
 ### Markdown
 
