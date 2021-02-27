@@ -3,7 +3,10 @@
 The course Computational Methods for Linguistics focuses on learning **how data science methods/tools can be applied in the domain of linguistics**. One of the main goals of the course is to familiarize the students with the **basics of programming**, including **general technical versatility skills** required to successfully undertake even the most basic programming tasks. 
 
 ### Learning outcomes 
+<details>
+  <summary>Click to expand</summary>
 Students will learn about what counts as data in computational linguistics, as well as how linguistic theory and questions dictate which computational methods are employed. Similarly, students will learn about ethical and social implications of data uses in linguistics. Students will learn basic programming concepts and how to learn a range of programs (specific programming language TBD). They will also learn how to use command-line interface and version control. The will learn a range of techniques for data cleaning, representing data as vectors, thoughtfully choosing a model, loading the data into the model, running the model, and interpreting and visualizing results.
+</details>
 
 ### Assessment
 The class is organized around a layered project. There are no exams. The project, on which the students will work individually, has 4 parts, which put toghether account for 60% of the grade. Additionally, there is a formal write up worth another 20%. Additionally, students will write blog posts reflecting on the readings; this is worth another 15%. Up to the remaining 5% will be given for participation (such as asking questions during class or on the discussion board).
@@ -12,6 +15,7 @@ The class is organized around a layered project. There are no exams. The project
 There are no required textbooks, though there will be plenty of reading, all available online.
 Recommended text (for those who have not taken LING200): *Language Files 12*
 You may find books like *R for everyone* helpful, or an analagous book on python programming language, but in general we will rely on online resources.
+
 
 ### Class schedule (subject to change)
 
