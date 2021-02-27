@@ -1,5 +1,6 @@
 ## Syllabus
 
+
 Date | Topic | Reading | Due
 ------------ | -------------
 March 30 | Content from cell 2
