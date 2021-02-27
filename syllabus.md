@@ -13,10 +13,14 @@ Students will learn about what counts as data in computational linguistics, as w
 The class is organized around a layered project. There are no exams. The project, on which the students will work individually, has 4 parts, which put toghether account for 60% of the grade. Additionally, there is a formal write up worth another 20%. Additionally, students will write blog posts reflecting on the readings; this is worth another 15%. Up to the remaining 5% will be given for participation (such as asking questions during class or on the discussion board).
 
 ### Texts
+<details>
+  <summary>Click to expand</summary>
+  
+
 There are no required textbooks, though there will be plenty of reading, all available online.
 Recommended text (for those who have not taken LING200): *Language Files 12*
 You may find books like *R for everyone* helpful, or an analagous book on python programming language, but in general we will rely on online resources.
-
+</details>
 
 ### Class schedule (subject to change)
 
