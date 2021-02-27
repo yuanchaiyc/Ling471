@@ -1,5 +1,10 @@
 ## Syllabus
 
+The course Computational Methods for Linguistics focuses on learning **how data science methods/tools can be applied in the domain of linguistics**. One of the main goals of the course is to familiarize the students with the **basics of programming**, including **general technical versatility skills** required to successfully undertake even the most basic programming tasks. 
+
+### Learning outcomes ### 
+Students will learn about what counts as data in computational linguistics, as well as how linguistic theory and questions dictate which computational methods are employed. Similarly, students will learn about ethical and social implications of data uses in linguistics. Students will learn basic programming concepts and how to learn a range of programs (specific programming language TBD). They will also learn how to use command-line interface and version control. The will learn a range of techniques for data cleaning, representing data as vectors, thoughtfully choosing a model, loading the data into the model, running the model, and interpreting and visualizing results.
+
 
 Date | Topic | Reading | Due
 ------------ | -------------
