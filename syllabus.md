@@ -16,9 +16,10 @@ The class is organized around a layered project. There are no exams. The project
 <details>
   <summary>Click to expand</summary>
   
-
 There are no required textbooks, though there will be plenty of reading, all available online.
+
 Recommended text (for those who have not taken LING200): *Language Files 12*
+
 You may find books like *R for everyone* helpful, or an analagous book on python programming language, but in general we will rely on online resources.
 </details>
 
