@@ -27,26 +27,26 @@ You may find books like *R for everyone* helpful, or an analagous book on python
 
 Date | Topic | Reading | Due
 ------------ | -------------
-March 30 | Content from cell 2
-April 1 | Introduction, course structure, etc.
-April 6 | Version control, command line
-April 8 | Basic programming concepts
-April 13 | Content in the second column
-April 15 | Content in the second column
-April 20 | Content in the second column
-April 22 | Content in the second column
-April 27 | Content in the second column
-April 29 | Content in the second column
-May 4 | Content in the second column
-May 6 | Content in the second column
-May 11 | Content in the second column
-May 13 | Content in the second column
-May 18 | Content in the second column
-May 20 | Content in the second column
-May 25 | Content in the second column
-May 27 | Content in the second column
-June 1 | Content in the second column
-June 3 | Content in the second column
+March 30 | Introduction, course structure, etc.
+April 1 | Basic technical concepts and overview
+April 6 | Command line
+April 8 | Version control
+April 13 | Basic programming concepts
+April 15 | Basic programming concepts
+April 20 | Basic programming concepts
+April 22 | Basic programming concepts
+April 27 | Basic probability
+April 29 | Basic probability
+May 4 | Basic statistics
+May 6 | Basic statistics
+May 11 | Basic Machine Learning concepts
+May 13 | Basic Machine Learning concepts
+May 18 | Basic Deep Learning concepts
+May 20 | Working with linguistic corpora
+May 25 | Working with linguistic corpora
+May 27 | Working with linguistic corpora
+June 1 | Visualsation and Communication
+June 3 | Visualsation and Communication
 
 
 ## Academic Integrity
