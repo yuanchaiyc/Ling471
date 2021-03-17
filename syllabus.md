@@ -12,6 +12,17 @@ Students will learn about what counts as data in computational linguistics, as w
 ### Assessment
 The class is organized around a layered project, which is a series of assignments targeting different concepts and skills but all connected to the same corpus (TBA). There are no exams. The project, on which the students will work individually, has 4 parts, which put toghether account for 80% of the grade. Additionally, there is a presentation worth another 10% (the presentation may be pre-recorded). Additionally, students will write blog posts reflecting on the readings; this is worth another 10%. Up to 2% (positive) adjustment for participation (such as asking questions during class or on the discussion board, attending office hours etc.).
 
+### Late homework policy
+<details>
+  <summary>Click to expand</summary>
+  
+* Homework is due at 11:59pm on the date posted.
+* Unless you've made prior arrangements with Olga, homework turned in within one day of the due date will be graded at 80%, two days 70%. credit. No credit after that. This means, for example, that if you submitted a perfectly done assignment even a minute after the deadline, you will receive 80% credit. Please clarify the policy with Olga if unsure.
+* By prior arrangements, we mean contacting Olga no later than the day before the homework is due (i.e., Wednesday for homework due Thursday) with the reason you feel you can't complete your homework on time. At that time, Olga will decide whether or not to grant an extension, and for how long.
+
+  </details>
+
+
 ### Texts
 <details>
   <summary>Click to expand</summary>
@@ -47,7 +58,7 @@ May 25 | Visualization and Communication
 May 27 | Visualization and Communication 
 June 1 | Presentations
 June 3 | Presentations
-June 8 | | | Project Part IV
+June 8 | | | Project Part IV (**no late submissions**)
 
 
 
