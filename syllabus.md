@@ -10,7 +10,7 @@ Students will learn about what counts as data in computational linguistics, as w
 </details>
 
 ### Assessment
-The class is organized around a layered project, which is a series of assignments targeting different concepts and skills but all connected to the same corpus (TBA). There are no exams. The project, on which the students will work individually, has 4 parts, which put toghether account for 80% of the grade. Additionally, there is a presentation worth another 10%. Additionally, students will write blog posts reflecting on the readings; this is worth another 10%. Up to 2% (positive) adjustment for participation (such as asking questions during class or on the discussion board, attending office hours etc.).
+The class is organized around a layered project, which is a series of assignments targeting different concepts and skills but all connected to the same corpus (TBA). There are no exams. The project, on which the students will work individually, has 4 parts, which put toghether account for 80% of the grade. Additionally, there is a presentation worth another 10% (the presentation may be pre-recorded). Additionally, students will write blog posts reflecting on the readings; this is worth another 10%. Up to 2% (positive) adjustment for participation (such as asking questions during class or on the discussion board, attending office hours etc.).
 
 ### Texts
 <details>
@@ -34,19 +34,21 @@ April 8 | Version control (git, GitHub)
 April 13 | Basic programming concepts | | Project preliminaries
 April 15 | Basic programming concepts
 April 20 | Basic programming concepts
-April 22 | Basic programming concepts | | Project Part I
+April 22 | Basic probability | | Project Part I
 April 27 | Basic probability
-April 29 | Basic probability
-May 4 | Basic statistics
-May 6 | Basic statistics | | Project Part II
-May 11 | Basic Machine Learning concepts
-May 13 | Using Machine Learning models
-May 18 | Basic Deep Learning concepts
+April 29 | Basic statistics
+May 4 | Basic statistics | | Project Part II
+May 6 | Basic Machine Learning concepts
+May 11 | Basic Deep Learning concepts
+May 13 | Using pre-trained models
+May 18 | Working with linguistic corpora | | Project Part III
 May 20 | Working with linguistic corpora 
-May 25 | Working with linguistic corpora | | Project Part III
-May 27 | Working with linguistic corpora
-June 1 | Visualization and Communication 
-June 3 | Visualization and Communication | | Project Part IV
+May 25 | Visualization and Communication 
+May 27 | Visualization and Communication | | 
+June 1 | Presentations
+June 3 | Presentations
+June 8 | | | Project Part IV
+
 
 
 ## Academic Integrity
