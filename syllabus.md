@@ -1,6 +1,6 @@
 # Syllabus
 
-The course Computational Methods for Linguistics focuses on learning **how data science methods/tools can be applied in the domain of linguistics**. One of the main goals of the course is to familiarize the students with the **basics of programming**, including **general technical versatility skills** required to successfully undertake even the most basic programming tasks. 
+The course Computational Methods for Linguists focuses on learning **how data science methods/tools can be applied in the domain of linguistics**. One of the main goals of the course is to familiarize the students with the **basics of programming**, including **general technical versatility skills** required to successfully undertake even the most basic programming tasks. 
 
 ### Learning outcomes 
 <details>
