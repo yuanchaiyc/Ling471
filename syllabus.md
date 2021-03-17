@@ -60,8 +60,7 @@ May 25 | Visualization and Communication
 May 27 | Visualization and Communication 
 June 1 | Presentations
 June 3 | Presentations
-June 8 | | | Project Part IV (**no late submissions**)
-
+June 8 | | | Project Part IV
 
 
 ## Academic Integrity
