@@ -28,7 +28,7 @@ You may find books like *R for everyone* helpful, or an analagous book on python
 Date | Topic | Reading | Due
 ------------ | -------------
 March 30 | Introduction, course structure, etc.
-April 1 | Conceptual and technical overview
+April 1 | Conceptual and technical overview | | Online survey
 April 6 | Command line: Why and How
 April 8 | Version control (git, GitHub)
 April 13 | Basic programming concepts
