@@ -31,20 +31,20 @@ March 30 | Introduction, course structure, etc.
 April 1 | Conceptual and technical overview | | Online survey (on Canvas)
 April 6 | Command line: Why and How
 April 8 | Version control (git, GitHub)
-April 13 | Basic programming concepts | | Project preliminaries
-April 15 | Basic programming concepts
+April 13 | Basic programming concepts 
+April 15 | Basic programming concepts | | Project preliminaries
 April 20 | Basic programming concepts
-April 22 | Basic probability | | Project Part I
-April 27 | Basic probability
+April 22 | Basic probability 
+April 27 | Basic probability | | Project Part I
 April 29 | Basic statistics
-May 4 | Basic statistics | | Project Part II
-May 6 | Basic Machine Learning concepts
+May 4 | Basic statistics 
+May 6 | Basic Machine Learning concepts | | Project Part II
 May 11 | Basic Deep Learning concepts
 May 13 | Using pre-trained models
-May 18 | Working with linguistic corpora | | Project Part III
-May 20 | Working with linguistic corpora 
+May 18 | Working with linguistic corpora 
+May 20 | Working with linguistic corpora | | Project Part III
 May 25 | Visualization and Communication 
-May 27 | Visualization and Communication | | 
+May 27 | Visualization and Communication 
 June 1 | Presentations
 June 3 | Presentations
 June 8 | | | Project Part IV
