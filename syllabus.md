@@ -1,6 +1,6 @@
 # Syllabus
 
-The course Computational Methods for Linguists focuses on learning **how data science methods/tools can be applied in the domain of linguistics**. One of the main goals of the course is to familiarize the students with the **basics of programming**, including **general technical versatility skills** required to successfully undertake even the most basic programming tasks. 
+The course Computational Methods for Linguists focuses on learning **how data science methods/tools can be applied in the domain of linguistics**. One of the main goals of the course is to familiarize the students with the **basics of programming**, including **general technical versatility skills** required to successfully undertake even the most basic programming tasks. While the syllabus doesn't mention linguistic and social concepts explicitly, they will be present throughout the class, as all assignments will be organized around linguistic or linguistically-annotated data. The presentations will be graded in particular based on how well they are connected to linguistic and social concepts.
 
 ### Learning outcomes 
 <details>
@@ -16,7 +16,7 @@ The class is organized around a layered project, which is a series of assignment
 <details>
   <summary>Click to expand</summary>
   
-There are no required textbooks, though there will be plenty of reading, all available online.
+There are no required textbooks, though there will be some reading, all available online.
 
 Recommended text (for those who have not taken LING200): *Language Files 12*
 
