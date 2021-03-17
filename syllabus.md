@@ -28,25 +28,25 @@ You may find books like *R for everyone* helpful, or an analagous book on python
 Date | Topic | Reading | Due
 ------------ | -------------
 March 30 | Introduction, course structure, etc.
-April 1 | Conceptual and technical overview | | Online survey
+April 1 | Conceptual and technical overview | | Online survey (on Canvas)
 April 6 | Command line: Why and How
 April 8 | Version control (git, GitHub)
-April 13 | Basic programming concepts
+April 13 | Basic programming concepts | | Project preliminaries
 April 15 | Basic programming concepts
 April 20 | Basic programming concepts
-April 22 | Basic programming concepts
+April 22 | Basic programming concepts | | Project Part I
 April 27 | Basic probability
 April 29 | Basic probability
 May 4 | Basic statistics
-May 6 | Basic statistics
+May 6 | Basic statistics | | Project Part II
 May 11 | Basic Machine Learning concepts
 May 13 | Using Machine Learning models
 May 18 | Basic Deep Learning concepts
-May 20 | Working with linguistic corpora
-May 25 | Working with linguistic corpora
+May 20 | Working with linguistic corpora 
+May 25 | Working with linguistic corpora | | Project Part III
 May 27 | Working with linguistic corpora
-June 1 | Visualization and Communication
-June 3 | Visualization and Communication
+June 1 | Visualization and Communication 
+June 3 | Visualization and Communication | | Project Part IV
 
 
 ## Academic Integrity
