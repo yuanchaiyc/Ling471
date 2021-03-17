@@ -45,8 +45,8 @@ May 18 | Basic Deep Learning concepts
 May 20 | Working with linguistic corpora
 May 25 | Working with linguistic corpora
 May 27 | Working with linguistic corpora
-June 1 | Visualsation and Communication
-June 3 | Visualsation and Communication
+June 1 | Visualization and Communication
+June 3 | Visualization and Communication
 
 
 ## Academic Integrity
