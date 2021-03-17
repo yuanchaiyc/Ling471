@@ -17,7 +17,9 @@ The class is organized around a layered project, which is a series of assignment
   <summary>Click to expand</summary>
   
 * Homework is due at 11:59pm on the date posted.
+
 * Unless you've made prior arrangements with Olga, homework turned in within one day of the due date will be graded at 80%, two days 70%. credit. No credit after that. This means, for example, that if you submitted a perfectly done assignment even a minute after the deadline, you will receive 80% credit. Please clarify the policy with Olga if unsure.
+
 * By prior arrangements, we mean contacting Olga no later than the day before the homework is due (i.e., Wednesday for homework due Thursday) with the reason you feel you can't complete your homework on time. At that time, Olga will decide whether or not to grant an extension, and for how long.
 
   </details>
