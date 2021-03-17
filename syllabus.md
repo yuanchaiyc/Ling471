@@ -1,3 +1,5 @@
+[Home](index.md)
+
 # Syllabus
 
 The course Computational Methods for Linguists focuses on learning **how data science methods/tools can be applied in the domain of linguistics**. One of the main goals of the course is to familiarize the students with the **basics of programming**, including **general technical versatility skills** required to successfully undertake even the most basic programming tasks. While the syllabus doesn't mention linguistic and social concepts explicitly, they will be present throughout the class, as all assignments will be organized around **linguistic or linguistically-annotated data**. The presentations will be graded in particular based on **how well they are connected to linguistic and social concepts**.
@@ -83,3 +85,5 @@ Call SafeCampus at 206-685-7233 anytime – no matter where you work or study �
 ## Religious Accommodations 
 
 Washington state law requires that UW develop a policy for accommodation of student absences or significant hardship due to reasons of faith or conscience, or for organized religious activities. The UW’s policy, including more information about how to request an accommodation, is available at Religious Accommodations Policy (https://registrar.washington.edu/staffandfaculty/religious-accommodations-policy/). Accommodations must be requested within the first two weeks of this course using the Religious Accommodations Request form (https://registrar.washington.edu/students/religious-accommodations-request/).”
+
+[Home](index.md)
