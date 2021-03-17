@@ -6,7 +6,7 @@ The course Computational Methods for Linguists focuses on learning **how data sc
 <details>
   <summary>Click to expand</summary>
   
-Students will learn about what counts as data in computational linguistics, as well as how linguistic theory and questions dictate which computational methods are employed. Similarly, students will learn about ethical and social implications of data uses in linguistics. Students will learn basic programming concepts and how to learn a range of programs (specific programming language TBD). They will also learn how to use command-line interface and version control. The will learn a range of techniques for data cleaning, representing data as vectors, thoughtfully choosing a model, loading the data into the model, running the model, and interpreting and visualizing results.
+Students will learn about what counts as data in computational linguistics, as well as how linguistic theory and questions dictate which computational methods are employed. Similarly, students will learn about ethical and social implications of data uses in linguistics. Students will learn basic programming concepts and how to write a range of programs (specific programming language TBD). They will also learn how to use command-line interface and version control. The will learn a range of techniques for data cleaning, representing data as vectors, thoughtfully choosing a model, loading the data into the model, running the model, and interpreting and visualizing results.
 </details>
 
 ### Assessment
@@ -28,9 +28,9 @@ You may find books like *R for everyone* helpful, or an analagous book on python
 Date | Topic | Reading | Due
 ------------ | -------------
 March 30 | Introduction, course structure, etc.
-April 1 | Basic technical concepts and overview
-April 6 | Command line
-April 8 | Version control
+April 1 | Conceptual and technical overview
+April 6 | Command line: Why and How
+April 8 | Version control (git, GitHub)
 April 13 | Basic programming concepts
 April 15 | Basic programming concepts
 April 20 | Basic programming concepts
@@ -40,7 +40,7 @@ April 29 | Basic probability
 May 4 | Basic statistics
 May 6 | Basic statistics
 May 11 | Basic Machine Learning concepts
-May 13 | Basic Machine Learning concepts
+May 13 | Using Machine Learning models
 May 18 | Basic Deep Learning concepts
 May 20 | Working with linguistic corpora
 May 25 | Working with linguistic corpora
