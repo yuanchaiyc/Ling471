@@ -2,7 +2,7 @@
 
 # Syllabus
 
-The course Computational Methods for Linguists focuses on learning **how data science methods/tools can be applied in the domain of linguistics**. One of the main goals of the course is to familiarize the students with the **basics of programming**, including **general technical versatility skills** required to successfully undertake even the most basic programming tasks. While the syllabus doesn't mention linguistic and social concepts explicitly, they will be present throughout the class, as all assignments will be organized around **linguistic or linguistically-annotated data**. The presentations will be graded in particular based on **how well they are connected to linguistic and social concepts**.
+The course Computational Methods for Linguists focuses on learning **how data science methods/tools can be applied in the domain of linguistics**. One of the main goals of the course is to familiarize the students with the **basics of programming**, including **general technical versatility skills** required to successfully undertake even the most basic programming tasks. While the syllabus doesn't mention linguistic and social concepts explicitly, they will be present throughout the class, as the assignments will be organized around **linguistic or linguistically-annotated data**. The presentations will be graded in particular based on **how well they are connected to linguistic and social concepts**.
 
 ### Learning outcomes 
 <details>
@@ -12,7 +12,7 @@ Students will learn about what counts as data in computational linguistics, as w
 </details>
 
 ### Assessment
-The class is organized around a layered project, which is a series of assignments targeting different concepts and skills but all connected to the same corpus (TBA). There are no exams. The project, on which the students will work individually, has 4 parts, which put toghether account for 80% of the grade. Additionally, there is a presentation worth another 10% (the presentation may be pre-recorded). Additionally, students will write blog posts reflecting on the readings; this is worth another 10%. Up to 2% (positive) adjustment for participation (such as asking questions during class or on the discussion board, attending office hours etc.).
+The class is organized around a series of assignments targeting different concepts and skills but all connected to linguistic data/corpora (TBA). There are no exams. The assignments, on which the students will work individually, put toghether account for 80% of the grade. Additionally, there is a presentation related to the assignments which is worth another 10% (the presentation may be pre-recorded). Additionally, students will write blog posts reflecting on the readings; this is worth another 10%. Up to 2% (positive) adjustment for participation (such as asking questions during class or on the discussion board, attending office hours etc.).
 
 ### Late homework policy
 * Homework is due at 11:59pm on the date posted.
@@ -41,22 +41,22 @@ April 1 | Conceptual and technical overview | | Online survey (on Canvas)
 April 6 | Command line vs GUIs: What to use when and how
 April 8 | Version control (git, GitHub)
 April 13 | Basic programming concepts 
-April 15 | Basic programming concepts | | Project preliminaries
+April 15 | Basic programming concepts | | Assignment 1 
 April 20 | Basic programming concepts
 April 22 | Basic probability 
-April 27 | Basic probability | | Project Part I
+April 27 | Basic probability | | Assignment 2 
 April 29 | Basic statistics
 May 4 | Basic statistics 
-May 6 | Basic Machine Learning concepts | | Project Part II
+May 6 | Basic Machine Learning concepts | | Assignment 3 
 May 11 | Basic Deep Learning concepts
 May 13 | Using pre-trained models
 May 18 | Working with linguistic corpora 
-May 20 | Working with linguistic corpora | | Project Part III
+May 20 | Working with linguistic corpora | | Assignment 4
 May 25 | Visualization and Communication 
 May 27 | Visualization and Communication 
 June 1 | Presentations
 June 3 | Presentations
-June 8 | | | Project Part IV
+June 8 | | | Assignment 5 
 
 
 ## Academic Integrity
