@@ -1,3 +1,5 @@
+[Home](index.md)
+
 ### Assignment 1: Preliminaries
 
 In this assignment, you will:
@@ -24,3 +26,8 @@ We will be using the IMDB review dataset ([Maas et al. 2011](https://www.aclweb.
 ## Part 2: Python and Visual Studio Code.
 In this part of the assignment, you will start learning how to program in python and how to use an Integrated Development Environment.
 1. Download and install [Visual Studio Code](https://code.visualstudio.com/download), a **free** IDE.
+
+
+
+
+[Home](index.md)
