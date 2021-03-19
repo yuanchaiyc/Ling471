@@ -40,7 +40,7 @@ March 30 | Introduction, course structure, etc.
 April 1 | Conceptual and technical overview | | Online survey (on Canvas)
 April 6 | Basic system/programming concepts 
 April 8 | Command line vs GUIs: What to use when and how 
-| Version control (git, GitHub) 
+| Version control (git, GitHub) | [Data statements for NLP](https://www.aclweb.org/anthology/P11-1015.pdf)
 April 13 | Basic programming | | Assignment 1 
 April 15 | Basic programming | | 
 April 20 | Basic programming
