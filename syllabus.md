@@ -38,11 +38,11 @@ Date | Topic | Reading | Due
 ------------ | -------------
 March 30 | Introduction, course structure, etc.
 April 1 | Conceptual and technical overview | | Online survey (on Canvas)
-April 6 | Command line vs GUIs: What to use when and how
-April 8 | Version control (git, GitHub)
-April 13 | Basic programming concepts 
-April 15 | Basic programming concepts | | Assignment 1 
-April 20 | Basic programming concepts
+April 6 | Basic system/programming concepts 
+April 8 | Command line vs GUIs: What to use when and how 
+April 13 | Version control (git, GitHub) 
+April 15 | Basic programming | | Assignment 1 
+April 20 | Basic programming
 April 22 | Basic probability 
 April 27 | Basic probability | | Assignment 2 
 April 29 | Basic statistics
