@@ -8,7 +8,7 @@ The course Computational Methods for Linguists focuses on learning **how data sc
 <details>
   <summary>Click to expand</summary>
   
-Students will learn about what counts as data in computational linguistics, as well as how linguistic theory and questions dictate which computational methods are employed. Similarly, students will learn about ethical and social implications of data uses in linguistics. Students will learn basic programming concepts and how to write a range of programs (specific programming language TBD). They will also learn how to use command-line interface and version control. The will learn a range of techniques for data cleaning, representing data as vectors, thoughtfully choosing a model, loading the data into the model, running the model, and interpreting and visualizing results.
+Students will learn about what counts as data in computational linguistics, as well as how linguistic theory and questions dictate which computational methods are employed. Similarly, students will learn about ethical and social implications of data uses in linguistics. Students will learn basic programming concepts and how to write a range of programs (specific programming language TBD). They will also learn how to use command-line interface and version control. They will learn a range of techniques for data cleaning, representing data as vectors, thoughtfully choosing a model, loading the data into the model, running the model, and interpreting and visualizing results.
 </details>
 
 ### Assessment
