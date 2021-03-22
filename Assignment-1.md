@@ -26,7 +26,11 @@ We will be using the IMDB review dataset ([Maas et al. 2011](https://www.aclweb.
 
 ### Part 2: Python and Visual Studio Code.
 In this part of the assignment, you will start learning how to program in python and how to use an Integrated Development Environment.
-1. Download and install [Visual Studio Code](https://code.visualstudio.com/download), a **free** IDE.
+1. Download and install [Visual Studio Code](https://code.visualstudio.com/download), a **free** IDE. Use all the default settings during the installation.
+2. Install support for python by clicking on "Python" here:
+
+<img width="1019" alt="python1" src="https://user-images.githubusercontent.com/10963114/112042641-fc107880-8b04-11eb-8fcf-d4d3871df483.png">
+
 
 
 
