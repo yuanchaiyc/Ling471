@@ -14,6 +14,9 @@ Students will learn about what counts as data in computational linguistics, as w
 ### Assessment
 The class is organized around a series of assignments targeting different concepts and skills but all connected to linguistic data/corpora (TBA). There are no exams. The assignments, on which the students will work individually, put toghether account for 80% of the grade. Additionally, there is a presentation related to the assignments which is worth another 10% (the presentation may be pre-recorded). Additionally, students will write blog posts reflecting on the readings; this is worth another 10%. Up to 2% (positive) adjustment for participation (such as asking questions during class or on the discussion board, attending office hours etc.).
 
+_Grading scale:_
+95% = 4.0, 94% = 3.9, 93% = 3.8 & so on. (I reserve the right to make this more generous if overall the grades look too low.)
+
 ### Late homework policy
 * Homework is due at 11:59pm on the date posted.
 
