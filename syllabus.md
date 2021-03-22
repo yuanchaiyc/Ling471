@@ -12,7 +12,7 @@ Students will learn about what counts as data in computational linguistics, as w
 </details>
 
 ### Assessment
-The class is organized around a series of assignments targeting different concepts and skills but all connected to linguistic data/corpora (TBA). There are no exams. The assignments, on which the students will work individually, put toghether account for 80% of the grade. Additionally, there is a presentation related to the assignments which is worth another 10% (the presentation may be pre-recorded). Additionally, students will write blog posts reflecting on the readings; this is worth another 10%. Up to 2% (positive) adjustment for participation (such as asking questions during class or on the discussion board, attending office hours etc.).
+The class is organized around a series of assignments targeting different concepts and skills but all connected to linguistic data/corpora (TBA). There are no exams. The assignments, on which the students will work individually, put toghether account for 80% of the grade. Additionally, there is a presentation related to the assignments which is worth another 15% (the presentation may be pre-recorded). Additionally, students will [write a blog post](blog.md) reflecting on a reading of their choice and will also post comments to their classmate's posts; this is worth another 5%. Up to 2% (positive) adjustment for participation (such as asking questions during class or on the discussion board, attending office hours etc.).
 
 _Grading scale:_
 95% = 4.0, 94% = 3.9, 93% = 3.8 & so on. (I reserve the right to make this more generous if overall the grades look too low.)
@@ -54,7 +54,7 @@ You may find books like *R for everyone* helpful, or an analagous book on python
 Date | Topic | Reading | Due
 ------------ | -------------
 March 30 | Introduction, course structure, etc.
-April 1 | Conceptual and technical overview | [What is Data Science?](https://hdsr.mitpress.mit.edu/pub/jhy4g6eg/release/7?readingCollection=72befc2a)| Online survey (on Canvas); Claim Blog topic
+April 1 | Conceptual and technical overview | [What is Data Science?](https://hdsr.mitpress.mit.edu/pub/jhy4g6eg/release/7?readingCollection=72befc2a)| Online survey (on Canvas); [Claim Blog topic](blog.md)
 ||| [Request an account on the patas cluster](https://cldb.ling.washington.edu/live/accountrequest-form.php)
 April 6 | Basic system/programming concepts 
 April 8 | Command line vs GUIs: What to use when and how | [The IMDB reviews dataset paper](https://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf)
