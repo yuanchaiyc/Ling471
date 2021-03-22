@@ -1,4 +1,6 @@
-## Assignment
+[Home](index.md)
+
+## Blogging Assignment
 This assignment has two parts:
 
 1. Each student will pick ONE "blog options" reading for the whole quarter. By the date that reading is associated with, you will write a 300-500 word post on Canvas (in the "blog" discussion area for that day) summarizing the reading for your classmates. Ideally, these blog posts will convey the main point of the reading, plus a few choice details that you found particularly interesting. You can also add your own perspective, especially if you are skeptical of claims in the reading and/or excited about the findings/ideas therein.
@@ -13,3 +15,5 @@ This assignment has two parts:
 * By the due date, post your blog post to the corresponding Canvas discussion area.
 * Every student not blogging for a particular day should post a reaction on the blogs for that lecture by following lecture, in the Cavnas discussion. These reactions can be comments or questions that engage with the content of the blog post or respond to previously posted comments or questions.
 * Blog posts and discussion comments will be graded on completion, but we are prepared to award extra credit for particularly outstanding blog posts. On the other hand, a particularly sloppy post may only receive 1 point out of 2.
+
+[Home](index.md)
