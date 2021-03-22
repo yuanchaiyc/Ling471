@@ -35,7 +35,7 @@ In this part of the assignment, you will create a GitHub repository for your cod
 
 <img width="1287" alt="Screen Shot 2021-03-22 at 12 04 44 PM" src="https://user-images.githubusercontent.com/10963114/112044524-26fbcc00-8b07-11eb-9dff-05106a9234ba.png">
 
-4. Go to setting and add olzama and FIXME: Yuanhe as "collaborators":
+4. Go to setting and add olzama and FIXME: Yuanhe as "collaborators" (**NB:** this counts as your **submission** for this task):
 
 <img width="1286" alt="Screen Shot 2021-03-22 at 12 22 26 PM" src="https://user-images.githubusercontent.com/10963114/112046453-4a277b00-8b09-11eb-85e9-acecf900369b.png">
 
@@ -69,7 +69,7 @@ In this part of the assignment, you will start learning how to program in python
 
 9. Now click on the "...", find the command "Push", and click it. 
 
-10. Now check that your python file can be found not only in the local copy but also in the remote repository:
+10. Now check that your python file can be found not only in the local copy but also in the remote repository. (NB: This will count as your **submission** for this task.)
 
 <img width="962" alt="Screen Shot 2021-03-22 at 12 31 09 PM" src="https://user-images.githubusercontent.com/10963114/112047449-8ad3c400-8b0a-11eb-83cb-8e620988fad3.png">
 
