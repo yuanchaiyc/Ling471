@@ -13,7 +13,10 @@ In this assignment, you will:
 Submission summary:
 * Part 1: A text file answering questions about the IMDB review dataset.
 * Part 2: Private GitHub repository created; Olga and Yuanhe added as collaborators.
-* Part 3: We believe you that you installed VS Code :). Submission: a file called your-UW-NetID-assignment1.py in your repository
+* Part 3: 
+   * A file called your-UW-NetID-assignment1.py in your repository
+   * A question/comment in the Discussion area for Assignment 1 related to how things are organized in VS Code (note: a question about installation won't count here!)
+   * A question/comment in the Discussion area for Assignment 1 related to Source Control and how to stage, commit, push, and pull changes using e.g. VS Code. (You can use command line if you know how to do it, or some other tool).
 
 ### Part 1: The IMDB review dataset
 We will be using the IMDB review dataset ([Maas et al. 2011](https://www.aclweb.org/anthology/P11-1015.pdf))
@@ -78,5 +81,11 @@ In this part of the assignment, you will start learning how to program in python
 
 <img width="962" alt="Screen Shot 2021-03-22 at 12 31 09 PM" src="https://user-images.githubusercontent.com/10963114/112047449-8ad3c400-8b0a-11eb-83cb-8e620988fad3.png">
 
-
+11. Write something in your README file using the GitHub website. Click on the README file, click on edit, write something, then click on "Commit changes".
 [Home](index.md)
+
+<img width="1096" alt="Screen Shot 2021-03-22 at 12 53 47 PM" src="https://user-images.githubusercontent.com/10963114/112050069-a8eef380-8b0d-11eb-900e-a3af67081026.png">
+
+<img width="816" alt="Screen Shot 2021-03-22 at 12 54 49 PM" src="https://user-images.githubusercontent.com/10963114/112050206-ce7bfd00-8b0d-11eb-8bb1-943a1f182d95.png">
+
+12. Now go to your VS Code, to the Source Control pane, find "Pull" under "..." and pull the changes into your local copy of the repository. Make sure that you now see the updated README!
