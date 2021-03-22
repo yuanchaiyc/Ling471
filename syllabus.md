@@ -27,7 +27,7 @@ The assignments will be roughly biweekly. The goal is to give you some breathing
 I highly recommend the following **algorithm** for the technical assignments:
 
 1. Start on the day assignment is published (or the next day).
-1. Get a feel of how fast you are progressing. Take a note of the first block you are facking. Post about it on the Discussion Board. Then go do something else.
+1. Get a feel of how fast you are progressing. Take a note of the first block you are facing. Post about it on the Discussion Board. Then go do something else.
 1. Come back to it next day. See if you get unblocked. If not, go to the next office hour and see if that helps you get unblocked.
 1. Repeate from step 2.
 
