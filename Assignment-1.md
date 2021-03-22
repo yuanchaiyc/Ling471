@@ -29,7 +29,7 @@ In this part of the assignment, you will create a GitHub repository for your cod
 1. Create an account on https://github.com/
 2. Create a new repository; make it private. Call it whatever you like, but you will use it for this class. The screenshot below shows what creating a repository looks like on GutHub:
 
-<img width="748" alt="Screen Shot 2021-03-22 at 12 00 07 PM" src="https://user-images.githubusercontent.com/10963114/112043730-3595b380-8b06-11eb-96f7-f610fdc68ab2.png">
+<img width="778" alt="Screen Shot 2021-03-22 at 12 34 06 PM" src="https://user-images.githubusercontent.com/10963114/112047781-ed2cc480-8b0a-11eb-85dd-1e793ea642a3.png">
 
 3. After you've created the repository, note its https:// address:
 
