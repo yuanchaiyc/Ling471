@@ -10,6 +10,11 @@ In this assignment, you will:
 * Start learning how to program in python and run and test programs using both the terminal and the VS Code IDE
 * Write your first python program
 
+Submission summary:
+* Part 1: A text file answering questions about the IMDB review dataset.
+* Part 2: Private GitHub repository created; Olga and Yuanhe added as collaborators.
+* Part 3: We believe you that you installed VS Code :). Submission: a file called your-UW-NetID-assignment1.py in your repository
+
 ### Part 1: The IMDB review dataset
 We will be using the IMDB review dataset ([Maas et al. 2011](https://www.aclweb.org/anthology/P11-1015.pdf))
 1. Download the dataset from [here](https://ai.stanford.edu/~amaas/data/sentiment/).
