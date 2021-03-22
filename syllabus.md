@@ -21,6 +21,14 @@ The class is organized around a series of assignments targeting different concep
 
 * By prior arrangements, we mean contacting Olga no later than the day before the homework is due (i.e., Wednesday for homework due Thursday) with the reason you feel you can't complete your homework on time. At that time, Olga will decide whether or not to grant an extension, and for how long.
 
+### Assignments
+The assignments will be roughly biweekly. The goal is to give you some breathing space in between and sufficient time to work on them in a reasonable pace. However, it will be very important for you to remember that **the assignments which are technical in nature may take a long time due to technical issues** (which is very normal, and dealing with it is **one of the main learning goals** in this class). This means, more or less, that if you delay starting the assignment, you are very likely to not finish it by the time it is due. I highly recommend the following algorithm for the technical assignments:
+1. Start on the day assignment is published (or the next day).
+1. Get a feel of how fast you are progressing. Take a note of the first block you are facking. Then go do something else.
+1. Attend the next office hour, bring your blocking issue. Get unblocked.
+1. Repeate from step 2.
+Once you start feeling like you have not been making progress for 20-30 minutes, **stop**. Come back to it later (e.g. next day).
+
 ### Texts
 <details>
   <summary>Click to expand</summary>
@@ -39,7 +47,7 @@ Date | Topic | Reading | Due
 March 30 | Introduction, course structure, etc.
 April 1 | Conceptual and technical overview | [What is Data Science?](https://hdsr.mitpress.mit.edu/pub/jhy4g6eg/release/7?readingCollection=72befc2a)| Online survey (on Canvas)
 April 6 | Basic system/programming concepts 
-April 8 | Command line vs GUIs: What to use when and how | [The IMDB dataset paper](https://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf)
+April 8 | Command line vs GUIs: What to use when and how | [The IMDB reviews dataset paper](https://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf)
 | Version control (git, GitHub) | [Data statements for NLP](https://watermark.silverchair.com/tacl_a_00041.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAn0wggJ5BgkqhkiG9w0BBwagggJqMIICZgIBADCCAl8GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMDw2APtHtVVWN-T_FAgEQgIICMJJiPYGe86AdkkndbKNqCkMo2DXV54WMBqxsCkxZhHFR244ZkPQPLEAzcvk5QOLNmWQ-I_OYdt_t6kUDrF05VafErnhrEa6iJhePeSUggTryv01s2rO3dgopekdHWdvN4gbajwNN4k3heiTu_avCJPkO7xIwG81qf_KWFfwsgOth1F9UFJIhRudTmCQhDHb_PSu5NSjBvzKJL4ab1KNDrqN8BbHUyAq92lnnRUUWhnBCfMcVeW2e8hcBhmUAm40pCdUw32qcVcjC0ldztvwun5x2oPxtuR_PsCmzAsIHuCoTIdYDpMktBDADRtVmHV0Z-xQuPyNoiMPcGhv05LJGlMSDCooFQeS8dV62h-ZhBKFKqTPBo9TtbUoO6ynZNq0tWlLzP1RpVdMdzUnCO2Kv31css4JNd-oHUqghGC_TcLlSb5jesPNUYOEowxQGbMO5T6tEMe-NssBxeawnHrAw4vGXg0gGVn1klLpgMrXs-i_aoui1k-UH4L-nd6dp3687yt3GbS6KHVOA34B6RcgudaLOW50EbYr4pzOU6Y4FGrPyIDfDxwP_OWpKh5WRFQDKQ7fqZhgErcSouLMTFuXP9VXkztp53mj8kas92wF9Ye3AT9Ov1kdv7ofgsq8IscF8e9NTtWsyvESDoybMKtvTtlHHXM4WcACjYfRxQS6wxXrMSvXJM41jpz8GqMjk2vS-vUVIDZaom0OUKUrUv1GcnhIUzZbIIXBjeI6dMyiLQVYQ)
 April 13 | Basic programming | | Assignment 1 
 April 15 | Basic programming | | 
