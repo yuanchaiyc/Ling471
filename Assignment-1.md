@@ -27,7 +27,7 @@ We will be using the IMDB review dataset ([Maas et al. 2011](https://www.aclweb.
 ### Part 2: Your GitHub repository
 In this part of the assignment, you will create a GitHub repository for your code in this class.
 1. Create an account on https://github.com/
-2. Create a new repository; you can make it private or public. Call it whatever you like, but you will use it for this class. 
+2. Create a new repository; you can make it private or public. Call it whatever you like, but you will use it for this class. The screenshot below shows what creating a repository looks like on GutHub:
 
 <img width="748" alt="Screen Shot 2021-03-22 at 12 00 07 PM" src="https://user-images.githubusercontent.com/10963114/112043730-3595b380-8b06-11eb-96f7-f610fdc68ab2.png">
 
