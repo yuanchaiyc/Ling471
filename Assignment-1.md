@@ -27,13 +27,17 @@ We will be using the IMDB review dataset ([Maas et al. 2011](https://www.aclweb.
 ### Part 2: Your GitHub repository
 In this part of the assignment, you will create a GitHub repository for your code in this class.
 1. Create an account on https://github.com/
-2. Create a new repository; you can make it private or public. Call it whatever you like, but you will use it for this class. The screenshot below shows what creating a repository looks like on GutHub:
+2. Create a new repository; make it private. Call it whatever you like, but you will use it for this class. The screenshot below shows what creating a repository looks like on GutHub:
 
 <img width="748" alt="Screen Shot 2021-03-22 at 12 00 07 PM" src="https://user-images.githubusercontent.com/10963114/112043730-3595b380-8b06-11eb-96f7-f610fdc68ab2.png">
 
 3. After you've created the repository, note its https:// address:
 
 <img width="1287" alt="Screen Shot 2021-03-22 at 12 04 44 PM" src="https://user-images.githubusercontent.com/10963114/112044524-26fbcc00-8b07-11eb-9dff-05106a9234ba.png">
+
+4. Go to setting and add olzama and FIXME: Yuanhe as "collaborators":
+
+<img width="1286" alt="Screen Shot 2021-03-22 at 12 22 26 PM" src="https://user-images.githubusercontent.com/10963114/112046453-4a277b00-8b09-11eb-85e9-acecf900369b.png">
 
 
 ### Part 3: Python and Visual Studio Code.
@@ -47,7 +51,27 @@ In this part of the assignment, you will start learning how to program in python
 
 <img width="1368" alt="Screen Shot 2021-03-22 at 12 05 23 PM" src="https://user-images.githubusercontent.com/10963114/112044654-498de500-8b07-11eb-8f61-f4bbd940fd98.png">
 
+4. Locate the local copy of your repository on your computer. (Navigate to the folder which you chose when cloning.) This is what it looks like in my Finder (I use a Mac):
 
+<img width="772" alt="Screen Shot 2021-03-22 at 12 11 28 PM" src="https://user-images.githubusercontent.com/10963114/112045157-c15c0f80-8b07-11eb-9fe0-87c36e404f16.png">
+
+5. Add a python file to your repository. You can do it any way you like, including from within VS Code:
+
+<img width="833" alt="Screen Shot 2021-03-22 at 12 13 59 PM" src="https://user-images.githubusercontent.com/10963114/112045463-1f88f280-8b08-11eb-9a96-edd63c825887.png">
+
+6. Write a program in python which prints a statement, such as "Hello, world!" (or whatever you like).
+
+7. Find the Source Control menu in the left panel. Then find the small icon which is for "staging changes" and click on it. You will then see something like this:
+
+<img width="934" alt="Screen Shot 2021-03-22 at 12 24 10 PM" src="https://user-images.githubusercontent.com/10963114/112046758-ac807b80-8b09-11eb-8f22-787ea6eae364.png">
+
+8. Click on the "check mark"; it means committing the staged changes.
+
+9. Now click on the "...", find the command "Push", and click it. 
+
+10. Now check that your python file can be found not only in the local copy but also in the remote repository:
+
+<img width="962" alt="Screen Shot 2021-03-22 at 12 31 09 PM" src="https://user-images.githubusercontent.com/10963114/112047449-8ad3c400-8b0a-11eb-83cb-8e620988fad3.png">
 
 
 [Home](index.md)
