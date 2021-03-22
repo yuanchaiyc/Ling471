@@ -105,7 +105,10 @@ It is important to be able to connect to a remote server and to be able to copy 
 3. Clone your git repository into your home directory on patas:
 `git clone your-repo-address`
 
-(It will ask you for your GitHub username and password.)
+(It will ask you for your GitHub username and password. There may be some error messages; ignore them. Just make sure you type your password correctly.)
 
 4. Navigate into your repository folder on patas. Execute the python program and observe it printing whatever it prints.
+
+<img width="460" alt="Screen Shot 2021-03-22 at 1 45 46 PM" src="https://user-images.githubusercontent.com/10963114/112056206-fc187480-8b14-11eb-99c6-cbe36e422261.png">
+
 5. Copy your python program to FIXME (the class folder).
