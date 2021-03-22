@@ -20,6 +20,8 @@ Submission summary:
    * A question/comment in the Discussion area for Assignment 1 related to Source Control and how to stage, commit, push, and pull changes using e.g. VS Code. (You can use command line if you know how to do it, or some other tool).
 * Part 4: Your program from Part 3 submitted to the "patas" cluster.
 
+### NB: This assignment may seem very long. But it is mostly a walkthrough! Please post any questions to the Discussion Board on Canvas!
+
 ### Part 1: The IMDB review dataset
 We will be using the IMDB review dataset ([Maas et al. 2011](https://www.aclweb.org/anthology/P11-1015.pdf))
 1. Download the dataset from [here](https://ai.stanford.edu/~amaas/data/sentiment/).
