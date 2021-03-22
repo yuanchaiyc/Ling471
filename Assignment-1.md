@@ -37,15 +37,15 @@ We will be using the IMDB review dataset ([Maas et al. 2011](https://www.aclweb.
 ### Part 2: Your GitHub repository
 In this part of the assignment, you will create a GitHub repository for your code in this class.
 1. Create an account on https://github.com/
-2. Create a new repository; make it private. Call it whatever you like, but you will use it for this class. The screenshot below shows what creating a repository looks like on GutHub:
+1. Create a new repository; make it private. Call it whatever you like, but you will use it for this class. The screenshot below shows what creating a repository looks like on GutHub:
 
 <img width="736" alt="Screen Shot 2021-03-22 at 12 35 41 PM" src="https://user-images.githubusercontent.com/10963114/112048004-34b35080-8b0b-11eb-90e8-12cce9c612dd.png">
 
-3. After you've created the repository, note its https:// address:
+1. After you've created the repository, note its https:// address:
 
 <img width="1287" alt="Screen Shot 2021-03-22 at 12 04 44 PM" src="https://user-images.githubusercontent.com/10963114/112044524-26fbcc00-8b07-11eb-9dff-05106a9234ba.png">
 
-4. Go to setting and add olzama and FIXME: Yuanhe as "collaborators" (**NB:** this counts as your **submission** for this task):
+1. Go to setting and add olzama and FIXME: Yuanhe as "collaborators" (**NB:** this counts as your **submission** for this task):
 
 <img width="1286" alt="Screen Shot 2021-03-22 at 12 22 26 PM" src="https://user-images.githubusercontent.com/10963114/112046453-4a277b00-8b09-11eb-85e9-acecf900369b.png">
 
@@ -53,62 +53,64 @@ In this part of the assignment, you will create a GitHub repository for your cod
 ### Part 3: Python and Visual Studio Code.
 In this part of the assignment, you will start learning how to program in python and how to use an Integrated Development Environment.
 1. Download and install [Visual Studio Code](https://code.visualstudio.com/download), a **free** IDE. Use all the default settings during the installation.
-2. Install support for python by clicking on "Python" here:
+1. Install support for python by clicking on "Python" here:
 
 <img width="1019" alt="python1" src="https://user-images.githubusercontent.com/10963114/112042641-fc107880-8b04-11eb-8fcf-d4d3871df483.png">
 
-3. Now, clone the repository you've created in Part 2 into VS Code. Click on "clone a repository" and then enter the https:// address of your repository. Then choose a folder for the local copy of the repository to go to. It can be any folder on your computer, such as one dedicated to this class.
+1. Now, clone the repository you've created in Part 2 into VS Code. Click on "clone a repository" and then enter the https:// address of your repository. Then choose a folder for the local copy of the repository to go to. It can be any folder on your computer, such as one dedicated to this class.
 
 <img width="1368" alt="Screen Shot 2021-03-22 at 12 05 23 PM" src="https://user-images.githubusercontent.com/10963114/112044654-498de500-8b07-11eb-8f61-f4bbd940fd98.png">
 
-4. Locate the local copy of your repository on your computer. (Navigate to the folder which you chose when cloning.) This is what it looks like in my Finder (I use a Mac):
+1. Locate the local copy of your repository on your computer. (Navigate to the folder which you chose when cloning.) This is what it looks like in my Finder (I use a Mac):
 
 <img width="772" alt="Screen Shot 2021-03-22 at 12 11 28 PM" src="https://user-images.githubusercontent.com/10963114/112045157-c15c0f80-8b07-11eb-9fe0-87c36e404f16.png">
 
-5. Add a python file to your repository. You can do it any way you like, including from within VS Code:
+1. Add a python file to your repository. You can do it any way you like, including from within VS Code:
 
 <img width="833" alt="Screen Shot 2021-03-22 at 12 13 59 PM" src="https://user-images.githubusercontent.com/10963114/112045463-1f88f280-8b08-11eb-9a96-edd63c825887.png">
 
-6. Write a program in python which prints a statement, such as "Hello, world!" (or whatever you like).
+1. Write a program in python which prints a statement, such as "Hello, world!" (or whatever you like).
 
-7. Find the Source Control menu in the left panel. Then find the small icon which is for "staging changes" and click on it. You will then see something like this:
+1. Find the Source Control menu in the left panel. Then find the small icon which is for "staging changes" and click on it. You will then see something like this:
 
 <img width="934" alt="Screen Shot 2021-03-22 at 12 24 10 PM" src="https://user-images.githubusercontent.com/10963114/112046758-ac807b80-8b09-11eb-8f22-787ea6eae364.png">
 
-8. Click on the "check mark"; it means committing the staged changes.
+1. Click on the "check mark"; it means committing the staged changes.
 
-9. Now click on the "...", find the command "Push", and click it. 
+1. Now click on the "...", find the command "Push", and click it. 
 
-10. Now check that your python file can be found not only in the local copy but also in the remote repository. (NB: This will count as your **submission** for this task.)
+1. Now check that your python file can be found not only in the local copy but also in the remote repository. (NB: This will count as your **submission** for this task.)
 
 <img width="962" alt="Screen Shot 2021-03-22 at 12 31 09 PM" src="https://user-images.githubusercontent.com/10963114/112047449-8ad3c400-8b0a-11eb-83cb-8e620988fad3.png">
 
-11. Write something in your README file using the GitHub website. Click on the README file, click on edit, write something, then click on "Commit changes".
+1. Write something in your README file using the GitHub website. Click on the README file, click on edit, write something, then click on "Commit changes".
 [Home](index.md)
 
 <img width="1096" alt="Screen Shot 2021-03-22 at 12 53 47 PM" src="https://user-images.githubusercontent.com/10963114/112050069-a8eef380-8b0d-11eb-900e-a3af67081026.png">
 
 <img width="816" alt="Screen Shot 2021-03-22 at 12 54 49 PM" src="https://user-images.githubusercontent.com/10963114/112050206-ce7bfd00-8b0d-11eb-8bb1-943a1f182d95.png">
 
-12. Now go to your VS Code, to the Source Control pane, find "Pull" under "..." and pull the changes into your local copy of the repository. Make sure that you now see the updated README!
+1. Now go to your VS Code, to the Source Control pane, find "Pull" under "..." and pull the changes into your local copy of the repository. Make sure that you now see the updated README!
 
 ### Part 4: Command line and remote servers
 
 It is important to be able to connect to a remote server and to be able to copy files between that server and your machine. It is also important to be able to run things like python or git via the command line (rather than in an IDE such as VS Code or in a GUI such as github.com).
 
 1. Open a terminal on your Linux/Mac or Windows 10 (if you have an earlier version of Windows, you will need additional instructions, so contact Olga and Yuanhe ahead of time).
-2. Connect to patas cluster (where you should have created an account last week!):
+1. Connect to patas cluster (where you should have created an account last week!):
 `ssh your-NetID@patas.ling.washington.edu`
 
 (It will ask you whether you should add patas to trusted hosts; type yes.)
 
-3. Clone your git repository into your home directory on patas:
+1. Clone your git repository into your home directory on patas:
 `git clone your-repo-address`
 
 (It will ask you for your GitHub username and password. There may be some error messages; ignore them. Just make sure you type your password correctly.)
 
-4. Navigate into your repository folder on patas. Execute the python program and observe it printing whatever it prints.
+1. Navigate into your repository folder on patas. Execute the python program and observe it printing whatever it prints.
 
 <img width="460" alt="Screen Shot 2021-03-22 at 1 45 46 PM" src="https://user-images.githubusercontent.com/10963114/112056206-fc187480-8b14-11eb-99c6-cbe36e422261.png">
 
-5. Copy your python program to FIXME (the class folder).
+1. Copy your python program to FIXME (the class folder).
+
+You are now **DONE** with Assignment 1! Don't forget to submit any files to Canvas. In Assignment 2, you will already be writing programs and running them on the IMDB review data!
