@@ -6,8 +6,8 @@ This assignment has two parts:
 
 
 ### Procedure
-* By Thursday April 1, everyone should claim the reading they are going to be blogging about. Blog options are on Canvas (under FIXME), but you are also welcome to suggest your own reading (even something you have already read!) that is relevant to the topic of one of the lectures.
-* Claim your article by editing the page "Blog assignments" on the course Canvas. (You may change to a different article relevant to the same lecture up to the point that you write your post or switch places by mutual agreement with a classmate, but I want to have an initial schedule in place by April 3, if possible.)
+* By Thursday April 1, everyone should claim the reading they are going to be blogging about. Blog options are on Canvas (under **Pages**), but you are also welcome to suggest your own reading (even something you have already read!) that is relevant to the topic of one of the lectures.
+* Claim your article by editing the page "Blog assignments" on the course Canvas. (You may change to a different article relevant to the same lecture up to the point that you write your post or switch places by mutual agreement with a classmate, but I want to have an initial schedule in place by April 1, if possible.)
 * By class on the day the reading is associated with, post your blog post to the Canvas discussion area for that date.
 * Every student not blogging for a particular day should post a reaction on the blogs for that lecture by following lecture, in the Cavnas discussion. These reactions can be comments or questions that engage with the content of the blog post or respond to previously posted comments or questions.
 * Blog posts and discussion comments will be graded on completion, but we are prepared to award extra credit for particularly outstanding blog posts. On the other hand, a particularly sloppy post may only receive 1 point out of 2.
