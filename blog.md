@@ -6,8 +6,10 @@ This assignment has two parts:
 
 
 ### Procedure
-* By Thursday April 1, everyone should claim the reading they are going to be blogging about. Blog options are on Canvas (under **Pages**), but you are also welcome to suggest your own reading (even something you have already read!) that is relevant to the topic of one of the lectures.
-* Claim your article by editing the page "Blog assignments" on the course Canvas. (You may change to a different article relevant to the same lecture up to the point that you write your post or switch places by mutual agreement with a classmate, but I want to have an initial schedule in place by April 1, if possible.)
-* By class on the day the reading is associated with, post your blog post to the Canvas discussion area for that date.
+* By Thursday April 1, everyone should claim either **the specific reading** they are going to be blogging about or at the very least **the topic** (e.g. Blogs 3, Blogs 5). Blog options are on Canvas (under **Pages**), but you are also welcome to suggest your own reading (even something you have already read!) that is relevant to the topic of one of the lectures.
+* Claim your article (or sign up for a particular week) by editing the page "Blog assignments" on the course Canvas. 
+* If you are picking **Blogs 1**, please **sign up for a specific reading** (rather than just for the week).
+* If you initially signed up for a certain week/topic, please decide on the specific reading at least a week befor the due date. (You may choose your own reading or pick one of the listed ones, even if someone has already "claimed" it.)
+* By the due date, post your blog post to the corresponding Canvas discussion area.
 * Every student not blogging for a particular day should post a reaction on the blogs for that lecture by following lecture, in the Cavnas discussion. These reactions can be comments or questions that engage with the content of the blog post or respond to previously posted comments or questions.
 * Blog posts and discussion comments will be graded on completion, but we are prepared to award extra credit for particularly outstanding blog posts. On the other hand, a particularly sloppy post may only receive 1 point out of 2.
