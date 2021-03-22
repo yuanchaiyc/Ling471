@@ -57,7 +57,7 @@ In this part of the assignment, you will start learning how to program in python
 1. Add a python file to your repository. You can do it any way you like, including from within VS Code:
     <img width="833" alt="Screen Shot 2021-03-22 at 12 13 59 PM" src="https://user-images.githubusercontent.com/10963114/112045463-1f88f280-8b08-11eb-9a96-edd63c825887.png">
 1. Write a program in python which prints a statement, such as "Hello, world!" (or whatever you like).
-1. Find the Source Control menu in the left panel. Then find the small icon which is for "staging changes" and click on it. You will then see something like this:
+1. Find the Source Control menu in the left panel (it's the one with the number "1" in the picture). Then find the small icon which is for "staging changes" and click on it. You will then see something like this:
     <img width="934" alt="Screen Shot 2021-03-22 at 12 24 10 PM" src="https://user-images.githubusercontent.com/10963114/112046758-ac807b80-8b09-11eb-8f22-787ea6eae364.png">
 1. Click on the "check mark"; it means committing the staged changes.
 1. Now click on the "...", find the command "Push", and click it. 
