@@ -5,9 +5,10 @@
 In this assignment, you will:
 
 * Download the data you will be working with in all (or most) of the assignments.
-* Start thinking about language data in data science and machine learning terms
+* Start thinking about language data in data science and machine learning terms.
 * Create and start using a personal repository on GitHub where you will store your code for the class.
-* Start learning how to program in python using the VS Code IDE
+* Start learning how to program in python using the VS Code IDE.
+* Learn how to connect to a remote server and run a python and git there.
 
 
 Submission summary:
@@ -17,6 +18,7 @@ Submission summary:
    * A file called your-UW-NetID-assignment1.py in your repository
    * A question/comment in the Discussion area for Assignment 1 related to how things are organized in VS Code (note: a question about installation won't count here!)
    * A question/comment in the Discussion area for Assignment 1 related to Source Control and how to stage, commit, push, and pull changes using e.g. VS Code. (You can use command line if you know how to do it, or some other tool).
+* Part 4: Your program from Part 3 submitted to the "patas" cluster.
 
 ### Part 1: The IMDB review dataset
 We will be using the IMDB review dataset ([Maas et al. 2011](https://www.aclweb.org/anthology/P11-1015.pdf))
@@ -89,3 +91,21 @@ In this part of the assignment, you will start learning how to program in python
 <img width="816" alt="Screen Shot 2021-03-22 at 12 54 49 PM" src="https://user-images.githubusercontent.com/10963114/112050206-ce7bfd00-8b0d-11eb-8bb1-943a1f182d95.png">
 
 12. Now go to your VS Code, to the Source Control pane, find "Pull" under "..." and pull the changes into your local copy of the repository. Make sure that you now see the updated README!
+
+### Part 4: Command line and remote servers
+
+It is important to be able to connect to a remote server and to be able to copy files between that server and your machine. It is also important to be able to run things like python or git via the command line (rather than in an IDE such as VS Code or in a GUI such as github.com).
+
+1. Open a terminal on your Linux/Mac or Windows 10 (if you have an earlier version of Windows, you will need additional instructions, so contact Olga and Yuanhe ahead of time).
+2. Connect to patas cluster (where you should have created an account last week!):
+`ssh your-NetID@patas.ling.washington.edu`
+
+(It will ask you whether you should add patas to trusted hosts; type yes.)
+
+3. Clone your git repository into your home directory on patas:
+`git clone your-repo-address`
+
+(It will ask you for your GitHub username and password.)
+
+4. Navigate into your repository folder on patas. Execute the python program and observe it printing whatever it prints.
+5. Copy your python program to FIXME (the class folder).
