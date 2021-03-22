@@ -28,6 +28,7 @@ The assignments will be roughly biweekly. The goal is to give you some breathing
 1. Attend the next office hour, bring your blocking issue. Get unblocked.
 1. Repeate from step 2.
 Once you start feeling like you have not been making progress for 20-30 minutes, **stop**. Come back to it later (e.g. next day).
+Having 2 weeks or so for each assignment can mean you can take nice breaks from the class, but that will only work if you start early. When progress feels slow, take frequent but short breaks (e.g. leave the assignment and come back to it next day). When you are almost done and you feel like you understand almost everything and will be able to finish the assignment quickly, then it becomes possible to take a few days break. But not before, or you will not suceed in earning a good grade. 
 
 ### Texts
 <details>
