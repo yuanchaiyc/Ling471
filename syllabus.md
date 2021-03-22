@@ -25,7 +25,7 @@ The class is organized around a series of assignments targeting different concep
 The assignments will be roughly biweekly. The goal is to give you some breathing space in between and sufficient time to work on them in a reasonable pace. However, it will be very important for you to remember that **the assignments which are technical in nature may take a long time due to technical issues** (which is very normal, and dealing with it is **one of the main learning goals** in this class). This means, more or less, that if you delay starting the assignment, you are very likely to not finish it by the time it is due. I highly recommend the following algorithm for the technical assignments:
 1. Start on the day assignment is published (or the next day).
 1. Get a feel of how fast you are progressing. Take a note of the first block you are facking. Then go do something else.
-1. Attend the next office hour, bring your blocking issue. Get unblocked.
+1. Come back to it next day. See if you get unblocked. If not, go to the next office hour and see if that helps you get unblocked.
 1. Repeate from step 2.
 
 Once you start feeling like you have not been making progress for 20-30 minutes, **stop**. Come back to it later (e.g. next day).
