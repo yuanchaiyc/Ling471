@@ -16,7 +16,7 @@ This assignment has two parts:
 * By the due date, post your blog post to the corresponding Canvas discussion area.
 
 ### Comments due date
-* The comments are due within by the next lecture after the blog post was published. Every student not blogging for a particular day should post a reaction on one of the blogs published that day.
+* The comments are due by the next lecture after the blog post was published. Every student not blogging for a particular day should post a reaction on one of the blogs published that day.
 * These reactions can be comments or questions that engage with the content of the blog post or respond to previously posted comments or questions.
 
 ### Assessment
