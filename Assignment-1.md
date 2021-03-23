@@ -52,11 +52,11 @@ In this part of the assignment, you will create a GitHub repository for your cod
 
     <img width="1286" alt="Screen Shot 2021-03-22 at 12 22 26 PM" src="https://user-images.githubusercontent.com/10963114/112046453-4a277b00-8b09-11eb-85e9-acecf900369b.png">
 
-1. Now, install git on your machine. (FIXME: add instructions)
+1. Now, install git on your machine. Click on the "Latest Source Release 2.31.0." button [here](https://git-scm.com/downloads)
 
 ### Part 3: Python and Visual Studio Code.
 In this part of the assignment, you will start learning how to program in python and how to use an Integrated Development Environment.
-1. Download and install python3.7 (FIXME add instructions)
+1. Download and install python (For now, just install the latest version (3.9.2) by clicking the most visible button "Download Python 3.9.2" [here](https://www.python.org/downloads/))
 1. Download and install [Visual Studio Code](https://code.visualstudio.com/download), a **free** IDE. Use all the default settings during the installation.
 1. Install support for python by clicking on "Python" here:
 
