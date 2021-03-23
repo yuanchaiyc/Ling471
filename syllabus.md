@@ -12,19 +12,32 @@ Students will learn about what counts as data in computational linguistics, as w
 </details>
 
 ### Assessment
+<details>
+  <summary>Click to expand</summary>
+
 The class is organized around a series of assignments targeting different concepts and skills but all connected to linguistic data/corpora (TBA). There are no exams. The assignments, on which the students will work individually, put toghether account for 80% of the grade. Additionally, there is a presentation related to the assignments which is worth another 15% (the presentation may be pre-recorded). Additionally, students will [write a blog post](blog.md) reflecting on a reading of their choice and will also post comments to their classmate's posts; this is worth another 5%. Up to 2% (positive) adjustment for participation (such as asking questions during class or on the discussion board, attending office hours etc.).
 
 _Grading scale:_
-95% = 4.0, 94% = 3.9, 93% = 3.8 & so on. (I reserve the right to make this more generous if overall the grades look too low.)
+95% = 4.0, 94% = 3.9, 93% = 3.8 & so on.
+
+</details>
 
 ### Late homework policy
+<details>
+  <summary>Click to expand</summary>
+
 * Homework is due at 11:59pm on the date posted.
 
 * Unless you've made prior arrangements with Olga, homework turned in within one day of the due date will be graded at 80%, two days 70%. credit. No credit after that. This means, for example, that if you submitted a perfectly done assignment even a minute after the deadline, you will receive 80% credit. Please clarify the policy with Olga if unsure.
 
 * By prior arrangements, we mean contacting Olga no later than the day before the homework is due (i.e., Wednesday for homework due Thursday) with the reason you feel you can't complete your homework on time. At that time, Olga will decide whether or not to grant an extension, and for how long.
 
+</details>
+
 ### Assignments
+<details>
+  <summary>Click to expand</summary>
+
 The assignments will be roughly biweekly. The goal is to give you some breathing space in between and sufficient time to work on them in a reasonable pace. However, it will be very important for you to remember that **the assignments which are technical in nature may take a long time due to technical issues** (which is very normal, and dealing with it is **one of the main learning goals** in this class). This means, more or less, that if you delay starting the assignment, you are very likely to not finish it by the time it is due. 
 
 I highly recommend the following **algorithm** for the technical assignments:
@@ -37,6 +50,8 @@ I highly recommend the following **algorithm** for the technical assignments:
 Once you start feeling like you have not been making progress for 20-30 minutes, **stop**. Come back to it later (e.g. next day).
 
 Having 2 weeks or so for each assignment can mean you can take nice breaks from the class, but that will only work if you start early. When progress feels slow, take frequent but short breaks (e.g. leave the assignment and come back to it next day). When you are almost done and you feel like you understand almost everything and will be able to finish the assignment quickly, then it becomes possible to take a few days break. But not before, or you will not succeed in earning a good grade. 
+
+</details>
 
 ### Texts
 <details>
