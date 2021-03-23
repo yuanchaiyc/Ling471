@@ -15,8 +15,8 @@ Students will learn about what counts as data in computational linguistics, as w
 <details>
   <summary>Click to expand</summary>
 
-In this class, we offer you **extended office hours**, because you will face technical issues with which every person needs help, when they come across them the first few times.
-While the usual expectation applies, that you come to the office hours with a **specific issue** and **show your work** (demonstrate that you have made some effort already), remember that there is **no expectation** that your isse needs to be particularly complex or advanced. Most technical issues are simple but can take hours to figure out if you see them for the first time. **Use the extended office hours.**
+In this class, we offer you <b>extended office hours</b>, because you will face technical issues with which every person needs help, when they come across them the first few times.
+While the usual expectation applies, that you come to the office hours with a <b>specific issue</b> and show your work (demonstrate that you have made some effort already), remember that there is <b>no expectation</b> that your isse needs to be particularly complex or advanced. Most technical issues are simple but can take hours to figure out if you see them for the first time. <b>Use the extended office hours.</b>
 </details>
 
 ### Asking questions on the Discussion Boards ###
@@ -34,10 +34,13 @@ The class webiste has [some advice on how to ask technical questions on the Disc
 
 The class is organized around a series of assignments targeting different concepts and skills but all connected to linguistic data/corpora (TBA). There are no exams. The assignments, on which the students will work individually, put toghether account for 80% of the grade. Additionally, there is a presentation related to the assignments which is worth another 15% (the presentation may be pre-recorded). Additionally, students will [write a blog post](blog.md) reflecting on a reading of their choice and will also post comments to their classmate's posts; this is worth another 5%. Up to 2% (positive) adjustment for participation (such as asking questions during class or on the discussion board, attending office hours etc.).
 
+Grading scale:
+
+95% = 4.0, 94% = 3.9, 93% = 3.8 & so on.
+
 </details>
 
-_Grading scale:_
-95% = 4.0, 94% = 3.9, 93% = 3.8 & so on.
+
 
 ### Late homework policy
 <details>
@@ -55,16 +58,16 @@ _Grading scale:_
 <details>
   <summary>Click to expand</summary>
 
-The assignments will be roughly biweekly. The goal is to give you some breathing space in between and sufficient time to work on them in a reasonable pace. However, it will be very important for you to remember that **the assignments which are technical in nature may take a long time due to technical issues** (which is very normal, and dealing with it is **one of the main learning goals** in this class). This means, more or less, that if you delay starting the assignment, you are very likely to not finish it by the time it is due. 
+The assignments will be roughly biweekly. The goal is to give you some breathing space in between and sufficient time to work on them in a reasonable pace. However, it will be very important for you to remember that <b>the assignments which are technical in nature may take a long time due to technical issues</b> (which is very normal, and dealing with it is <b>one of the main learning goals</b> in this class). This means, more or less, that if you delay starting the assignment, you are very likely to not finish it by the time it is due. 
 
-I highly recommend the following **algorithm** for the technical assignments:
+I highly recommend the following <b>algorithm</b> for the technical assignments:
 
 1. Start on the day assignment is published (or the next day).
 1. Get a feel of how fast you are progressing. Take a note of the first block you are facing. [Post about it on the Discussion Board](question-guildelines.md). Then go do something else.
 1. Come back to it next day. See if you get unblocked. If not, go to the next office hour and see if that helps you get unblocked.
 1. Repeat from step 2.
 
-Once you start feeling like you have not been making progress for 20-30 minutes, **stop**. Come back to it later (e.g. next day).
+Once you start feeling like you have not been making progress for 20-30 minutes, <b>stop</b>. Come back to it later (e.g. next day).
 
 Having 2 weeks or so for each assignment can mean you can take nice breaks from the class, but that will only work if you start early. When progress feels slow, take frequent but short breaks (e.g. leave the assignment and come back to it next day). When you are almost done and you feel like you understand almost everything and will be able to finish the assignment quickly, then it becomes possible to take a few days break. But not before, or you will not succeed in earning a good grade. 
 
@@ -76,7 +79,7 @@ Having 2 weeks or so for each assignment can mean you can take nice breaks from 
   
 There are no required textbooks, though there will be some reading, all available online.
 
-Recommended text (for those who have not taken LING200): *Language Files 12*
+Recommended text (for those who have not taken LING200): <i>Language Files 12</i>
 
 You may find a book on python programming for beginners helpful, but in general we will rely on online resources.
 </details>
