@@ -16,7 +16,7 @@ Students will learn about what counts as data in computational linguistics, as w
   <summary>Click to expand</summary>
 
 In this class, we offer you <b>extended office hours</b>, because you will face technical issues with which every person needs help, when they come across them the first few times.
-While the usual expectation applies, that you come to the office hours with a <b>specific issue</b> and show your work (demonstrate that you have made some effort already), remember that there is <b>no expectation</b> that your issue needs to be particularly complex or advanced. Most technical issues are simple but can take hours to figure out if you see them for the first time. <b>Use the extended office hours.</b>
+While the usual expectation applies, that you come to the office hours with a <b>specific issue</b> and show your work (demonstrate that you have made some effort already), remember that there is <b>no expectation</b> that your issue needs to be particularly complex or advanced. Many technical issues are simple but can take hours to figure out if you see them for the first time. <b>Use the extended office hours.</b>
 </details>
 
 ### Asking questions on the Discussion Boards ###
