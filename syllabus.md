@@ -25,8 +25,9 @@ While the usual expectation applies, that you come to the office hours with a <b
 
 There will be a dedicated Discussion Board on Canvas for each assignment, as well as an area for general and other questions. It is important that you ask a lot of questions on the Discussion Boards, and we do mean it. Posting a question on the Discussion Board will allow others to benefit from your question and our answer! Use email for confidential questions such as regarding your grades and personal circumstances, but not for any questions related to assignments or class logistics! Use the Discussion Boards for that!
 
-The class webiste has [some advice on how to ask technical questions on the Discussion Board effectively](question-guidelines.md).
 </details>
+
+[Some advice on how to ask technical questions on the Discussion Board effectively](question-guidelines.md).
 
 ### Assessment
 <details>
