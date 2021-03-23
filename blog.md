@@ -3,7 +3,7 @@
 ## Blogging Assignment (throughout the quarter)
 This assignment has two parts:
 
-1. Each student will pick ONE "blog options" reading for the whole quarter. By the date that blog entry is due, you will write a 300-500 word post on Canvas (in the "blog" discussion area for that day) summarizing the reading for your classmates. Ideally, these blog posts will convey the main point of the reading, plus a few choice details that you found particularly interesting. You can also add your own perspective, especially if you are skeptical of claims in the reading and/or excited about the findings/ideas therein.
+1. Each student will pick ONE "blog option" reading for the whole quarter. By the date that blog entry is due, you will write a 300-500 word post on Canvas (in the "blog" discussion area for that day) summarizing the reading for your classmates. Ideally, these blog posts will convey the main point of the reading, plus a few choice details that you found particularly interesting. You can also add your own perspective, especially if you are skeptical of claims in the reading and/or excited about the findings/ideas therein.
 1. Every student not blogging for a particular day is asked to respond to at least one blog post on that day, with a short but contentful comment. Our hope is that these blog responses will turn into discussions. Discussion comments are due by the following lecture.
 
 
