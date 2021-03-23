@@ -83,7 +83,9 @@ It is important to be able to connect to a remote server and to be able to copy 
     `git clone your-repo-address`
     (It will ask you for your GitHub username and password. There may be some error messages; ignore them. Just make sure you type your password correctly.)
 1. Navigate into your repository folder on patas. Execute the python program and observe it printing whatever it prints.
+
     <img width="460" alt="Screen Shot 2021-03-22 at 1 45 46 PM" src="https://user-images.githubusercontent.com/10963114/112056206-fc187480-8b14-11eb-99c6-cbe36e422261.png">
+
 1. Copy your python program to FIXME (the class folder).
 
 You are now **DONE** with Assignment 1! **Don't forget to submit the file for Part 1 to Canvas**. In Assignment 2, you will already be writing programs and running them on the IMDB review data!
