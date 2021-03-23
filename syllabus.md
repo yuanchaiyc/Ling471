@@ -27,7 +27,7 @@ There will be a dedicated Discussion Board on Canvas for each assignment, as wel
 
 </details>
 
-[Some advice on how to ask technical questions on the Discussion Board effectively](question-guidelines.md).
+[Some advice on how to ask technical questions on the Discussion Board effectively](questions.md).
 
 ### Assessment
 <details>
