@@ -33,9 +33,9 @@ There will be a dedicated Discussion Board on Canvas for each assignment, as wel
 <details>
   <summary>Click to expand</summary>
 
-The class is organized around a series of assignments targeting different concepts and skills but all connected to linguistic data/corpora (TBA). There are no exams. The assignments, on which the students will work individually, put toghether account for 80% of the grade. Additionally, there is a presentation related to the assignments which is worth another 15% (the presentation may be pre-recorded). Additionally, students will write a blog post reflecting on a reading of their choice and will also post comments to their classmate's posts; this is worth another 5%. Up to 2% (positive) adjustment for participation (such as asking questions during class or on the discussion board, attending office hours etc.).
+The class is organized around a series of assignments targeting different concepts and skills but all connected to linguistic data/corpora (TBA). There are no exams. The assignments, on which the students will work individually, put toghether account for 80% of the grade. Additionally, there is a presentation related to the assignments which is worth another 15% (the presentation may be pre-recorded). Additionally, students will write a blog post reflecting on a reading of their choice and will also post comments to their classmate's posts; this is worth another 5%. Up to 2% (positive) adjustment for participation (such as asking questions during class or on the discussion board, attending office hours etc.). <br><br>
 
-Grading scale:
+Grading scale: <br><br>
 
 95% = 4.0, 94% = 3.9, 93% = 3.8 & so on.
 
@@ -56,10 +56,8 @@ Grading scale:
 </details>
 
 ### Assignments
-<details>
-  <summary>Click to expand</summary>
 
-The assignments will be roughly biweekly. The goal is to give you some breathing space in between and sufficient time to work on them in a reasonable pace. However, it will be very important for you to remember that <b>the assignments which are technical in nature may take a long time due to technical issues</b> (which is very normal, and dealing with it is <b>one of the main learning goals</b> in this class). This means, more or less, that if you delay starting the assignment, you are very likely to not finish it by the time it is due. 
+The assignments will be roughly biweekly. The goal is to give you some breathing space in between and sufficient time to work on them in a reasonable pace. However, it will be very important for you to remember that **the assignments which are technical in nature may take a long time due to technical issues** (which is very normal, and dealing with it is **one of the main learning goals** in this class). This means, more or less, that if you delay starting the assignment, you are very likely to not finish it by the time it is due. 
 
 I highly recommend the following <b>algorithm</b> for the technical assignments:
 
@@ -72,15 +70,14 @@ Once you start feeling like you have not been making progress for 20-30 minutes,
 
 Having 2 weeks or so for each assignment can mean you can take nice breaks from the class, but that will only work if you start early. When progress feels slow, take frequent but short breaks (e.g. leave the assignment and come back to it next day). When you are almost done and you feel like you understand almost everything and will be able to finish the assignment quickly, then it becomes possible to take a few days break. But not before, or you will not succeed in earning a good grade. 
 
-</details>
 
 ### Texts
 <details>
   <summary>Click to expand</summary>
   
-There are no required textbooks, though there will be some reading, all available online.
+There are no required textbooks, though there will be some reading, all available online.<br><br>
 
-Recommended text (for those who have not taken LING200): <i>Language Files 12</i>
+Recommended text (for those who have not taken LING200): <i>Language Files 12</i>. <br><br>
 
 You may find a book on python programming for beginners helpful, but in general we will rely on online resources.
 </details>
