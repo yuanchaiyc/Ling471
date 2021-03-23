@@ -1,3 +1,5 @@
+[Home](index.md)
+
 ## Asking questions on the Discussion Board ##
 
 Asking questions on the Discussion Board on Canvas is very important for your success in this class. Here's how to do it best.
@@ -21,3 +23,5 @@ You are trying to run a program which is supposed to print out a sentence, but y
 **We need to know exactly what you are doing** (not just conceptually, but technically: in what environment you are working (terminal or IDE, etc.), which operating system you are using, **which exact action you are performing** (e.g. which exact command you are typing), and **what exact behavior you are observing** (e.g. a complete and specific error message), in order to be able to help.
 
 _It doesn't work_ is frustrating, for sure, but it is **uninformative**!
+
+[Home](index.md)
