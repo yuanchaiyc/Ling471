@@ -23,7 +23,7 @@ Submission summary:
 * Part 4: Your program from Part 3 submitted to the "patas" cluster.
 
 ### NB: This assignment may seem very long. 
-Part 1 is conceptual work, for which the description is short. As for Parts 2--4, they are mostly a walkthrough! The purpose is to give you enough time to become accustomed to a range of tools which are important in computational work. Go through it gradually, one part at a time (and split those between multiple days if needed). Please post any questions to the Discussion Board on Canvas!
+Part 1 is conceptual work, for which the description is short. As for Parts 2--4, they are mostly a walkthrough! The purpose is to give you enough time to become accustomed to a range of tools which are unavoidable in most computational work. Go through it gradually, one part at a time (and split those between multiple days if needed). Post any questions to the Discussion Board on Canvas! Consult the [Asking Questions on the Discussion Board Guidelines](question-guildelines.md)
 
 ### Part 1: The IMDB review dataset
 We will be using the IMDB review dataset ([Maas et al. 2011](https://www.aclweb.org/anthology/P11-1015.pdf))
@@ -50,7 +50,7 @@ In this part of the assignment, you will create a GitHub repository for your cod
 
     <img width="1287" alt="Screen Shot 2021-03-22 at 12 04 44 PM" src="https://user-images.githubusercontent.com/10963114/112044524-26fbcc00-8b07-11eb-9dff-05106a9234ba.png">
 
-1. Go to setting and add olzama and FIXME: Yuanhe as "collaborators" (**NB:** this counts as your **submission** for this task):
+1. Go to setting and add olzama and yuanheTian as "collaborators" (**NB:** this counts as your **submission** for this task):
 
     <img width="1286" alt="Screen Shot 2021-03-22 at 12 22 26 PM" src="https://user-images.githubusercontent.com/10963114/112046453-4a277b00-8b09-11eb-85e9-acecf900369b.png">
 
