@@ -11,6 +11,23 @@ The course Computational Methods for Linguists focuses on learning **how data sc
 Students will learn about what counts as data in computational linguistics, as well as how linguistic theory and questions dictate which computational methods are employed. Similarly, students will learn about ethical and social implications of data uses in linguistics. Students will learn basic programming concepts and how to write a range of programs (specific programming language TBD). They will also learn how to use command-line interface and version control. They will learn a range of techniques for data cleaning, representing data as vectors, thoughtfully choosing a model, loading the data into the model, running the model, and interpreting and visualizing results.
 </details>
 
+### Extended office hours ###
+<details>
+  <summary>Click to expand</summary>
+
+In this class, we offer you **extended office hours**, because you will face technical issues with which every person needs help, when they come across them the first few times.
+While the usual expectation applies, that you come to the office hours with a **specific issue** and **show your work** (demonstrate that you have made some effort already), remember that there is **no expectation** that your isse needs to be particularly complex or advanced. Most technical issues are simple but can take hours to figure out if you see them for the first time. **Use the extended office hours.**
+</details>
+
+### Asking questions on the Discussion Boards ###
+<details>
+  <summary>Click to expand</summary>
+
+There will be a dedicated Discussion Board on Canvas for each assignment, as well as an area for general and other questions. It is important that you ask a lot of questions on the Discussion Boards, and we do mean it. Posting a question on the Discussion Board will allow others to benefit from your question and our answer! Use email for confidential questions such as regarding your grades and personal circumstances, but not for any questions related to assignments or class logistics! Use the Discussion Boards for that!
+
+The class webiste has [some advice on how to ask technical questions on the Discussion Board effectively](question-guidelines.md).
+</details>
+
 ### Assessment
 <details>
   <summary>Click to expand</summary>
@@ -43,9 +60,9 @@ The assignments will be roughly biweekly. The goal is to give you some breathing
 I highly recommend the following **algorithm** for the technical assignments:
 
 1. Start on the day assignment is published (or the next day).
-1. Get a feel of how fast you are progressing. Take a note of the first block you are facing. Post about it on the Discussion Board. Then go do something else.
+1. Get a feel of how fast you are progressing. Take a note of the first block you are facing. [Post about it on the Discussion Board](question-guildelines.md). Then go do something else.
 1. Come back to it next day. See if you get unblocked. If not, go to the next office hour and see if that helps you get unblocked.
-1. Repeate from step 2.
+1. Repeat from step 2.
 
 Once you start feeling like you have not been making progress for 20-30 minutes, **stop**. Come back to it later (e.g. next day).
 
@@ -61,7 +78,7 @@ There are no required textbooks, though there will be some reading, all availabl
 
 Recommended text (for those who have not taken LING200): *Language Files 12*
 
-You may find books like *R for everyone* helpful, or an analagous book on python programming language, but in general we will rely on online resources.
+You may find a book on python programming for beginners helpful, but in general we will rely on online resources.
 </details>
 
 ### Class schedule (subject to change)
