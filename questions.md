@@ -16,4 +16,4 @@ You are trying to run a program which is supposed to print out a sentence, but y
 **Don't**
 * Post something along the lines: "I am trying to run my python program but it doesn't work".
 
-**We need to know exactly what you are doing** (not just conceptually, but technically: in what environment you are working (terminal or IDE, etc.), which operating system you are using, **which exact action you are performing** (e.g. commang), and **what exact behavior you are observing** (e.g. a specific error message), in order to be able to help.
+**We need to know exactly what you are doing** (not just conceptually, but technically: in what environment you are working (terminal or IDE, etc.), which operating system you are using, **which exact action you are performing** (e.g. command), and **what exact behavior you are observing** (e.g. a specific error message), in order to be able to help.
