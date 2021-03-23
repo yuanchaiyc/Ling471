@@ -2,6 +2,8 @@
 
 ## Assignment 1: Preliminaries
 
+### This assignment is under construction. If you are a student in this class, you are advised not to look here, as the assignment may significantly change by the time you will be asked to do it. ###
+
 In this assignment, you will:
 
 * Download the data you will be working with in all (or most) of the assignments.
