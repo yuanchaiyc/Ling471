@@ -92,21 +92,21 @@ April 1 | Conceptual and technical overview | [What is Data Science?](https://hd
 April 6 | Basic system/programming concepts 
 April 8 | Command line vs GUIs: What to use when and how | [The IMDB reviews dataset paper](https://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf)
 | Version control (git, GitHub) | [Data statements for NLP](DataStatementsForNLP.pdf) | Blogs 1
-April 13 | Basic programming | | Assignment 1 
-April 15 | Basic programming | | 
-April 20 | Basic programming || Blogs 2
-April 22 | Basic probability  || 
-April 27 | Basic probability | | Assignment 2 
-April 29 | Basic statistics
-May 4 | Basic statistics || Blogs 3
-May 6 | Basic Machine Learning concepts | | Assignment 3 
-May 11 | Basic Deep Learning concepts
-May 13 | Using pre-trained models || Blogs 4
-May 18 | Working with linguistic corpora 
-May 20 | Working with linguistic corpora | | Assignment 4
-May 25 | Visualization and Communication 
-May 27 | Visualization and Communication || Blogs 5
-June 1 | Presentations
+April 13 | Basic programming | TBA | Assignment 1 
+April 15 | Basic programming | TBA | 
+April 20 | Basic programming | TBA | Blogs 2
+April 22 | Basic probability  | TBA | 
+April 27 | Basic probability | TBA | Assignment 2 
+April 29 | Basic statistics | TBA |
+May 4 | Basic statistics | TBA | Blogs 3
+May 6 | Basic Machine Learning concepts | TBA | Assignment 3 
+May 11 | Basic Deep Learning concepts | TBA |
+May 13 | Using pre-trained models | TBA | Blogs 4
+May 18 | Working with linguistic corpora | TBA | 
+May 20 | Working with linguistic corpora | TBA | Assignment 4
+May 25 | Visualization and Communication | TBA | 
+May 27 | Visualization and Communication | TBA | Blogs 5
+June 1 | Presentations 
 June 3 | Presentations
 June 8 | | | Assignment 5 
 
