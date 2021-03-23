@@ -42,7 +42,6 @@ Grading scale: <br><br>
 </details>
 
 
-
 ### Late homework policy
 <details>
   <summary>Click to expand</summary>
@@ -70,7 +69,14 @@ Once you start feeling like you have not been making progress for 20-30 minutes,
 
 Having 2 weeks or so for each assignment can mean you can take nice breaks from the class, but that will only work if you start early. When progress feels slow, take frequent but short breaks (e.g. leave the assignment and come back to it next day). When you are almost done and you feel like you understand almost everything and will be able to finish the assignment quickly, then it becomes possible to take a few days break. But not before, or you will not succeed in earning a good grade. 
 
+### Readings
+<details>
+    <summary>Click to expand</summary>  
+There will be some assigned readings for most lectures. Some of them will just be blog posts and websites for beginner programmers etc. They are just as good for learning about these things as books ;) Maybe even better. Other readings will include scholarly papers; reading those is more difficult, so, try to identify some specific goals as you read. E.g. "I am reading this to understand what "Data Statements" are and I want to form an opinion about whether they are useful in some particular context." 
+  
+The [blogging assignment](blog.md) readings overlap with the assigned readings but it is not the same set.
 
+</details>
 ### Texts
 <details>
   <summary>Click to expand</summary>
