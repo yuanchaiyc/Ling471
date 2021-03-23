@@ -9,7 +9,7 @@ This assignment has two parts:
 
 ## Procedure
 * By Thursday April 1, everyone should submit their preferences for a reading they are going to be blogging about. Blog options are on Canvas (under **Pages**), but you are also welcome to suggest your own reading (even something you have already read!) that is relevant to the topic of one of the lectures.
-* List your preferences in a text file which you will submit to the [**"Asssignment 0"**](assign0.md) area on Canvas. **Pick at least two options**, in order of preference. Hopefully most people will get their first choice! (Don't forget you can suggest your own stuff!)
+* List your preferences in a text file which you will submit to the [**"Assignment 0"**](assign0.md) area on Canvas. **Pick at least two options**, in order of preference. Hopefully most people will get their first choice! (Don't forget you can suggest your own stuff!)
 ### Blog post due date
 * The blog post due date is listed on the syllabus and on Canvas.
 * By the due date, post your blog post to the corresponding Canvas discussion area.
