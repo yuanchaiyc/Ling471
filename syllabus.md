@@ -43,8 +43,6 @@ Grading scale: <br><br>
 
 
 ### Late homework policy
-<details>
-  <summary>Click to expand</summary>
 
 * Homework is due at 11:59pm on the date posted.
 
@@ -52,7 +50,6 @@ Grading scale: <br><br>
 
 * By prior arrangements, we mean contacting Olga no later than the day before the homework is due (i.e., Wednesday for homework due Thursday) with the reason you feel you can't complete your homework on time. At that time, Olga will decide whether or not to grant an extension, and for how long.
 
-</details>
 
 ### Assignments
 
