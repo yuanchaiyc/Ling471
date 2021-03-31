@@ -2,8 +2,6 @@
 
 ## Assignment 1: Preliminaries
 
-### This assignment is under construction. If you are a student in this class, you are advised not to look here, as the assignment may significantly change by the time you will be asked to do it. ###
-
 In this assignment, you will:
 
 * Download the data you will be working with in all (or most) of the assignments.
@@ -85,7 +83,7 @@ In this part of the assignment, you will start learning how to program in python
 ![VS-code-pic](https://user-images.githubusercontent.com/10963114/113206348-3627fb80-9224-11eb-96ec-f529ddef61c4.JPG)
 
 1. Now click on the "...", find the command "Push", and click it. 
-1. Now check that your python file can be found not only in the local copy but also in the remote repository. (NB: This will count as your **submission** for this task.)
+1. Give it a few minutes, and check that your python file can be found not only in the local copy but also in the remote repository. (NB: This will count as your **submission** for this task.)
  
      <img width="962" alt="Screen Shot 2021-03-22 at 12 31 09 PM" src="https://user-images.githubusercontent.com/10963114/112047449-8ad3c400-8b0a-11eb-83cb-8e620988fad3.png">
 
