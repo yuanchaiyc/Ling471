@@ -15,7 +15,7 @@ Submission summary:
 * Part 1: A text file answering questions about the IMDB review dataset.
 * Part 2: Private GitHub repository created; Olga and Yuanhe added as collaborators.
 * Part 3: 
-   * A file called your-UW-NetID-assignment1.py in your repository
+   * A file **called your-UW-NetID-assignment1.py** in your repository
    * A question/comment in the Discussion area for Assignment 1 related to how things are organized in VS Code (note: a question about installation won't count here!)
    * A question/comment in the Discussion area for Assignment 1 related to Source Control and how to stage, commit, push, and pull changes using e.g. VS Code. (You can use command line if you know how to do it, or some other tool).
 * Part 4: Your program from Part 3 submitted to the "patas" cluster. **It is crucial that the program name has your UW netID in it!!!**
