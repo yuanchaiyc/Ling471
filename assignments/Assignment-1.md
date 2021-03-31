@@ -18,7 +18,7 @@ Submission summary:
    * A file called your-UW-NetID-assignment1.py in your repository
    * A question/comment in the Discussion area for Assignment 1 related to how things are organized in VS Code (note: a question about installation won't count here!)
    * A question/comment in the Discussion area for Assignment 1 related to Source Control and how to stage, commit, push, and pull changes using e.g. VS Code. (You can use command line if you know how to do it, or some other tool).
-* Part 4: Your program from Part 3 submitted to the "patas" cluster.
+* Part 4: Your program from Part 3 submitted to the "patas" cluster. **It is crucial that the program name has your UW netID in it!!!**
 
 ### NB: This assignment may seem very long. 
 Part 1 is conceptual work, for which the description is short. As for Parts 2--4, they are mostly a walkthrough! The purpose is to give you enough time to become accustomed to a range of tools which are unavoidable in most computational work. Go through it gradually, one part at a time (and split those between multiple days if needed). Post any questions to the Discussion Board on Canvas! Consult the [Asking Questions on the Discussion Board Guidelines](question-guildelines.md)
@@ -70,7 +70,7 @@ In this part of the assignment, you will start learning how to program in python
 
     <img width="772" alt="Screen Shot 2021-03-22 at 12 11 28 PM" src="https://user-images.githubusercontent.com/10963114/112045157-c15c0f80-8b07-11eb-9fe0-87c36e404f16.png">
 
-1. Add a python file to your repository. You can do it any way you like, including from within VS Code:
+1. Add a python file to your repository. You can do it any way you like, including from within VS Code. **It is crucial that the file name has your UW netID in it!!!**
 
     <img width="833" alt="Screen Shot 2021-03-22 at 12 13 59 PM" src="https://user-images.githubusercontent.com/10963114/112045463-1f88f280-8b08-11eb-9a96-edd63c825887.png">
 1. Write a program in python which prints a statement, such as "Hello, world!" (or whatever you like).
@@ -83,7 +83,7 @@ In this part of the assignment, you will start learning how to program in python
 ![VS-code-pic](https://user-images.githubusercontent.com/10963114/113206348-3627fb80-9224-11eb-96ec-f529ddef61c4.JPG)
 
 1. Now click on the "...", find the command "Push", and click it. 
-1. Give it a few minutes, and check that your python file can be found not only in the local copy but also in the remote repository. (NB: This will count as your **submission** for this task.)
+1. Give it a few minutes, and check that your python file can be found not only in the local copy but also in the remote repository. (NB: This will count as your **submission** for this task.) **Check once more that the file name has your UW netID in it!!! If not, rename it so it does!**
  
      <img width="962" alt="Screen Shot 2021-03-22 at 12 31 09 PM" src="https://user-images.githubusercontent.com/10963114/112047449-8ad3c400-8b0a-11eb-83cb-8e620988fad3.png">
 
@@ -115,7 +115,7 @@ It is important to be able to connect to a remote server and to be able to copy 
 
     <img width="460" alt="Screen Shot 2021-03-22 at 1 45 46 PM" src="https://user-images.githubusercontent.com/10963114/112056206-fc187480-8b14-11eb-99c6-cbe36e422261.png">
 
-1. Copy your python program to FIXME (the class folder).
+1. Copy your python program to /dropbox/20-21/471 (the class folder). **It is crucial that the file name has your UW netID in it!!! Otherwise you may overwrite other people's homework, plus we won't know the program is yours and you won't get credit.**
 
 You are now **DONE** with Assignment 1! **Don't forget to submit the file for Part 1 to Canvas**. In Assignment 2, you will already be writing programs and running them on the IMDB review data!
 
