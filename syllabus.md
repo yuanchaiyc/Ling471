@@ -92,7 +92,7 @@ You may find a book on python programming for beginners helpful, but in general 
 Date | Topic | Reading | Due
 ------------ | -------------
 March 30 | [Introduction, course structure, etc.](slides/Ling471-0330.pdf)
-April 1 | Conceptual and technical overview | [What is Data Science?](https://hdsr.mitpress.mit.edu/pub/jhy4g6eg/release/7?readingCollection=72befc2a)| Online survey (on Canvas); ["Assignment 0"](assign0.md)
+April 1 | [Conceptual and technical overview](0401.pdf) | [What is Data Science?](https://hdsr.mitpress.mit.edu/pub/jhy4g6eg/release/7?readingCollection=72befc2a)| Online survey (on Canvas); ["Assignment 0"](assign0.md)
 ||| [Request an account on the patas cluster](https://cldb.ling.washington.edu/live/accountrequest-form.php)
 April 6 | Basic system/programming concepts | [Basics of python programming](https://www.openbookproject.net/books/bpp4awd/ch01.html) |
 April 8 | Command line vs GUIs: What to use when and how | [The IMDB reviews dataset paper](https://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf)
