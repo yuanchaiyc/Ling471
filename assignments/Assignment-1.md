@@ -1,4 +1,4 @@
-[Home](index.md)
+[Home](../index.md)
 
 ## Assignment 1: Preliminaries
 
@@ -119,4 +119,4 @@ It is important to be able to connect to a remote server and to be able to copy 
 
 You are now **DONE** with Assignment 1! **Don't forget to submit the file for Part 1 to Canvas**. In Assignment 2, you will already be writing programs and running them on the IMDB review data!
 
-[Home](index.md)
+[Home](../index.md)
