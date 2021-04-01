@@ -23,7 +23,7 @@ Submission summary:
 ### NB: This assignment may seem very long. 
 Part 1 is conceptual work, for which the description is short. As for Parts 2--4, they are mostly a walkthrough! The purpose is to give you enough time to become accustomed to a range of tools which are unavoidable in most computational work. Go through it gradually, one part at a time (and split those between multiple days if needed). Post any questions to the Discussion Board on Canvas! Consult the [Asking Questions on the Discussion Board Guidelines](question-guildelines.md)
 
-### Part 1: The IMDB review dataset (NB: Complete as you do the readings assigned for April 8. You can read them any time.)
+### Part 1: The IMDB review dataset (NB: Complete as you do the readings assigned "for April 8." There is no significance to their being listed in the April 8 cell; you can read them any time,  for example right now.)
 We will be using the IMDB review dataset ([Maas et al. 2011](https://www.aclweb.org/anthology/P11-1015.pdf))
 1. Download the dataset from [here](https://ai.stanford.edu/~amaas/data/sentiment/).
 1. Unpack the dataset by double-clicking on it or by using a utility appropriate for your OS.
