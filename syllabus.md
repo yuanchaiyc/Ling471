@@ -97,7 +97,7 @@ April 1 | Conceptual and technical overview | [What is Data Science?](https://hd
 April 6 | Basic system/programming concepts | [Basics of python programming](https://www.openbookproject.net/books/bpp4awd/ch01.html) |
 April 8 | Command line vs GUIs: What to use when and how | [The IMDB reviews dataset paper](https://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf)
 | Version control (git, GitHub) | [Data statements for NLP](DataStatementsForNLP.pdf) | Blogs 1
-April 13 | Basic programming | TBA | Assignment 1 
+April 13 | Basic programming | TBA | [Assignment 1](assignments/Assignment-1.md) 
 April 15 | Basic programming | TBA | 
 April 20 | Basic programming | TBA | Blogs 2
 April 22 | Basic probability  | TBA | 
