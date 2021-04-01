@@ -91,13 +91,13 @@ You may find a book on python programming for beginners helpful, but in general 
 
 Date | Topic | Reading | Due
 ------------ | -------------
-March 30 | Introduction, course structure, etc.
+March 30 | [Introduction, course structure, etc.](slides/Ling471-0330.pdf)
 April 1 | Conceptual and technical overview | [What is Data Science?](https://hdsr.mitpress.mit.edu/pub/jhy4g6eg/release/7?readingCollection=72befc2a)| Online survey (on Canvas); ["Assignment 0"](assign0.md)
 ||| [Request an account on the patas cluster](https://cldb.ling.washington.edu/live/accountrequest-form.php)
 April 6 | Basic system/programming concepts | [Basics of python programming](https://www.openbookproject.net/books/bpp4awd/ch01.html) |
 April 8 | Command line vs GUIs: What to use when and how | [The IMDB reviews dataset paper](https://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf)
 | Version control (git, GitHub) | [Data statements for NLP](DataStatementsForNLP.pdf) | Blogs 1
-April 13 | Basic programming | TBA | Assignment 1 
+April 13 | Basic programming | TBA | [Assignment 1](assignments/Assignment-1.md) 
 April 15 | Basic programming | TBA | 
 April 20 | Basic programming | TBA | Blogs 2
 April 22 | Basic probability  | TBA | 
