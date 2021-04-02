@@ -29,7 +29,7 @@ Part 1 is conceptual work, for which the description is short. As for Parts 2--4
 
 We will be using the IMDB review dataset ([Maas et al. 2011](https://www.aclweb.org/anthology/P11-1015.pdf))
 1. Download the dataset from [here](https://ai.stanford.edu/~amaas/data/sentiment/). 
-3. On **Linux/Mac**: Unpack the dataset by double-clicking on it or by using a utility appropriate for your OS. For **Linux/Mac**, proceed to next step. The rest of this step's instructions are for **Windows**. They involve using command line; we will learn about command line on April 8.
+1. On **Linux/Mac**: Unpack the dataset by double-clicking on it or by using a utility appropriate for your OS. For **Linux/Mac**, proceed to next step. The rest of this step's instructions are for **Windows**. They involve using command line; we will learn about command line on April 8.
 
 If you use **Windows**, you will need to use the **cmd** unitity as follows:
 
@@ -46,15 +46,15 @@ Now, the contents should have been extracted from the archive and you can see th
 <img width="1113" alt="Screen Shot 2021-04-02 at 12 15 12 PM" src="https://user-images.githubusercontent.com/10963114/113446695-31428380-93ad-11eb-8af2-03afb41651f3.png">
 
 
-5. Read the README file which comes with the dataset.
-6. In a text file, answer the following questions about the dataset:
+1. Read the README file which comes with the dataset.
+1. In a text file, answer the following questions about the dataset:
    1. How many movie reviews does it contain?
    1. How is the dataset divided? (Here, talk about how many reivews are in each folder and what does each folder represent, in your own words. Do not copy the text from the README file)
    1. **Why** is it divided in this way? (Make sure to give a thoughtful answer here, at least a paragraph! You may not yet know everything about this, but answer the best you can, based on what you learned in the first couple weeks of class.) (**NB: Complete closer to the due date!**)
    1. Why is a citation to the ACL paper by Maas et al. included in the README file and in the dataset description on the website? (**What is the relationship of the paper and of the dataset?** Thoughtful, paragraph-length answer here.)
    1.  Why is there a reference to Potts's paper?
    1. Would you say this README file qualifies as a "data statement" (see [Bender and Friedman]() paper which was assigned earlier). If yes, point to the specific portions of the file and map them to corresponding definitions from Bender and Friedman's paper. If no, explain what a data statement could look like for such a dataset or why the concept does not apply here. You can of course argue against data statements here if you like! It is up to you; what counts is the depth and quality of argument. (**NB: Complete closer to the due date!**)
-7. Submit your text file **to Canvas**, in the appropriate area associated with Assignment 1.
+1. Submit your text file **to Canvas**, in the appropriate area associated with Assignment 1.
 
 ### Part 2: Git and Your GitHub repository (NB: Complete what you can now and the rest after April 8.)
 In this part of the assignment, you will create a GitHub repository for your code in this class.
