@@ -25,7 +25,7 @@ Part 1 is conceptual work, for which the description is short. As for Parts 2--4
 
 ### Part 1: The IMDB review dataset (NB: Complete as you do the readings assigned "for April 8." There is no significance to their being listed in the April 8 cell; you can read them any time,  for example right now.)
 We will be using the IMDB review dataset ([Maas et al. 2011](https://www.aclweb.org/anthology/P11-1015.pdf))
-1. Download the dataset from [here](https://ai.stanford.edu/~amaas/data/sentiment/).
+1. If you use **Linux/Mac**, download the dataset from [here](https://ai.stanford.edu/~amaas/data/sentiment/). If you use **Windows**, download it from Canvas-->Files, but still follow the [link](https://ai.stanford.edu/~amaas/data/sentiment/) and read what's there. The dataset is an **archived folder**; you need special software to extract the contents. Windows does not have that software by default, but it can do .zip.
 1. Unpack the dataset by double-clicking on it or by using a utility appropriate for your OS.
 1. Read the README file which comes with the dataset.
 1. In a text file, answer the following questions about the dataset:
