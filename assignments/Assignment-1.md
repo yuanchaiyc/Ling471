@@ -45,7 +45,6 @@ Now, the contents should have been extracted from the archive and you can see th
 
 <img width="1113" alt="Screen Shot 2021-04-02 at 12 15 12 PM" src="https://user-images.githubusercontent.com/10963114/113446695-31428380-93ad-11eb-8af2-03afb41651f3.png">
 
-
 1. Read the README file which comes with the dataset.
 1. In a text file, answer the following questions about the dataset:
    1. How many movie reviews does it contain?
