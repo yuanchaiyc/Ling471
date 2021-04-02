@@ -37,7 +37,7 @@ Type "cmd" to open the command prompt app. We will learn about it on April 8 but
 
 <img width="831" alt="Screen Shot 2021-04-02 at 12 09 36 PM" src="https://user-images.githubusercontent.com/10963114/113446305-61d5ed80-93ac-11eb-86fb-d37cc28e6ee4.png">
 
-Then type the following **three commands** in the prompt: (1) **cd** followed by the path to where you downloaded the archive, to navigate to the folder where the archive is. You will use your user name instead of Olga's, of course; (2) **dir** to list the current directory, to make sure you did end up in the right place. Check that the archive is listed; (3) **tar -xf** followed by the name of the archive, to extract the contents. (As you type, try jitting "tab" to autocomplete existing paths. For example, start typing your username and then just hit tab. Then similarly with the rest of the path):
+Then type the following **three commands** in the prompt: (1) **cd** followed by the path to where you downloaded the archive, to navigate to the folder where the archive is. You will use your user name instead of Olga's, of course, and whichever foled the archive is in (most likely Downloads; I moved it from Downloads first); (2) **dir** to list the current directory, to make sure you did end up in the right place. Check that the archive is listed; (3) **tar -xf** followed by the name of the archive, to extract the contents. (As you type, try jitting "tab" to autocomplete existing paths. For example, start typing your username and then just hit tab. Then similarly with the rest of the path):
 
 <img width="558" alt="Screen Shot 2021-04-02 at 12 08 41 PM" src="https://user-images.githubusercontent.com/10963114/113446200-318e4f00-93ac-11eb-9e3d-fc479a6194e2.png">
 
