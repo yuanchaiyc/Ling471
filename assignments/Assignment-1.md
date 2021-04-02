@@ -23,7 +23,7 @@ Submission summary:
 ### NB: This assignment may seem very long. 
 Part 1 is conceptual work, for which the description is short. As for Parts 2--4, they are mostly a walkthrough! The purpose is to give you enough time to become accustomed to a range of tools which are unavoidable in most computational work. Go through it gradually, one part at a time (and split those between multiple days if needed). Post any questions to the Discussion Board on Canvas! Consult the [Asking Questions on the Discussion Board Guidelines](question-guildelines.md)
 
-### Part 1: The IMDB review dataset** 
+### Part 1: The IMDB review dataset
 
 (**NB:** Complete as you do the readings assigned "for April 8." There is no significance to their being listed in the April 8 cell; you can read them any time,  for example right now. **Windows users:** you may be a bit confused by the archiving format issue and the need to use command line. These things will become clearer after next week, but I give you a full walkthrough here, so you can try to do it now. Or you can delay till April 8, I suppose, provided you finish some other parts of the assignment now.)
 
@@ -37,7 +37,7 @@ Type "cmd" to open the command prompt app. We will learn about it on April 8 but
 
 <img width="831" alt="Screen Shot 2021-04-02 at 12 09 36 PM" src="https://user-images.githubusercontent.com/10963114/113446305-61d5ed80-93ac-11eb-86fb-d37cc28e6ee4.png">
 
-Then type the following things in the prompt, using your user name instead of Olga's, and the name of the folder where you downloaded the archive (as you type, try jitting "tab" to autocomplete existing paths. For example, start typing your username and then just hit tab. Then similarly with the rest of the path):
+Then type the following **three commands** in the prompt: (1) **cd** followed by the path to where you downloaded the archive, to navigate to the folder where the archive is. You will use your user name instead of Olga's, of course; (2) **dir** to list the current directory, to make sure you did end up in the right place. Check that the archive is listed; (3) **tar -xf** followed by the name of the archive, to extract the contents. (As you type, try jitting "tab" to autocomplete existing paths. For example, start typing your username and then just hit tab. Then similarly with the rest of the path):
 
 <img width="558" alt="Screen Shot 2021-04-02 at 12 08 41 PM" src="https://user-images.githubusercontent.com/10963114/113446200-318e4f00-93ac-11eb-9e3d-fc479a6194e2.png">
 
