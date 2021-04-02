@@ -25,26 +25,12 @@ The purpose is to give you enough time to become accustomed to a range of tools 
 
 ### Part 1: The IMDB review dataset
 
-(**NB:** Complete as you do the readings assigned "for April 8." There is no significance to their being listed in the April 8 cell; you can read them any time,  for example right now. **Windows users:** you may be a bit confused by the archiving format issue and the need to use command line. These things will become clearer after next week, but I give you a full walkthrough here, so you can try to do it now. Or you can delay till April 8, I suppose, provided you finish some other parts of the assignment now.)
+(**NB:** Complete as you do the readings assigned "for April 8." There is no significance to their being listed in the April 8 cell; you can read them any time,  for example right now.)
 
 We will be using the IMDB review dataset ([Maas et al. 2011](https://www.aclweb.org/anthology/P11-1015.pdf))
 1. Download the dataset from [here](https://ai.stanford.edu/~amaas/data/sentiment/). 
-1. On **Linux/Mac**: Unpack the dataset by double-clicking on it or by using a utility appropriate for your OS. For **Linux/Mac**, proceed to next step. The rest of this step's instructions are for **Windows**. They involve using command line; we will learn about command line on April 8.
-
-If you use **Windows**, you will need to use the **cmd** unitity as follows:
-
-Type "cmd" to open the command prompt app. We will learn about it on April 8 but you can perfectly try to do it now using this walkthrough:
-
-<img width="831" alt="Screen Shot 2021-04-02 at 12 09 36 PM" src="https://user-images.githubusercontent.com/10963114/113446305-61d5ed80-93ac-11eb-86fb-d37cc28e6ee4.png">
-
-Then type the following **three commands** in the prompt: (1) **cd** followed by the path to where you downloaded the archive, to navigate to the folder where the archive is. You will use your user name instead of Olga's, of course, and whichever foled the archive is in (most likely Downloads; I moved it from Downloads first); (2) **dir** to list the current directory, to make sure you did end up in the right place. Check that the archive is listed; (3) **tar -xf** followed by the name of the archive, to extract the contents. (As you type, try jitting "tab" to autocomplete existing paths. For example, start typing your username and then just hit tab. Then similarly with the rest of the path):
-
-<img width="558" alt="Screen Shot 2021-04-02 at 12 08 41 PM" src="https://user-images.githubusercontent.com/10963114/113446200-318e4f00-93ac-11eb-9e3d-fc479a6194e2.png">
-
-Now, the contents should have been extracted from the archive and you can see them in the folder where you downloaded the archive:
-
-<img width="1113" alt="Screen Shot 2021-04-02 at 12 15 12 PM" src="https://user-images.githubusercontent.com/10963114/113446695-31428380-93ad-11eb-8af2-03afb41651f3.png">
-
+1. On **Linux/Mac**: Unpack the dataset by double-clicking on it or by using a utility appropriate for your OS. For **Windows**, download it from Canvas-->Files, but still follow the [link](https://ai.stanford.edu/~amaas/data/sentiment/) and read what's there. The dataset is an **archived folder**; you need special software to extract the contents. Windows does not have that software by default, but it can do .zip.
+1. Unpack the dataset by double-clicking on it or by using a utility appropriate for your OS.
 1. Read the README file which comes with the dataset.
 1. In a text file, answer the following questions about the dataset:
    1. How many movie reviews does it contain?
