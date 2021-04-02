@@ -21,7 +21,7 @@ Submission summary:
 * Part 4: Your program from Part 3 submitted to the "patas" cluster. **It is crucial that the program name has your UW netID in it!!!**
 
 ### NB: This assignment may seem very long. 
-Part 1 is conceptual work, for which the description is short. As for Parts 2--4, they are mostly a walkthrough! The purpose is to give you enough time to become accustomed to a range of tools which are unavoidable in most computational work. Go through it gradually, one part at a time (and split those between multiple days if needed). Post any questions to the Discussion Board on Canvas! Consult the [Asking Questions on the Discussion Board Guidelines](question-guildelines.md)
+The purpose is to give you enough time to become accustomed to a range of tools which are unavoidable in most computational work. Go through it gradually, one part at a time (and split those between multiple days if needed). Post any questions to the Discussion Board on Canvas! Consult the [Asking Questions on the Discussion Board Guidelines](question-guildelines.md)
 
 ### Part 1: The IMDB review dataset
 
