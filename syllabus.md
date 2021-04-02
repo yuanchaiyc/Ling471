@@ -97,9 +97,9 @@ April 1 | [Conceptual overview. Data science](slides/0401.pdf) | [What is Data S
 April 6 | Basic system/programming concepts | [Basics of python programming](https://www.openbookproject.net/books/bpp4awd/ch01.html) |
 April 8 | Command line vs GUIs: What to use when and how | [The IMDB reviews dataset paper](https://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf)
 | Version control (git, GitHub) | [Data statements for NLP](DataStatementsForNLP.pdf) | Blogs 1
-April 13 | Basic programming | [1. Numbers, strings, lists;](https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator) [2. Sets;](https://docs.python.org/3/tutorial/datastructures.html#sets) [3. Control flow;](https://docs.python.org/3/tutorial/controlflow.html) [4. Loops](https://www.dataquest.io/blog/python-for-loop-tutorial/)| [Assignment 1](assignments/Assignment-1.md) 
-April 15 | Basic programming | TBA | 
-April 20 | Basic programming | TBA | Blogs 2
+April 13 | Basic data structures and control flow | [1. Numbers, strings, lists;](https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator) [2. Sets;](https://docs.python.org/3/tutorial/datastructures.html#sets) [3. Control flow;](https://docs.python.org/3/tutorial/controlflow.html) [4. Loops](https://www.dataquest.io/blog/python-for-loop-tutorial/)| [Assignment 1](assignments/Assignment-1.md) 
+April 15 | Data structures and basic algorithms. Complexity | TBA | 
+April 20 | Text processing | TBA | Blogs 2
 April 22 | Basic probability  | TBA | 
 April 27 | Basic probability | TBA | Assignment 2 
 April 29 | Basic statistics | TBA |
