@@ -23,10 +23,15 @@ Submission summary:
 ### NB: This assignment may seem very long. 
 Part 1 is conceptual work, for which the description is short. As for Parts 2--4, they are mostly a walkthrough! The purpose is to give you enough time to become accustomed to a range of tools which are unavoidable in most computational work. Go through it gradually, one part at a time (and split those between multiple days if needed). Post any questions to the Discussion Board on Canvas! Consult the [Asking Questions on the Discussion Board Guidelines](question-guildelines.md)
 
-### Part 1: The IMDB review dataset (NB: Complete as you do the readings assigned "for April 8." There is no significance to their being listed in the April 8 cell; you can read them any time,  for example right now. Windows users: you may be a bit confused by the archiving format issue and the need to use command line. These things will become clearer after next week, but I give you a full walkthrough here, so you can try to do it now.)
+### Part 1: The IMDB review dataset** 
+
+(**NB:** Complete as you do the readings assigned "for April 8." There is no significance to their being listed in the April 8 cell; you can read them any time,  for example right now. **Windows users:** you may be a bit confused by the archiving format issue and the need to use command line. These things will become clearer after next week, but I give you a full walkthrough here, so you can try to do it now. Or you can delay till April 8, I suppose, provided you finish some other parts of the assignment now.)
+
 We will be using the IMDB review dataset ([Maas et al. 2011](https://www.aclweb.org/anthology/P11-1015.pdf))
 1. Download the dataset from [here](https://ai.stanford.edu/~amaas/data/sentiment/). 
-3. Unpack the dataset by double-clicking on it or by using a utility appropriate for your OS. If you use **Windows**, you will need to use the **cmd** unitity as follows:
+3. On **Linux/Mac**: Unpack the dataset by double-clicking on it or by using a utility appropriate for your OS. For **Linux/Mac**, proceed to next step. The rest of this step's instructions are for **Windows**. They involve using command line; we will learn about command line on April 8.
+
+If you use **Windows**, you will need to use the **cmd** unitity as follows:
 
 Type "cmd" to open the command prompt app. We will learn about it on April 8 but you can perfectly try to do it now using this walkthrough:
 
