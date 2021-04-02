@@ -29,7 +29,7 @@ The purpose is to give you enough time to become accustomed to a range of tools 
 
 We will be using the IMDB review dataset ([Maas et al. 2011](https://www.aclweb.org/anthology/P11-1015.pdf))
 1. Download the dataset from [here](https://ai.stanford.edu/~amaas/data/sentiment/). 
-1. On **Linux/Mac**: Unpack the dataset by double-clicking on it or by using a utility appropriate for your OS. For **Windows**, download it from Canvas-->Files, but still follow the [link](https://ai.stanford.edu/~amaas/data/sentiment/) and read what's there. The dataset is an **archived folder**; you need special software to extract the contents. Windows does not have that software by default, but it can do .zip.
+1. On **Linux/Mac**: Unpack the dataset by double-clicking on it or by using a utility appropriate for your OS. For **Windows**, download it from Canvas-->Files, but still follow the [link](https://ai.stanford.edu/~amaas/data/sentiment/) and read what's there. The dataset is an **archived folder** of the TAR.GZ type; you need special software to extract the contents. Windows does not have that software by default, but it can do .zip, so I created a ZIP version for you and uploaded it to Canvas.
 1. Unpack the dataset by double-clicking on it or by using a utility appropriate for your OS.
 1. Read the README file which comes with the dataset.
 1. In a text file, answer the following questions about the dataset:
