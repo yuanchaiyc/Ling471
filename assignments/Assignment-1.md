@@ -34,7 +34,7 @@ We will be using the IMDB review dataset ([Maas et al. 2011](https://www.aclweb.
 1. Read the README file which comes with the dataset.
 1. In a text file, answer the following questions about the dataset:
    1. How many movie reviews does it contain?
-   1. How is the dataset divided? (Here, talk about how many reivews are in each folder and what does each folder represent, in your own words. Do not copy the text from the README file)
+   1. How is the dataset divided? (Here, talk about how many reivews are in each folder and what each folder represents, in your own words. Do not copy the text from the README file)
    1. **Why** is it divided in this way? (Make sure to give a thoughtful answer here, at least a paragraph! You may not yet know everything about this, but answer the best you can, based on what you learned in the first couple weeks of class.) (**NB: Complete closer to the due date!**)
    1. Why is a citation to the ACL paper by Maas et al. included in the README file and in the dataset description on the website? (**What is the relationship of the paper and of the dataset?** Thoughtful, paragraph-length answer here.)
    1.  Why is there a reference to Potts's paper?
