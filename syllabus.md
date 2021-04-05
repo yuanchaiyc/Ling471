@@ -100,7 +100,7 @@ April 8 | Command line vs GUIs: What to use when and how | [The IMDB reviews dat
 April 13 | Basic data structures and control flow | [1. Numbers, strings, lists;](https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator) [2. Sets;](https://docs.python.org/3/tutorial/datastructures.html#sets) [3. Control flow;](https://docs.python.org/3/tutorial/controlflow.html) [4. Loops](https://www.dataquest.io/blog/python-for-loop-tutorial/)| [Assignment 1](assignments/Assignment-1.md) 
 April 15 | Data structures and basic algorithms. Complexity | TBA | 
 April 20 | Text processing | TBA | Blogs 2
-April 22 | Basic probability  | TBA | 
+April 22 | Evaluation and error analysis. Metrics  | [Precision and recall](https://medium.com/@shrutisaxena0617/precision-vs-recall-386cf9f89488)  | 
 April 27 | Basic probability | TBA | Assignment 2 
 April 29 | Basic statistics | TBA |
 May 4 | Basic statistics | TBA | Blogs 3
