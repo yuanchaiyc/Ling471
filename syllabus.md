@@ -95,12 +95,12 @@ March 30 | [Introduction, course structure, etc.](slides/Ling471-0330.pdf)
 April 1 | [Conceptual overview. Data science](slides/0401.pdf) | [What is Data Science?](https://hdsr.mitpress.mit.edu/pub/jhy4g6eg/release/7?readingCollection=72befc2a)| Online survey (on Canvas); ["Assignment 0"](assign0.md)
 ||| [Request an account on the patas cluster](https://cldb.ling.washington.edu/live/accountrequest-form.php)
 April 6 | Basic system/programming concepts | [Basics of python programming](https://www.openbookproject.net/books/bpp4awd/ch01.html) |
-April 8 | Command line vs GUIs: What to use when and how | [The IMDB reviews dataset paper](https://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf)
-| Version control (git, GitHub) | [Data statements for NLP](DataStatementsForNLP.pdf) | Blogs 1
-April 13 | Basic data structures and control flow | [1. Numbers, strings, lists;](https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator) [2. Sets;](https://docs.python.org/3/tutorial/datastructures.html#sets) [3. Control flow;](https://docs.python.org/3/tutorial/controlflow.html) [4. Loops](https://www.dataquest.io/blog/python-for-loop-tutorial/)| [Assignment 1](assignments/Assignment-1.md) 
-April 15 | Data structures and basic algorithms. Complexity | TBA | 
-April 20 | Text processing | TBA | Blogs 2
-April 22 | Basic probability  | TBA | 
+April 8 | Command line vs GUIs: What to use when and how | [1. The IMDB reviews dataset paper](https://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf)
+| Version control (git, GitHub) | [2. Data statements for NLP; ](DataStatementsForNLP.pdf) [3. Version control (ignore the R-studio stuff)](https://ourcodingclub.github.io/tutorials/git/) | Blogs 1
+April 13 | Basic data structures and control flow |[0. Assignment and statements (2.1--2.13);](https://www.openbookproject.net/books/bpp4awd/ch02.html) [1. Numbers, strings, lists (3.1);](https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator) [2. Dicts and Sets (6.1--6.4);](https://www.openbookproject.net/books/bpp4awd/ch06.html) [3. Control flow (4.1--4.5);](https://docs.python.org/3/tutorial/controlflow.html) [4. Loops;](https://www.dataquest.io/blog/python-for-loop-tutorial/) [5. Input and output;](https://docs.python.org/3/tutorial/inputoutput.html) [6. Logical operators; ](https://www.tutorialspoint.com/discrete_mathematics/discrete_mathematics_propositional_logic.htm)[7. De Morgan's laws](https://blog.penjee.com/what-is-demorgans-law-in-programming-answered-with-pics/)| [Assignment 1](assignments/Assignment-1.md) 
+April 15 | Data structures and basic algorithms. Complexity | [0. Big-O Analysis: 2.2--2.4;](http://www.openbookproject.net/books/pythonds/AlgorithmAnalysis/toctree.html) [1. Searching and hashing 5.2--5.5](http://www.openbookproject.net/books/pythonds/SortSearch/toctree.html) | 
+April 20 | Text processing | [0. Regular expressions;](https://docs.python.org/3/howto/regex.html) [1. Tokenization;](https://www.analyticsvidhya.com/blog/2019/07/how-get-started-nlp-6-unique-ways-perform-tokenization/) [2. Unicode](https://docs.python.org/3/howto/unicode.html) | Blogs 2
+April 22 | Evaluation and error analysis. Metrics  | [Precision and recall](https://medium.com/@shrutisaxena0617/precision-vs-recall-386cf9f89488)  | 
 April 27 | Basic probability | TBA | Assignment 2 
 April 29 | Basic statistics | TBA |
 May 4 | Basic statistics | TBA | Blogs 3

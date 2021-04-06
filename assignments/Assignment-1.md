@@ -21,7 +21,7 @@ Submission summary:
 * Part 4: Your program from Part 3 submitted to the "patas" cluster. **It is crucial that the program name has your UW netID in it!!!**
 
 ### NB: This assignment may seem very long. 
-The purpose is to give you enough time to become accustomed to a range of tools which are unavoidable in most computational work. Go through it gradually, one part at a time (and split those between multiple days if needed). Post any questions to the Discussion Board on Canvas! Consult the [Asking Questions on the Discussion Board Guidelines](question-guildelines.md)
+The purpose is to give you enough time to become accustomed to a range of tools which are unavoidable in most computational work. Go through it gradually, one part at a time (and split those between multiple days if needed). Post any questions to the Discussion Board on Canvas! Consult the [Asking Questions on the Discussion Board Guidelines](../questions.md)
 
 ### Part 1: The IMDB review dataset
 
@@ -29,16 +29,16 @@ The purpose is to give you enough time to become accustomed to a range of tools 
 
 We will be using the IMDB review dataset ([Maas et al. 2011](https://www.aclweb.org/anthology/P11-1015.pdf))
 1. Download the dataset from [here](https://ai.stanford.edu/~amaas/data/sentiment/). 
-1. On **Linux/Mac**: Unpack the dataset by double-clicking on it or by using a utility appropriate for your OS. For **Windows**, download it from Canvas-->Files, but still follow the [link](https://ai.stanford.edu/~amaas/data/sentiment/) and read what's there. The dataset is an **archived folder**; you need special software to extract the contents. Windows does not have that software by default, but it can do .zip.
+1. On **Linux/Mac**: Unpack the dataset by double-clicking on it or by using a utility appropriate for your OS. For **Windows**, download it from Canvas-->Files, but still follow the [link](https://ai.stanford.edu/~amaas/data/sentiment/) and read what's there. The dataset is an **archived folder** of the TAR.GZ type; you need special software to extract the contents. Windows does not have that software by default, but it can do .zip, so I created a ZIP version for you and uploaded it to Canvas.
 1. Unpack the dataset by double-clicking on it or by using a utility appropriate for your OS.
 1. Read the README file which comes with the dataset.
 1. In a text file, answer the following questions about the dataset:
    1. How many movie reviews does it contain?
-   1. How is the dataset divided? (Here, talk about how many reivews are in each folder and what does each folder represent, in your own words. Do not copy the text from the README file)
+   1. How is the dataset divided? (Here, talk about how many reivews are in each folder and what each folder represents, in your own words. Do not copy the text from the README file)
    1. **Why** is it divided in this way? (Make sure to give a thoughtful answer here, at least a paragraph! You may not yet know everything about this, but answer the best you can, based on what you learned in the first couple weeks of class.) (**NB: Complete closer to the due date!**)
    1. Why is a citation to the ACL paper by Maas et al. included in the README file and in the dataset description on the website? (**What is the relationship of the paper and of the dataset?** Thoughtful, paragraph-length answer here.)
    1.  Why is there a reference to Potts's paper?
-   1. Would you say this README file qualifies as a "data statement" (see [Bender and Friedman]() paper which was assigned earlier). If yes, point to the specific portions of the file and map them to corresponding definitions from Bender and Friedman's paper. If no, explain what a data statement could look like for such a dataset or why the concept does not apply here. You can of course argue against data statements here if you like! It is up to you; what counts is the depth and quality of argument. (**NB: Complete closer to the due date!**)
+   1. Would you say this README file qualifies as a "data statement" (see [Bender and Friedman](../DataStatementsForNLP.pdf) paper which was assigned earlier). If yes, point to the specific portions of the file and map them to corresponding definitions from Bender and Friedman's paper. If no, explain what a data statement could look like for such a dataset or why the concept does not apply here. You can of course argue against data statements here if you like! It is up to you; what counts is the depth and quality of argument. 
 1. Submit your text file **to Canvas**, in the appropriate area associated with Assignment 1.
 
 ### Part 2: Git and Your GitHub repository (NB: Complete what you can now and the rest after April 8.)
@@ -91,7 +91,7 @@ In this part of the assignment, you will start learning how to program in python
  
      <img width="962" alt="Screen Shot 2021-03-22 at 12 31 09 PM" src="https://user-images.githubusercontent.com/10963114/112047449-8ad3c400-8b0a-11eb-83cb-8e620988fad3.png">
 
-1. Write something in your README file using the GitHub website. Click on the README file, click on edit, write something, then click on "Commit changes".
+1. Write YOUR FULL NAME in your README file using the GitHub website. Click on the README file, click on edit, write something, then click on "Commit changes".
 
     <img width="1096" alt="Screen Shot 2021-03-22 at 12 53 47 PM" src="https://user-images.githubusercontent.com/10963114/112050069-a8eef380-8b0d-11eb-900e-a3af67081026.png">
     <img width="816" alt="Screen Shot 2021-03-22 at 12 54 49 PM" src="https://user-images.githubusercontent.com/10963114/112050206-ce7bfd00-8b0d-11eb-8bb1-943a1f182d95.png">
