@@ -16,7 +16,7 @@ Specifically and technically, you will practice:
 ### Important note about grading.
 The grading for this assignment will mostly be done automatically. For this reason, it is crucial that you do exactly what the assignment is asking you and not something else,
 even if something else is better. There are always better ways of doing things, especially in programming. In this assignment, we are learning how to do some of the basic things
-following instructions, such that everyone arrives at the exact same result. 
+following instructions, such that everyone arrives at the exact same result. As an example, using regular expressions to clean punctuation is not necessarily the best way of doing it, and we will talk about it when we talk about algorithm complexity. Still, regular expressions are important to learn about, so please use them for this task.
 
 ### Part 1: 
 1. Download the [program skeleton](assignment2_skeleton.py). There, we already named the functions for you and indicated in comments what you kind of statements you should write. We also included some of the statements already, to get you started.
