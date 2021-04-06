@@ -19,7 +19,7 @@ even if something else is better. There are always better ways of doing things, 
 following instructions, such that everyone arrives at the exact same result. As an example, using regular expressions to clean punctuation is not necessarily the best way of doing it, and we will talk about it when we talk about algorithm complexity. Still, regular expressions are important to learn about, so please use them for this task.
 
 ### Part 1: 
-1. Download the [program skeleton](assignment2_skeleton.py). There, we already named the functions for you and indicated in comments what you kind of statements you should write. We also included some of the statements already, to get you started.
+1. Fork the repository we created for your Assignment 2 (review the slide about forking in the lecture about git). Open that folder in VS Code There, we already named the functions for you and indicated in comments what you kind of statements you should write. We also included some of the statements already, to get you started.
 2. Make sure you can debug the program. Review the slides/lecture recording on debugging in VS code. Set the break point at the first line of the main function, run the program, and make sure you see the program state.
 3. Fill in the program, gradually. Read the comments; they contain instructions and hints. Ask questions on the Discussion board. Revisit the lectures/readings on the relevant topics. After adding a statement, set the breakpoint on it and make sure the statement is doing what you intended, by stepping over it. You need there to be a next statement for the debugger to stop, and most your functions have return statements which can serve this purpose if nothing else is added.
 [Home](../index.md)
