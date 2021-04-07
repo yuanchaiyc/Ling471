@@ -29,7 +29,7 @@ Then click on your user, and a copy repository will be created under your accoun
 <img width="449" alt="Screen Shot 2021-04-07 at 1 45 45 PM" src="https://user-images.githubusercontent.com/10963114/113931765-b5c74480-97a7-11eb-8920-65479e6b3eb6.png">
 
 2. Clone your forked copy to your local machine in VS Code (like you did in Assignment 1).
-3. Make sure you see both assignment2_skeleton.py.
+3. Make sure you see assignment2_skeleton.py in your VS Code project.
 4. Figure out where exactly the following review from the IMDB dataset is located on your machine: aclImdb/train/pos/1_7.txt (on Windows, the slashes will be backslashes). You need the full path. For example, on my machine the full path happens to be: `/Users/olzama/Teaching/Ling471/datasets/IMDB/aclImdb/train/pos/1_7.txt`. On your machine, it will be something different. (Hint: Try using command line terminal to navigate to the file using a series of `cd` commands and then type `pwd`. That will give you a full path which you can then copy.)
 5. Create a Running Configuration. You will see a file called launch.json. Inspect launch.json. Add a variable called "args", as in the screenshot: 
 
