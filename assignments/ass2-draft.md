@@ -68,7 +68,7 @@ following instructions, such that everyone arrives at the exact same result. As 
          Stepping over a function will allow you to immediately see what it returned but not to step through its execution.
     
 ### Part 2 (complete during the second week):
-1. Duplicate the skeleton file and **RENAME**it: YourUW-NETID-assignment2.py. Add it to the repository. Now you will be working in this file. The skeleton should stay as is for reference. You may want to start over, or what not. Remember you always have the repository as the back up, to go back in time if needed.
+1. Duplicate the skeleton file and **RENAME** it: YourUWNetID_assignment2.py (note the **underscore**; not a dash!). Add it to the repository. Now you will be working in this file. The skeleton should stay as is for reference. You may want to start over, or what not. Remember you always have the repository as the back up, to go back in time if needed.
 1. Fill in the program, gradually. Read the comments; they contain instructions and hints. Ask questions on the Discussion board. Revisit the lectures/readings on the relevant topics. After adding a statement, set the breakpoint on it and make sure the statement is doing what you intended, by stepping over it and examining the change in the program state. You need there to be a next statement for the debugger to stop, and most your functions have return statements which can serve this purpose if nothing else is added. 
 
 After you are done, your program should output "POSITIVE" for review 1_7.txt. Feel free to commit to your forked repository frequently, e.g. every time you make progress. That will help you revert to the last working state if you get confused.
