@@ -32,7 +32,7 @@ following instructions, such that everyone arrives at the exact same result. As 
 
     <img width="452" alt="Screen Shot 2021-04-07 at 1 45 36 PM" src="https://user-images.githubusercontent.com/10963114/113931734-acd67300-97a7-11eb-954c-8c209281f5f1.png">
 
-Then click on your user, and a copy repository will be created under your account (NB: `erg` is a name of a repository; I cannot fork my own repository so I had to choose another one to make the screenshot):
+    Then click on your user, and a copy repository will be created under your account (NB: `erg` is a name of a repository; I cannot fork my own repository so I had to choose another one to make the screenshot):
 
    <img width="449" alt="Screen Shot 2021-04-07 at 1 45 45 PM" src="https://user-images.githubusercontent.com/10963114/113937338-ddb9a680-97ad-11eb-82ce-45feac9d5617.png">
 
@@ -52,20 +52,20 @@ Then click on your user, and a copy repository will be created under your accoun
 
         ![Screen Shot 2021-04-07 at 1 07 19 PM](https://user-images.githubusercontent.com/10963114/113928440-ab0ab080-97a3-11eb-8200-856351def8ad.JPG)
     
-    -- you should see the following output:
+        -- you should see the following output:
     
-    `The prediction for file /Users/olzama/Teaching/Ling471/datasets/IMDB/aclImdb/train/pos/1_7.txt is NONE`
+        `The prediction for file /Users/olzama/Teaching/Ling471/datasets/IMDB/aclImdb/train/pos/1_7.txt is NONE`
   
     2. Set the breakpoint at the first line of the main function, start running the program in debug mode, and make sure the debugger stops and you see the program state on the left (in the debugger console/pane):
 
         ![Screen Shot 2021-04-07 at 1 19 45 PM](https://user-images.githubusercontent.com/10963114/113928868-36844180-97a4-11eb-9478-4ef5fe1c77ed.JPG)
 
-    Step through the program to understand exactly what it is doing and why it outputs NONE in the end. Use the debug controls and examine program state at every step.
+        Step through the program to understand exactly what it is doing and why it outputs NONE in the end. Use the debug controls and examine program state at every step.
     
-      ![Screen Shot 2021-04-07 at 1 22 57 PM](https://user-images.githubusercontent.com/10963114/113936910-4f452500-97ad-11eb-81b9-aee5387db5a1.JPG)
+        ![Screen Shot 2021-04-07 at 1 22 57 PM](https://user-images.githubusercontent.com/10963114/113936910-4f452500-97ad-11eb-81b9-aee5387db5a1.JPG)
 
-     You will be isung the Step Over control to go from statement to statement within the same function. Use Step Into control to jump into a function instead of stepping over it.
-     Stepping over a function will allow you to immediately see what it returned but not to step through its execution.
+         You will be isung the Step Over control to go from statement to statement within the same function. Use Step Into control to jump into a function instead of stepping over it.
+         Stepping over a function will allow you to immediately see what it returned but not to step through its execution.
     
 ### Part 2 (complete during the second week):
 1. Duplicate the skeleton file and **RENAME**it: YourUW-NETID-assignment2.py. Add it to the repository. Now you will be working in this file. The skeleton should stay as is for reference. You may want to start over, or what not. Remember you always have the repository as the back up, to go back in time if needed.
