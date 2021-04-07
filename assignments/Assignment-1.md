@@ -65,7 +65,10 @@ In this part of the assignment, you will start learning how to program in python
 1. Install support for python by clicking on "Python" here:
 
     <img width="1019" alt="python1" src="https://user-images.githubusercontent.com/10963114/112042641-fc107880-8b04-11eb-8fcf-d4d3871df483.png">
-1. Configure git for VS Code following [these steps](https://www.jcchouinard.com/install-git-in-vscode/). In particular, open the terminal (cmd on Windows) and run the two commands as indicated in the steps, with your GitHub user name and email.
+1. Configure git for VS Code following [these steps](https://www.jcchouinard.com/install-git-in-vscode/). In particular, open the terminal (cmd on Windows; type `cmd` in the search field to the right of the Start button) and run the two commands as indicated in the steps, with your GitHub user name and email, for example:
+
+<img width="691" alt="Screen Shot 2021-04-07 at 11 29 22 AM" src="https://user-images.githubusercontent.com/10963114/113918455-4fd2c100-9797-11eb-83f1-60898d9ab77b.png">
+
 1. Now, clone the repository you've created in Part 2 into VS Code. Click on "clone a repository" and then enter the https:// address of your repository. Then choose a folder for the local copy of the repository to go to. It can be any folder on your computer, such as one dedicated to this class. 
 
     <img width="1368" alt="Screen Shot 2021-03-22 at 12 05 23 PM" src="https://user-images.githubusercontent.com/10963114/112044654-498de500-8b07-11eb-8f61-f4bbd940fd98.png">
