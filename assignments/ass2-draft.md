@@ -21,12 +21,16 @@ following instructions, such that everyone arrives at the exact same result. As 
 
 ### Part 1 (recommended to complete during the first week): 
 1. Fork the repository we created for your Assignment 2 (review the slide about forking in the lecture about git). 
-2. Open that folder in VS Code.
-3. Make sure you see both assignment2.py and launch.json in VS Code.
-4. Figure out where exactly the following review from the IMDB dataset is located on your machine: aclImdb/train/pos/1_7.txt (on Windows, the slashes will be backslashes). You need the full path. For example, on my machine the full path happens to be: `/Users/olzama/Teaching/Ling471/datasets/IMDB/aclImdb/train/pos/1_7.txt`. On your machine, it will be something different. (Hint: Try using command line terminal to navigate to the file using a series of `cd` commands and then type `pwd`. That will give you a full path which you can then copy.)
-5. Inspect launch.json. In "args", it will have a path from Olga's home machine. You don't have that path on your machine. You need to point it to the correct path you found in the previous step! 
-6. Now inspect assignment2_skeleton.py. There, we already named the functions for you and indicated in comments what kind of statements you should write. We also included some of the statements already, to get you started.
-7. Make sure you can run and debug the program. Review the slides/lecture recording on debugging in VS code. 
+1. Clone your forked copy to your local machine in VS Code (like you did in Assignment 1).
+1. Make sure you see both assignment2_skeleton.py.
+1. Figure out where exactly the following review from the IMDB dataset is located on your machine: aclImdb/train/pos/1_7.txt (on Windows, the slashes will be backslashes). You need the full path. For example, on my machine the full path happens to be: `/Users/olzama/Teaching/Ling471/datasets/IMDB/aclImdb/train/pos/1_7.txt`. On your machine, it will be something different. (Hint: Try using command line terminal to navigate to the file using a series of `cd` commands and then type `pwd`. That will give you a full path which you can then copy.)
+1. Create a Running Configuration. You will see a file called launch.json. Inspect launch.json. Add a variable called "args", as in the screenshot: 
+
+    <img width="902" alt="Screen Shot 2021-04-07 at 1 41 11 PM" src="https://user-images.githubusercontent.com/10963114/113931102-f1154380-97a6-11eb-8d01-7d234fcc3309.png">
+
+1. In the above screenshot, the "args" is a path from Olga's home machine. You need to point it to your path, which you found in the previous step! 
+1. Now inspect assignment2_skeleton.py. There, we already named the functions for you and indicated in comments what kind of statements you should write. We also included some of the statements already, to get you started.
+1. Make sure you can run and debug the program. Review the slides/lecture recording on debugging in VS code. 
     1. If you run your debug configuration, which will be available  in the debug console:
 
     ![Screen Shot 2021-04-07 at 1 07 19 PM](https://user-images.githubusercontent.com/10963114/113928440-ab0ab080-97a3-11eb-8200-856351def8ad.JPG)
