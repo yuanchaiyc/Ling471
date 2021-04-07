@@ -14,9 +14,9 @@ Specifically and technically, you will practice:
 6. Computing and reporting the accuracy of your rudimentary sentiment analysis system
 
 ### Important note about grading.
-The grading for this assignment will mostly be done automatically. For this reason, it is crucial that you do exactly what the assignment is asking you and not something else,
+The preliminary assessment for this assignment will be done automatically. For this reason, it is crucial that you do exactly what the assignment is asking you and not something else,
 even if something else is better. There are always better ways of doing things, especially in programming. In this assignment, we are learning how to do some of the basic things
-following instructions, such that everyone arrives at the exact same result. As an example, using regular expressions to clean punctuation is not necessarily the best way of doing it, and we will talk about it when we talk about algorithm complexity. Still, regular expressions are important to learn about, so please use them for this task.
+following instructions, such that everyone arrives at the exact same result. As an example, using regular expressions to clean punctuation is not necessarily the best way of doing it, and we will talk about it when we talk about algorithm complexity. Still, regular expressions are important to learn about, so please use them for this task. We will want everyone to get the exact same results rather that the best results.
 
 ### Part 1: 
 1. Fork the repository we created for your Assignment 2 (review the slide about forking in the lecture about git). 
