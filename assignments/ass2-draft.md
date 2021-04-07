@@ -36,7 +36,7 @@ Then click on your user, and a copy repository will be created under your accoun
 
    <img width="449" alt="Screen Shot 2021-04-07 at 1 45 45 PM" src="https://user-images.githubusercontent.com/10963114/113937338-ddb9a680-97ad-11eb-82ce-45feac9d5617.png">
 
-    You have now created your own private copy of the repository. Don't worry, you won't be able to mess up the original repository; it is protected from that.
+   You have now created your own private copy of the repository. Don't worry, you won't be able to mess up the original repository; it is protected from that.
 
 2. Clone your forked private copy to your local machine in VS Code (like you did in Assignment 1).
 3. Make sure you see assignment2_skeleton.py in your VS Code project.
