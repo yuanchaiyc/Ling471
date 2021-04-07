@@ -56,7 +56,7 @@ Then click on your user, and a copy repository will be created under your accoun
     
     `The prediction for file /Users/olzama/Teaching/Ling471/datasets/IMDB/aclImdb/train/pos/1_7.txt is NONE`
   
-    2. Set the break point at the first line of the main function, start running the program in debug mode, and make sure the debugger stops and you see the program state on the left (in the debugger console/pane):
+    2. Set the breakpoint at the first line of the main function, start running the program in debug mode, and make sure the debugger stops and you see the program state on the left (in the debugger console/pane):
 
         ![Screen Shot 2021-04-07 at 1 19 45 PM](https://user-images.githubusercontent.com/10963114/113928868-36844180-97a4-11eb-9478-4ef5fe1c77ed.JPG)
 
