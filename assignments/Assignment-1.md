@@ -58,14 +58,14 @@ In this part of the assignment, you will create a GitHub repository for your cod
 
 1. Now, install git on your machine. Click on the "Latest Source Release 2.31.0." button [here](https://git-scm.com/downloads) 
 
-### Part 3: Python and Visual Studio Code. (NB: Complete what you can now. You should be able to do everything after April 6.)
+### Part 3: Python and Visual Studio Code. (NB: Complete what you can now. You should be able to do everything after April 8.)
 In this part of the assignment, you will start learning how to program in python and how to use an Integrated Development Environment.
 1. Download and install python (For now, just install the latest version (3.9.2) by clicking the most visible button "Download Python 3.9.2" [here](https://www.python.org/downloads/))
 1. Download and install [Visual Studio Code](https://code.visualstudio.com/download), a **free** IDE. Use all the default settings during the installation.
 1. Install support for python by clicking on "Python" here:
 
     <img width="1019" alt="python1" src="https://user-images.githubusercontent.com/10963114/112042641-fc107880-8b04-11eb-8fcf-d4d3871df483.png">
-
+1. Configure git for VS Code following [these steps](https://www.jcchouinard.com/install-git-in-vscode/). In particular, open the terminal (cmd on Windows) and run the two commands as indicated in the steps, with your GitHub user name and email.
 1. Now, clone the repository you've created in Part 2 into VS Code. Click on "clone a repository" and then enter the https:// address of your repository. Then choose a folder for the local copy of the repository to go to. It can be any folder on your computer, such as one dedicated to this class. 
 
     <img width="1368" alt="Screen Shot 2021-03-22 at 12 05 23 PM" src="https://user-images.githubusercontent.com/10963114/112044654-498de500-8b07-11eb-8f61-f4bbd940fd98.png">
