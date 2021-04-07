@@ -16,7 +16,9 @@ Specifically and technically, you will practice:
 In the next assignment, you will assess how well this system works and will compare it with something more sophisticated.
 
 ### Submission summary
-1. The link to your submission commit (the submission is on GitHub in your private repository; the link goes to Canvas for the time stamp.)
+There is only one deliverable:
+
+1. The link to your submission commit (the submission is on GitHub; the link to the specific commit associated with your final submission goes to Canvas for the time stamp.)
 
 Details: The below details are also part of the instructions below. Here's a summary related to submission: You will **get** the homework from a repository that we created (by forking it). You won't be able to push anything to it; instead, forking will create your own **private** copy of the repository. It is convenient for you to work in that private repository and to save your work in progress there. You do not need to add us as collaborators there. Once you are done, you will **add your complete python program, renamed appropriately, to the repository you created for this class in Assignment 1**. There, Yuanhe and Olga are collaborators and they will be able to download your submission and test it. Otherwise, that repository is private and noone else will see it. Even if you do make it public, anything related to grading will be done via Canvas. GitHub is just to store the code. 
 
