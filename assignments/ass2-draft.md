@@ -75,12 +75,12 @@ following instructions, such that everyone arrives at the exact same result. As 
 
 2. After you are done: **Add** the file YourUWNetID_assignment2.py **to the repository which you created in Assignment 1** (the one for which you added Olga and Yuanhe as collaborators).  **Commit** with a message: "Assignment 2 submission", and **push**. give it a few minutes, go to Github, and make sure the file is there. **Note the commit number**. Click on the commit number and copy the URL path in the browser.
  
-    ![Screen Shot 2021-04-07 at 2 23 22 PM](https://user-images.githubusercontent.com/10963114/113936852-3f2d4580-97ad-11eb-8cc8-7d024a3b5227.JPG)
- 
+    ![Screen Shot 2021-04-07 at 2 13 43 PM](https://user-images.githubusercontent.com/10963114/113936426-9848a980-97ac-11eb-9fd8-19370cbfa420.JPG) 
 
 3.    **Submit the commit number and the link to Canvas as a text file**.
 
-   ![Screen Shot 2021-04-07 at 2 13 43 PM](https://user-images.githubusercontent.com/10963114/113936426-9848a980-97ac-11eb-9fd8-19370cbfa420.JPG)
+   ![Screen Shot 2021-04-07 at 2 23 22 PM](https://user-images.githubusercontent.com/10963114/113936852-3f2d4580-97ad-11eb-8cc8-7d024a3b5227.JPG)
+
 
 
 [Home](../index.md)
