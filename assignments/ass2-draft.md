@@ -11,7 +11,7 @@ Specifically and technically, you will practice:
 3. Removing punctuation from text using regular expressions.
 4. Tokenizing text into words.
 5. Counting words in a text.
-6. Making a (simplistic) prediction about whether a file represents a positive or a negative review and comparing it to the actual label.
+6. Making a (simplistic) prediction about whether a file represents a positive or a negative review.
 
 In the next assignment, you will assess how well this system works and will compare it with something more sophisticated.
 
