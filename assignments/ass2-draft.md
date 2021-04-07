@@ -14,6 +14,11 @@ Specifically and technically, you will practice:
 
 In the next assignment, you will assess how well this system works and will compare it with something more sophisticated.
 
+### Submission summary
+1. YourUWNetID_assignment2.py **to Canvas**
+2. YourUWNetID_reflection.txt **to Canvas**
+
+
 ### Important note about grading.
 The preliminary assessment for this assignment will be done automatically. For this reason, it is crucial that you do exactly what the assignment is asking you and not something else,
 even if something else is better. There are always better ways of doing things, especially in programming. In this assignment, we are learning how to do some of the basic things
@@ -59,8 +64,12 @@ Then click on your user, and a copy repository will be created under your accoun
      Stepping over a function will allow you to immediately see what it returned but not to step through its execution.
     
 ### Part 2 (complete during the second week):
-Fill in the program, gradually. Read the comments; they contain instructions and hints. Ask questions on the Discussion board. Revisit the lectures/readings on the relevant topics. After adding a statement, set the breakpoint on it and make sure the statement is doing what you intended, by stepping over it and examining the change in the program state. You need there to be a next statement for the debugger to stop, and most your functions have return statements which can serve this purpose if nothing else is added.
+1. Fill in the program, gradually. Read the comments; they contain instructions and hints. Ask questions on the Discussion board. Revisit the lectures/readings on the relevant topics. After adding a statement, set the breakpoint on it and make sure the statement is doing what you intended, by stepping over it and examining the change in the program state. You need there to be a next statement for the debugger to stop, and most your functions have return statements which can serve this purpose if nothing else is added.
 
-After you are done, your program should output "POSITIVE" for review 1_7.txt.
+After you are done, your program should output "POSITIVE" for review 1_7.txt. Feel free to commit to your forked repository frequently, e.g. every time you make progress. That will help you revert to the last working state if you get confused.
+
+2. After you are done, **RENAME** the file: YourUW-NETID-assignment2.py. Add it to the repository which you created in Assignment 1 (the one for which you added Olga and Yuanhe as collaborators). Commit with a message: "Assignment 2 submission", and push. give it a few minutes, go to Github, and make sure the file is there. **Note the commit number**. **Submit the commit number to Canvas as a text file**.
+
+3. **Reflection**: You wrote a program which outputs a prediction (positive, negative, or none), given a text file. You also know that the particular file that you worked with comes from a folder in the dataset called "pos". So, you know that review was labeled as "positive". So, your system made a correct prediction with respect to this file. If you run your system on more files from the dataset and recorded how many correct predictions you made, would you be able to say that you performed an evaluation of your system? Why or why not? (NB: This question can be approached differently. Start from thinking about the degree to which your system relies or doesn't rely on something it learned from the 1_7.txt file.) **Submit a text file to Canvas** where you discuss this question in a paragraph.  
 
 [Home](../index.md)
