@@ -22,7 +22,7 @@ following instructions, such that everyone arrives at the exact same result. As 
 1. Fork the repository we created for your Assignment 2 (review the slide about forking in the lecture about git). 
 2. Open that folder in VS Code.
 3. Make sure you see both assignment2.py and launch.json in VS Code.
-4. Figure out where exactly the following review is located on your machine: aclImdb/train/pos/1_7.txt (on Windows, the slashes will be backslashes). You need the full path.
+4. Figure out where exactly the following review from the IMDB dataset is located on your machine: aclImdb/train/pos/1_7.txt (on Windows, the slashes will be backslashes). You need the full path.
 5. Inspect launch.json. In "args", it will have a path from Olga's home machine. You don't have that path on your machine. You need to point it to the correct path you found in the previous step! 
 6. Now inspect assignment2_skeleton.py. There, we already named the functions for you and indicated in comments what you kind of statements you should write. We also included some of the statements already, to get you started.
 7. Make sure you can debug the program. Review the slides/lecture recording on debugging in VS code. Set the break point at the first line of the main function, run the program, and make sure you see the program state.
