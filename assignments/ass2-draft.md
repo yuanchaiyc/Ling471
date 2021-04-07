@@ -20,7 +20,12 @@ even if something else is better. There are always better ways of doing things, 
 following instructions, such that everyone arrives at the exact same result. As an example, using regular expressions to clean punctuation is not necessarily the best way of doing it, and we will talk about it when we talk about algorithm complexity. Still, regular expressions are important to learn about, so please use them for this task. We will want everyone to get the exact same results rather that the best results.
 
 ### Part 1 (recommended to complete during the first week): 
-1. Fork the repository we created for your Assignment 2 (review the slide about forking in the lecture about git). 
+1. Fork the repository we created for your Assignment 2 (review the slide about forking in the lecture about git, if needed).
+
+<img width="452" alt="Screen Shot 2021-04-07 at 1 45 36 PM" src="https://user-images.githubusercontent.com/10963114/113931734-acd67300-97a7-11eb-954c-8c209281f5f1.png">
+
+<img width="449" alt="Screen Shot 2021-04-07 at 1 45 45 PM" src="https://user-images.githubusercontent.com/10963114/113931765-b5c74480-97a7-11eb-8920-65479e6b3eb6.png">
+
 1. Clone your forked copy to your local machine in VS Code (like you did in Assignment 1).
 1. Make sure you see both assignment2_skeleton.py.
 1. Figure out where exactly the following review from the IMDB dataset is located on your machine: aclImdb/train/pos/1_7.txt (on Windows, the slashes will be backslashes). You need the full path. For example, on my machine the full path happens to be: `/Users/olzama/Teaching/Ling471/datasets/IMDB/aclImdb/train/pos/1_7.txt`. On your machine, it will be something different. (Hint: Try using command line terminal to navigate to the file using a series of `cd` commands and then type `pwd`. That will give you a full path which you can then copy.)
