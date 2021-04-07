@@ -57,8 +57,8 @@ Then click on your user, and a copy repository will be created under your accoun
 
     Step through the program to understand exactly what it is doing and why it outputs NONE in the end. Use the debug controls and examine program state at every step.
     
-    
-        ![Screen Shot 2021-04-07 at 1 22 57 PM](https://user-images.githubusercontent.com/10963114/113929284-ba3e2e00-97a4-11eb-9d4f-e654c63862e7.JPG)
+        ![Screen Shot 2021-04-07 at 1 22 57 PM](https://user-images.githubusercontent.com/10963114/113936910-4f452500-97ad-11eb-81b9-aee5387db5a1.JPG)
+
 
      You will be isung the Step Over control to go from statement to statement within the same function. Use Step Into control to jump into a function instead of stepping over it.
      Stepping over a function will allow you to immediately see what it returned but not to step through its execution.
@@ -69,10 +69,15 @@ Then click on your user, and a copy repository will be created under your accoun
 
 After you are done, your program should output "POSITIVE" for review 1_7.txt. Feel free to commit to your forked repository frequently, e.g. every time you make progress. That will help you revert to the last working state if you get confused.
 
-2. After you are done: **Add** the file YourUWNetID_assignment2.py **to the repository which you created in Assignment 1** (the one for which you added Olga and Yuanhe as collaborators).  **Commit** with a message: "Assignment 2 submission", and **push**. give it a few minutes, go to Github, and make sure the file is there. **Note the commit number**. Click on the commit number and copy the URL path in the browser. **Submit the commit number and the link to Canvas as a text file**.
+2. After you are done: **Add** the file YourUWNetID_assignment2.py **to the repository which you created in Assignment 1** (the one for which you added Olga and Yuanhe as collaborators).  **Commit** with a message: "Assignment 2 submission", and **push**. give it a few minutes, go to Github, and make sure the file is there. **Note the commit number**. Click on the commit number and copy the URL path in the browser.
+ 
+    ![Screen Shot 2021-04-07 at 2 23 22 PM](https://user-images.githubusercontent.com/10963114/113936852-3f2d4580-97ad-11eb-8cc8-7d024a3b5227.JPG)
+ 
+
+3.    **Submit the commit number and the link to Canvas as a text file**.
 
     ![Screen Shot 2021-04-07 at 2 13 43 PM](https://user-images.githubusercontent.com/10963114/113936426-9848a980-97ac-11eb-9fd8-19370cbfa420.JPG)
 
-3. **Reflection**: You wrote a program which outputs a prediction (positive, negative, or none), given a text file. You also know that the particular file that you worked with comes from a folder in the dataset called "pos". So, you know that review was labeled as "positive". So, your system made a correct prediction with respect to this file. If you run your system on more files from the dataset and recorded how many correct predictions you made, would you be able to say that you performed an evaluation of your system? Why or why not? (NB: This question can be approached differently. Start from thinking about the degree to which your system relies or doesn't rely on something it learned from the 1_7.txt file.) **Submit a text file to Canvas** where you discuss this question in a paragraph.  
+4. **Reflection**: You wrote a program which outputs a prediction (positive, negative, or none), given a text file. You also know that the particular file that you worked with comes from a folder in the dataset called "pos". So, you know that review was labeled as "positive". So, your system made a correct prediction with respect to this file. If you run your system on more files from the dataset and recorded how many correct predictions you made, would you be able to say that you performed an evaluation of your system? Why or why not? (NB: This question can be approached differently. Start from thinking about the degree to which your system relies or doesn't rely on something it learned from the 1_7.txt file.) **Submit a text file to Canvas** where you discuss this question in a paragraph.  
 
 [Home](../index.md)
