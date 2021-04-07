@@ -3,14 +3,15 @@
 ## Assignment 2: Rudimentary data science
 
 In this assignment, you will perform some basic word counting on one 
-file from the IMDB dataset and then use this rudimentary approach to predict whether the file represents a positive or negative reviews.
+file from the IMDB dataset and then use this rudimentary approach to predict whether the file represents a positive or negative reviews. You will also continue practicing using tools esseptial in all real-life projects.
 
 Specifically and technically, you will practice:
-1. Reading text from a file, such as one coming fromt the IMDB dataset, and storing it in a variable.
-2. Removing punctuation using regular expressions.
-3. Tokenizing text into words.
-4. Counting words in a text.
-5. Making a (simplistic) prediction about whether a file represents a positive or a negative review and comparing it to the actual label.
+1. Using version control and development tools (git and GitHub, and VSCode). You already started practicing it in Assignment 1.
+2. Reading text from a file, such as one coming fromt the IMDB dataset, and storing it in a variable.
+3. Removing punctuation from text using regular expressions.
+4. Tokenizing text into words.
+5. Counting words in a text.
+6. Making a (simplistic) prediction about whether a file represents a positive or a negative review and comparing it to the actual label.
 
 In the next assignment, you will assess how well this system works and will compare it with something more sophisticated.
 
