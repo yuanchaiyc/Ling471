@@ -16,7 +16,7 @@ Specifically and technically, you will practice:
 In the next assignment, you will assess how well this system works and will compare it with something more sophisticated.
 
 ### Submission summary
-1. The link to your submission commit (the submission is on GitHub in your private repository; the link goes to Canvas)
+1. The link to your submission commit (the submission is on GitHub in your private repository; the link goes to Canvas for the time stamp.)
 2. YourUWNetID_reflection.txt to Canvas
 
 
@@ -26,7 +26,7 @@ even if something else is better. There are always better ways of doing things, 
 following instructions, such that everyone arrives at the exact same result. As an example, using regular expressions to clean punctuation is not necessarily the best way of doing it, and we will talk about it when we talk about algorithm complexity. Still, regular expressions are important to learn about, so please use them for this task. We will want everyone to get the exact same results rather that the best results.
 
 ### Part 1 (recommended to complete during the first week): 
-1. Fork the repository we created for your Assignment 2 (review the slide about forking in the lecture about git, if needed). Click on "Fork" in the right upper corner on GitHub:
+1. Fork [the repository we created for your Assignment 2](https://github.com/olzama/ling471-SP2021-HW2) (review the slide about forking in the lecture about git, if needed). Click on "Fork" in the right upper corner on GitHub:
 
     <img width="452" alt="Screen Shot 2021-04-07 at 1 45 36 PM" src="https://user-images.githubusercontent.com/10963114/113931734-acd67300-97a7-11eb-954c-8c209281f5f1.png">
 
