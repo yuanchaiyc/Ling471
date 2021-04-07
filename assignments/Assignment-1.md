@@ -34,7 +34,7 @@ We will be using the IMDB review dataset ([Maas et al. 2011](https://www.aclweb.
 1. Read the README file which comes with the dataset.
 1. In a text file, answer the following questions about the dataset:
    1. How many movie reviews does it contain?
-   1. How is the dataset divided? (Here, talk about how many reivews are in each folder and what each folder represents, in your own words. Do not copy the text from the README file)
+   1. How is the dataset divided? (Here, talk about how many reivews are in each folder and what each folder represents, in your own words. Do not copy the text from the README file.)
    1. **Why** is it divided in this way? (Make sure to give a thoughtful answer here, at least a paragraph! You may not yet know everything about this, but answer the best you can, based on what you learned in the first couple weeks of class.) (**NB: Complete closer to the due date!**)
    1. Why is a citation to the ACL paper by Maas et al. included in the README file and in the dataset description on the website? (**What is the relationship of the paper and of the dataset?** Thoughtful, paragraph-length answer here.)
    1.  Why is there a reference to Potts's paper?
@@ -65,9 +65,8 @@ In this part of the assignment, you will start learning how to program in python
 1. Install support for python by clicking on "Python" here:
 
     <img width="1019" alt="python1" src="https://user-images.githubusercontent.com/10963114/112042641-fc107880-8b04-11eb-8fcf-d4d3871df483.png">
-1. Configure git for VS Code following [these steps](https://www.jcchouinard.com/install-git-in-vscode/). In particular, open the terminal (cmd on Windows; type `cmd` in the search field to the right of the Start button) and run the two commands as indicated in the steps, with your GitHub user name and email, for example:
-
-<img width="691" alt="Screen Shot 2021-04-07 at 11 29 22 AM" src="https://user-images.githubusercontent.com/10963114/113918455-4fd2c100-9797-11eb-83f1-60898d9ab77b.png">
+    
+1. Configure git for VS Code following [these steps](https://www.jcchouinard.com/install-git-in-vscode/). In particular, open the terminal (cmd on Windows; type `cmd` in the search field to the right of the Start button) and run the two commands as indicated in the steps, with your GitHub user name and email. Hit `Enter` after each command; there should be no message.
 
 1. Now, clone the repository you've created in Part 2 into VS Code. Click on "clone a repository" and then enter the https:// address of your repository. Then choose a folder for the local copy of the repository to go to. It can be any folder on your computer, such as one dedicated to this class. 
 
