@@ -6,7 +6,7 @@ In this assignment, you will perform some basic word counting on one
 file from the IMDB dataset and then use this rudimentary approach to predict whether the file represents a positive or negative reviews.
 
 Specifically and technically, you will practice:
-1. Reading text from a file, such as one coming fromt the IMDB dataset, and storing it in a variable, while also mapping it to a label with which it came.
+1. Reading text from a file, such as one coming fromt the IMDB dataset, and storing it in a variable.
 2. Removing punctuation using regular expressions.
 3. Tokenizing text into words.
 4. Counting words in a text.
@@ -35,7 +35,7 @@ following instructions, such that everyone arrives at the exact same result. As 
     
     `The prediction for file /Users/olzama/Teaching/Ling471/datasets/IMDB/aclImdb/train/pos/1_7.txt is NONE`
   
-    1. Set the break point at the first line of the main function, start running the program in debug mode, and make sure the debugger stops and you see the program state on the left (in the debugger console/pane):
+    2. Set the break point at the first line of the main function, start running the program in debug mode, and make sure the debugger stops and you see the program state on the left (in the debugger console/pane):
 
     ![Screen Shot 2021-04-07 at 1 19 45 PM](https://user-images.githubusercontent.com/10963114/113928868-36844180-97a4-11eb-9478-4ef5fe1c77ed.JPG)
 
@@ -49,4 +49,7 @@ following instructions, such that everyone arrives at the exact same result. As 
     
 ### Part 2 (complete during the second week):
 Fill in the program, gradually. Read the comments; they contain instructions and hints. Ask questions on the Discussion board. Revisit the lectures/readings on the relevant topics. After adding a statement, set the breakpoint on it and make sure the statement is doing what you intended, by stepping over it and examining the change in the program state. You need there to be a next statement for the debugger to stop, and most your functions have return statements which can serve this purpose if nothing else is added.
+
+After you are done, your program should output "POSITIVE" for review 1_7.txt.
+
 [Home](../index.md)
