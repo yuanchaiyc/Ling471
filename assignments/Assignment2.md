@@ -58,27 +58,27 @@ following instructions, such that everyone arrives at the exact same result.
 
         ![Screen Shot 2021-04-07 at 1 07 19 PM](https://user-images.githubusercontent.com/10963114/113928440-ab0ab080-97a3-11eb-8200-856351def8ad.JPG)
     
-        -- you should see the following output:
+        -- you should see the following output (with your path/filename instead of Olga's):
     
         `The prediction for file /Users/olzama/Teaching/Ling471/datasets/IMDB/aclImdb/train/pos/1_7.txt is NONE`
   
-    2. Set the breakpoint at the first line of the main function, start running the program in debug mode, and make sure the debugger stops and you see the program state on the left (in the debugger console/pane):
+    2. Set the breakpoint at the first line of the main function by clicking in the area to the left of the line number (**not** on the line number itself). Start running the program in debug mode, and make sure the debugger stops and you see the program state on the left (in the debugger console/pane):
 
         ![Screen Shot 2021-04-07 at 1 19 45 PM](https://user-images.githubusercontent.com/10963114/113928868-36844180-97a4-11eb-9478-4ef5fe1c77ed.JPG)
 
-        Step through the program to understand exactly what it is doing and why it outputs NONE in the end. Use the debug controls and examine program state at every step.
+        Step through the program to understand exactly what it is doing and why it outputs NONE in the end. Use the debug controls and examine the program state at every step.
     
         ![Screen Shot 2021-04-07 at 1 22 57 PM](https://user-images.githubusercontent.com/10963114/113936910-4f452500-97ad-11eb-81b9-aee5387db5a1.JPG)
 
-         You will be isung the Step Over control to go from statement to statement within the same function. Use Step Into control to jump into a function instead of stepping over it.
-         Stepping over a function will allow you to immediately see what it returned but not to step through its execution.
+         You will be using the Step Over control to go from statement to statement within the same function. Use the Step Into control to jump into a function instead of stepping over it.
+         Stepping over a function will allow you to immediately see what it returned but not to step through its execution. Experiment with this a few times to see what it means.
 
-    3. Step through the program a few times, until you are comfortable with the debugger and understand fully what the program is doing and how its state changes and why it outputs what it outputs in the end.
+    3. Step through the program a few times, until you are comfortable with the debugger and understand fully what the program is doing and how its state changes and why it outputs what it outputs in the end. **Doing Part 1 carefully ahead of time, at a comfortable pace, will greatly help you with Part 2.**
 
 ### Part 2:
-1. Duplicate the skeleton file and **RENAME** it: YourUWNetID_assignment2.py (note the underscore; not a dash). Add it to the repository. Now you will be working in this file. The skeleton should stay as is for reference. You may want to start over, or what not. Remember you always have the repository as the back up, to go back in time if needed.
+1. Duplicate the skeleton file and **RENAME** it: YourUWNetID_assignment2.py (note the underscore; not a dash). Add it to the repository. Now you will be working in this file. The skeleton should stay as is for reference. You may want to start over, or what not. (You always have the repository as the back up, but it is still cleaner to keep the skeleton for reference as is, rather than renaming the skeleton itself instead of duplicating it.)
 
-1. Fill in the program, gradually. Read the comments; they contain instructions and hints. Ask questions on the Discussion board. Revisit the lectures/readings on the relevant topics. After adding a statement, set the breakpoint on it and make sure the statement is doing what you intended, by stepping over it and examining the change in the program state. You need there to be a next statement for the debugger to stop, and most your functions have return statements which can serve this purpose if nothing else is added. 
+1. Fill in the program, gradually. Read the comments; they contain instructions and hints. Ask questions on the Discussion board. Revisit the lectures/readings on the relevant topics. After adding a statement, set the breakpoint on it and make sure the statement is doing what you intended, by stepping over it and examining the change in the program state. You need there to be a next statement for the debugger to stop, and most your functions have return statements which can serve this purpose if nothing else is added. (Remember our Robocat was out the door once there was no next statement! The debugger will also exit in this situation.) 
 
     After you are done, your program should output "POSITIVE" for review 1_7.txt. Feel free to commit to your forked repository frequently, e.g. every time you make progress and the program starts doing something you intended it to do. Include meaningful commit messages, e.g. "Successfully replacing spaces with tabs". That will help you look at the last working state if you get confused and your program stops working.
 
