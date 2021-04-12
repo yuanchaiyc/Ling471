@@ -87,7 +87,7 @@ In this part of the assignment, you will start learning how to program in python
 
 1. Enter a meaningfull commit message. Then Click on the "check mark"; it means committing the staged changes. 
 
-![VS-code-pic](https://user-images.githubusercontent.com/10963114/113206348-3627fb80-9224-11eb-96ec-f529ddef61c4.JPG)
+    ![VS-code-pic](https://user-images.githubusercontent.com/10963114/113206348-3627fb80-9224-11eb-96ec-f529ddef61c4.JPG)
 
 1. Now click on the "...", find the command "Push", and click it. 
 1. Give it a few minutes, and check that your python file can be found not only in the local copy but also in the remote repository. (NB: This will count as your **submission** for this task.) **Check once more that the file name has your UW netID in it!!! If not, rename it so it does!**
