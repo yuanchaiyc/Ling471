@@ -57,6 +57,7 @@ In this part of the assignment, you will create a GitHub repository for your cod
     <img width="1286" alt="Screen Shot 2021-03-22 at 12 22 26 PM" src="https://user-images.githubusercontent.com/10963114/112046453-4a277b00-8b09-11eb-85e9-acecf900369b.png">
 
 1. Now, install git on your machine. Click on the "Latest Source Release 2.31.0." button [here](https://git-scm.com/downloads) 
+1. Ask some question about git or leave a comment about it in the Assignment 1 area on Canvas. It can be anything. 
 
 ### Part 3: Python and Visual Studio Code. (NB: Complete what you can now. You should be able to do everything after April 8.)
 In this part of the assignment, you will start learning how to program in python and how to use an Integrated Development Environment.
@@ -100,6 +101,7 @@ In this part of the assignment, you will start learning how to program in python
 
 1. Now go to your VS Code, to the Source Control pane, find "Pull" under "..." and pull the changes into your local copy of the repository. Make sure that you now see the updated README!
 
+1. Leave a question or comment about VS Code in the Assignment 1 discussion area on Canvas, if you haven't already. (The purpose is to show that you got at least some experience with the software. Otherwise, it can be about anything.)
 
 ### Part 4: Command line and remote servers. (**NB: Complete after April 8**)
 It is important to be able to connect to a remote server and to be able to copy files between that server and your machine. It is also important to be able to run things like python or git via the command line (rather than in an IDE such as VS Code or in a GUI such as github.com).
