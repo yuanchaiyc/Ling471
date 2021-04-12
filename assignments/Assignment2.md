@@ -15,6 +15,8 @@ Specifically and technically, you will practice:
 
 In the next assignment, you will assess how well this system works and will compare it with something more sophisticated.
 
+This assignment **looks long** again because of the forking/debugging instructions (Part 1).  The program you will actually be writing (Part 2) is very **small and short** -- though it will require significant time, if you never programmed before. 
+
 ### Submission summary
 There is only **one** deliverable:
 
