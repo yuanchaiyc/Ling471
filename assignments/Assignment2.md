@@ -7,27 +7,27 @@ file from the IMDB dataset and then use this rudimentary approach to predict whe
 
 Specifically and technically, you will practice:
 1. Using version control and development tools (git and GitHub, and VSCode). You already started practicing it in Assignment 1.
-2. Reading text from a file, such as one coming fromt the IMDB dataset, and storing it in a variable.
-3. Using regular expressions to clean up the data.
-4. Tokenizing text into words.
+2. Reading text from a file, such as one coming from the IMDB dataset, and storing it in a variable.
+3. Using regular expressions as well as string in-built functions, to clean up the data.
+4. Tokenizing text into words (using a simplistic way).
 5. Counting words in a text.
 6. Making a (simplistic) prediction about whether a file represents a positive or a negative review.
 
 In the next assignment, you will assess how well this system works and will compare it with something more sophisticated.
 
 ### Submission summary
-There is only one deliverable:
+There is only **one** deliverable:
 
-1. The link to your submission commit (the submission is on GitHub; the link to the specific commit associated with your final submission goes to Canvas for the time stamp.)
+1. The link to your submission **git commit** (the submission is on GitHub; the link to the specific commit associated with your final submission goes to Canvas for the time stamp.)
 
-Details: The below details are also part of the instructions below. Here's a summary related to submission: You will **get** the homework from a repository that we created (by forking it). You won't be able to push anything to it; instead, forking will create your own **private** copy of the repository. It is convenient for you to work in that private repository and to save your work in progress there. You do not need to add us as collaborators there. Once you are done, you will **add your complete python program, renamed appropriately, to the repository you created for this class in Assignment 1**. There, Yuanhe and Olga are collaborators and they will be able to download your submission and test it. Otherwise, that repository is private and noone else will see it. Even if you do make it public, anything related to grading will be done via Canvas. GitHub is just to store the code. 
+Logistical summary: You will **get** the homework from a repository that we created (by forking it). You won't be able to push anything to it; instead, forking will create your own **private** copy of the repository. It is convenient for you to work in that private repository and to save your work in progress there. You do not need to add us as collaborators there. Once you are done, you will **add your complete python program, renamed appropriately, to the repository you created for this class in Assignment 1**. There, Yuanhe and Olga are collaborators and they will be able to download your submission and test it. Otherwise, that repository is private and noone else will see it. Even if you do make it public, anything related to grading will be done via Canvas. GitHub is just to store the code. 
 
 ### Important note about grading.
 The preliminary assessment for this assignment will be done automatically. For this reason, it is crucial that you do exactly what the assignment is asking you and not something else,
 even if something else is better. There are always better ways of doing things, especially in programming. In this assignment, we are learning how to do some of the basic things
 following instructions, such that everyone arrives at the exact same result. 
 
-### Part 1 (recommended to complete early): 
+### Part 1. Forking the skeleton code and stepping through it in the debugger. (Recommended to complete asap): 
 1. Fork [the repository we created for your Assignment 2](https://github.com/olzama/ling471-SP2021-HW2) (review the slide about forking in the lecture about git, if needed). Click on "Fork" in the right upper corner on GitHub:
 
     <img width="452" alt="Screen Shot 2021-04-07 at 1 45 36 PM" src="https://user-images.githubusercontent.com/10963114/113931734-acd67300-97a7-11eb-954c-8c209281f5f1.png">
@@ -39,16 +39,22 @@ following instructions, such that everyone arrives at the exact same result.
    You have now created your own private copy of the repository. Don't worry, you won't be able to mess up the original repository; it is protected from that.
 
 2. Clone your forked private copy to your local machine in VS Code (like you did in Assignment 1).
+
 3. Make sure you see assignment2_skeleton.py in your VS Code project.
+
 4. Figure out where exactly the following review from the IMDB dataset is located on your machine: aclImdb/train/pos/1_7.txt (on Windows, the slashes will be backslashes). You need the full path. For example, on my machine the full path happens to be: `/Users/olzama/Teaching/Ling471/datasets/IMDB/aclImdb/train/pos/1_7.txt`. On your machine, it will be something different. (Hint: Try using command line terminal to navigate to the file using a series of `cd` commands and then type `pwd` (Linux/Mac) or `echo %cd%` (on Windows). That should give you a full path which you can then copy.)
+
 5. Create a Running Configuration (see under Run in VS Code). It will create a file called launch.json. It will already have almost everything you need. You will only need to add one thing to the configuration: the path to the file you will pass to your program. Inspect launch.json. Add a variable called "args", as in the screenshot: 
 
     <img width="902" alt="Screen Shot 2021-04-07 at 1 41 11 PM" src="https://user-images.githubusercontent.com/10963114/113931102-f1154380-97a6-11eb-8d01-7d234fcc3309.png">
 
 6. In the above screenshot, the "args" is a path from Olga's home machine. You need to point it to your path, which you found in the previous step! 
+
 7. Now inspect assignment2_skeleton.py. There, we already named the functions for you and indicated in the comments what kind of statements you should write. We also included some of the statements already, to get you started.
-8. Make sure you can **debug the program**. Review the slides/lecture recording on debugging in VS code. (**Don't** run this program in non-debugging mode. It won't work because of the file argument. And you want the debugging mode anyway, to understand what is going on. NB: You can also quickly run the full program in debugging more with **no breakpoints**.)
-    1. If you now run your debug configuration, which will be available  in the debug console:
+
+8. Make sure you can **debug the program**. Review the slides/lecture recording on debugging in VS code. (**Don't** run this program in non-debugging mode. It won't work because of how we are passing the filename (path) argument. And you want the debugging mode anyway, to understand what is going on. NB: You can also quickly run the full program in debugging mode by hitting the debug "play" button with **no breakpoints**.)
+
+    1. If you now run your debug ("Current File") configuration, which will be available  in the debug console:
 
         ![Screen Shot 2021-04-07 at 1 07 19 PM](https://user-images.githubusercontent.com/10963114/113928440-ab0ab080-97a3-11eb-8200-856351def8ad.JPG)
     
@@ -71,6 +77,7 @@ following instructions, such that everyone arrives at the exact same result.
 
 ### Part 2:
 1. Duplicate the skeleton file and **RENAME** it: YourUWNetID_assignment2.py (note the underscore; not a dash). Add it to the repository. Now you will be working in this file. The skeleton should stay as is for reference. You may want to start over, or what not. Remember you always have the repository as the back up, to go back in time if needed.
+
 1. Fill in the program, gradually. Read the comments; they contain instructions and hints. Ask questions on the Discussion board. Revisit the lectures/readings on the relevant topics. After adding a statement, set the breakpoint on it and make sure the statement is doing what you intended, by stepping over it and examining the change in the program state. You need there to be a next statement for the debugger to stop, and most your functions have return statements which can serve this purpose if nothing else is added. 
 
     After you are done, your program should output "POSITIVE" for review 1_7.txt. Feel free to commit to your forked repository frequently, e.g. every time you make progress and the program starts doing something you intended it to do. Include meaningful commit messages, e.g. "Successfully replacing spaces with tabs". That will help you look at the last working state if you get confused and your program stops working.
