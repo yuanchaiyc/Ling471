@@ -101,7 +101,7 @@ April 13 | Variables, scope, and control flow |[0. Assignment and statements (2.
 April 15 | Loops and dictionaries. Input/output. | [1. Loops;](https://www.dataquest.io/blog/python-for-loop-tutorial/) [2. Dicts (6.1--6.2);](https://www.openbookproject.net/books/bpp4awd/ch06.html) [3. Input and output;](https://docs.python.org/3/tutorial/inputoutput.html) | 
 April 20 | Text processing | [0. Regular expressions;](https://docs.python.org/3/howto/regex.html) [1. Tokenization;](https://www.analyticsvidhya.com/blog/2019/07/how-get-started-nlp-6-unique-ways-perform-tokenization/) [2. Unicode](https://docs.python.org/3/howto/unicode.html) | Blogs 2
 April 22 | Evaluation and error analysis. Metrics  | [Precision and recall](https://medium.com/@shrutisaxena0617/precision-vs-recall-386cf9f89488)  | 
-April 27 | Basic probability | TBA | Assignment 2 
+April 27 | Basic probability | TBA | [Assignment 2](assignments/Assignment2.md) 
 April 29 | Basic statistics | TBA |
 May 4 | Basic statistics | TBA | Blogs 3
 May 6 | Basic Machine Learning concepts | TBA | Assignment 3 
