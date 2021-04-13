@@ -46,7 +46,7 @@ following instructions, such that everyone arrives at the exact same result.
 
 4. Figure out where exactly the following review from the IMDB dataset is located on your machine: aclImdb/train/pos/1_7.txt 
 
-(**Important NB:** on Windows, the slashes will be **backslashes**. **Furthermore**, you will need to insert an **extra** backslash everywhere where there is one backslash. This is because python thinks backslash is an **escape** character. So, you need to **escape the escape character**! You path "C:\Users\myusername\dataset\etc" will turn into: "C:\\Users\\myusername\\dataset\\etc"). 
+(**Important NB:** on Windows, the slashes will be **backslashes**. **Furthermore**, you will need to insert an **extra** backslash everywhere where there is one backslash. This is because python thinks backslash is an **escape** character. So, you need to **escape the escape character**! Your path "C:\Users\myusername\dataset\etc" will turn into: "C:\\\Users\\\myusername\\\dataset\\\etc"). 
 
 You need the full path. For example, on my machine the full path happens to be: `/Users/olzama/Teaching/Ling471/datasets/IMDB/aclImdb/train/pos/1_7.txt`. On your machine, it will be something different. (Hint: Try using command line terminal to navigate to the file using a series of `cd` commands and then type `pwd` (Linux/Mac) or `echo %cd%` (on Windows). That should give you a full path which you can then copy.)
 
