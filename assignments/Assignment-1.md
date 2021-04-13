@@ -57,6 +57,7 @@ In this part of the assignment, you will create a GitHub repository for your cod
     <img width="1286" alt="Screen Shot 2021-03-22 at 12 22 26 PM" src="https://user-images.githubusercontent.com/10963114/112046453-4a277b00-8b09-11eb-85e9-acecf900369b.png">
 
 1. Now, install git on your machine. Click on the "Latest Source Release 2.31.0." button [here](https://git-scm.com/downloads) 
+1. Ask some question about git or leave a comment about it in the Assignment 1 area on Canvas. It can be anything. 
 
 ### Part 3: Python and Visual Studio Code. (NB: Complete what you can now. You should be able to do everything after April 8.)
 In this part of the assignment, you will start learning how to program in python and how to use an Integrated Development Environment.
@@ -86,7 +87,7 @@ In this part of the assignment, you will start learning how to program in python
 
 1. Enter a meaningfull commit message. Then Click on the "check mark"; it means committing the staged changes. 
 
-![VS-code-pic](https://user-images.githubusercontent.com/10963114/113206348-3627fb80-9224-11eb-96ec-f529ddef61c4.JPG)
+    ![VS-code-pic](https://user-images.githubusercontent.com/10963114/113206348-3627fb80-9224-11eb-96ec-f529ddef61c4.JPG)
 
 1. Now click on the "...", find the command "Push", and click it. 
 1. Give it a few minutes, and check that your python file can be found not only in the local copy but also in the remote repository. (NB: This will count as your **submission** for this task.) **Check once more that the file name has your UW netID in it!!! If not, rename it so it does!**
@@ -100,6 +101,7 @@ In this part of the assignment, you will start learning how to program in python
 
 1. Now go to your VS Code, to the Source Control pane, find "Pull" under "..." and pull the changes into your local copy of the repository. Make sure that you now see the updated README!
 
+1. Leave a question or comment about VS Code in the Assignment 1 discussion area on Canvas, if you haven't already. (The purpose is to show that you got at least some experience with the software. Otherwise, it can be about anything.)
 
 ### Part 4: Command line and remote servers. (**NB: Complete after April 8**)
 It is important to be able to connect to a remote server and to be able to copy files between that server and your machine. It is also important to be able to run things like python or git via the command line (rather than in an IDE such as VS Code or in a GUI such as github.com).
@@ -110,7 +112,7 @@ It is important to be able to connect to a remote server and to be able to copy 
     `ssh your-NetID@patas.ling.washington.edu`
  
      (It will ask you whether you should add patas to trusted hosts; type yes.)
-1. Check that you have proper access to patas. You should see something like: `your-user-name@patas:~$`. If you don't yet have access, let Olga know. Sometimes there are delays in how the accounts are created and set up.
+1. Check that you have proper access to patas. You should see something like: `your-user-name@patas:~$` or simply `bash-4.2$`. If you don't yet have access, let Olga know. Sometimes there are delays in how the accounts are created and set up. If you see `bash-4.2$` or similar but would like to see your username and current directory instead, try typing the following in the terminal: `echo "PS1='\u@patas:\w\$ '" >> ~/.bash_profile; source ~/.bash_profile` -- and pressing `Enter`. That will change what you see in the prompt.
 
 1. Clone your git repository into your home directory on patas:
 
