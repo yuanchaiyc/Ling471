@@ -15,7 +15,7 @@ As before, you will submit your final version to the repository you created for 
 
 2. Create an empty directory somewhere on your machine (NOT within your dataset folder). **Copy** the same file you were using for Assignment 2 (train/pos/1_7.txt) into that directory. This will be your **test** directory. It's good practice to start small before you tackle many files, however don't mess with the original directory structure. No new files/directories there.
 
-3. Now, instead of passing your main() function a filename, pass it that new directory name.
+3. Now, instead of passing your main() function a filename, pass it that new directory name. At this point, your program will stop working. The next step will fix it.
 
 4. Review the lecture about the python **pathlib** module. In your main() function, write a loop which iterates over all files in the directory whose name was passed as the argument to main(). In the loop, call the simplisticPrediction() function on the file.
 
