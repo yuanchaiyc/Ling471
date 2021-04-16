@@ -11,7 +11,7 @@ As before, you will submit your final version to the repository you created for 
 1. Address any comments you received for Assignment 2 (if you already got it back), or otherwise make sure your Assignment 2 program is working correctly.
 
 ### Part 2: Running simplistic prediction on many files
-1. **Refactor** your program so that the simplisticPrediction function now accepts a file name as the sole argument and returns a prediction. This means that most of the work that the main() function was previously doing will now be done in the simplisticPrediction() function. At this stage, the input and output of the program should still be the same as for Assignment 2.
+1. **Refactor** your program so that the simplisticPrediction function now accepts a file name as the sole argument and returns a prediction. This means that most of the work that the main() function was previously doing will now be done in the simplisticPrediction() function. At this stage, the input and output of the program should still be the same as for Assignment 2. So, you are passing your main() a filename via launch.json, and then you are just passing that same filename further along, to simplisticPrediction(). simplisticPrediction() then does all the work to output the prediction, including opening the file.
 
 2. Create an empty directory somewhere on your machine (NOT within your dataset folder). **Copy** the same file you were using for Assignment 2 into that directory.
 
