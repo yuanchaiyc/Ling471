@@ -2,8 +2,11 @@
 
 ### Summary
 
-In this assignment, you will continue developing a movie review classifier. 
-You will start with the code you submitted for Assignment 2 and will develop it further so that it now processes a bunch of files and computes the accuracy of the results.
+In this assignment, you will continue developing a movie review classifier. Mostly, you will be practicing **evaluating** a system. In particular, you will compute **accuracy** and **precision and recall** of the simplistic "system" you built in Assignment 2.
+
+You will start with the code you submitted for Assignment 2 and will develop it further so that it now processes a bunch of files. You will represent the files as **labeled data points.** With that in hand, you will be able to run the simplistic prediction system on all of the files, compare the predicted labels with the actual labels, and compute the performance metrics.
+
+After we are sure we know how to process multiple files, store the data as vectors and compute things, we will leave our simplisticPrediction() behind and will proceed with deploying more sophisticated (off-the-shelf) techniques on our data.
 
 As before, you will submit your final version to the repository you created for the class in Assignment 1, and you will submit the commit number to Canvas, for time stamp.
 
@@ -30,8 +33,21 @@ As before, you will submit your final version to the repository you created for 
 
 2. Compute **precision** and **recall** with respect to positive and negative reviews, separately. You will need to declare **more variables** to do this! **Exclude** the NONE predictions from your computations (do not count the files for which the prediction is NONE as mistakes and do not add them to the totals). Review carefully what precision and recall are, in the lecture and reading. **NB**: the terms "positive" and "negative" may introduce **confusion**, because precision and recall is often talked about in the terms of "true/false positive/negative". Take your time to make sure you treat the terms appropriately. E.g., if a negative review is classified NEG, this is a TRUE POSITIVE! (Yes, confusing. A common problem in data science, too :) ). The key here is to think about positive and negative reviews absolutely **separately**, as if they had nothing to do with each other. It might help to mentally "rename" positive and negative reviews in "good" and "bad" reviews; that'll make it easier for you not to confuse the review labels with the types of error. 
 
+3. **Refactor** your program once again, so that all your main() does is call a (new) function called evaluateSimplistic(). Try the following: select all the code that does the evaluation, then right click and find the "Extract method" option. Click on it. The code you selected was **extracted** as a new method with some name like "newmethod877". Rename that to "evaluateSimplistic". Make sure your main() contains a call to that method, with appropriate arguments, if applicable. Test that the program works as expected.
+
+The **expected output** is:
+
+```
+The accuracy of Simplistic Prediction is 0.27508
+The precision of Simplistic Prediction wrt POSITIVE is 0.8547117634545841
+The precision of Simplistic Prediction wrt NEGATIVE is 0.47100494233937396
+```
+
+
 ### Part 4: Error analysis
 1. Take note of 5 positive and 5 negative reviews which were classified incorrectly. (You can collect the filenames for which the prediction is incorrect, in a list, and then output the list in a file, or just print it out.) Inspect the files. What do you notice? What kind of phenomena (syntactic, semantic) can you observe which led to your system mistaking a good review for a bad review, and vice versa? The precision for negative reviews is much lower than for positive; upon inspecting the files, why do you think that is?
 
-### Part 5: Comparing with the NLTK unigram model
+
+From now on, we will only be using our simplisticPrediction() as a "baseline". In other words, we will use more sophisticated models (we won't build them ourselves but will use off-the-shelf ones) and compare their performance to each other and to our simplistic procedure. The purpose of writing simplisticPrediction() ourselves was mostly to practice basic programming.
+
 
