@@ -104,7 +104,7 @@ April 22 | Text processing, contd. Unicode. Evaluation and error analysis. Metri
 April 27 | Data science and probability | [A mathy tutorial](https://tutors4you.com/probabilitytutorial.htm) -- try to work through a couple problems of different types, listed there at the end. | [Assignment 2](assignments/Assignment2.md) 
 April 29 | Statistics: definitions and basics | Start [tutorial](https://www.edureka.co/blog/statistics-and-probability/), read through "Measures of spread" |
 May 4 | Statistics: Bayes Theorem | Finish [tutorial](https://www.edureka.co/blog/statistics-and-probability/), skip the section about R but make sure to read about the Bayes Theorem. You can also skip: Entropy and Information Gain; Inferential statistics. Read those if you like (they are generally important), but we probably don't have time for them. | Blogs 3
-May 6 | Basic Machine Learning and Naive Bayes | [Regression and classification; ](https://medium.com/quick-code/regression-versus-classification-machine-learning-whats-the-difference-345c56dd15f7) [Naive Bayes](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/) | Assignment 3 
+May 6 | Basic Machine Learning and Naive Bayes | [Regression and classification; ](https://medium.com/quick-code/regression-versus-classification-machine-learning-whats-the-difference-345c56dd15f7) [Naive Bayes; ](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/) [Logistic regression](https://christophm.github.io/interpretable-ml-book/logistic.html) (focus on the main idea) | Assignment 3 
 May 11 | Basic Deep Learning concepts | TBA |
 May 13 | Using pre-trained models | TBA | Blogs 4
 May 18 | Working with linguistic corpora | TBA | 
