@@ -101,7 +101,7 @@ April 13 | [Variables, scope, and control flow;](slides/0413.pdf) [code;](demos/
 April 15 | [Loops and dictionaries. Input/output; ](slides/0415.pdf) [code](demos/April15.py) | [1. Loops;](https://www.dataquest.io/blog/python-for-loop-tutorial/) [2. Dicts (6.1--6.2);](https://www.openbookproject.net/books/bpp4awd/ch06.html) [3. Input and output;](https://docs.python.org/3/tutorial/inputoutput.html) | 
 April 20 | [Text processing; ](slides/0420.pdf) [code](demos/April20.py)| [0. Regular expressions;](https://docs.python.org/3/howto/regex.html) [1. Tokenization;](https://www.analyticsvidhya.com/blog/2019/07/how-get-started-nlp-6-unique-ways-perform-tokenization/) [2. Unicode;](https://docs.python.org/3/howto/unicode.html) [3. Modules](https://docs.python.org/3/tutorial/modules.html) | Blogs 2
 April 22 | Text processing, contd. Unicode. Evaluation and error analysis. Metrics  | [Precision and recall](https://medium.com/@shrutisaxena0617/precision-vs-recall-386cf9f89488)  | 
-April 27 | Basic probability | TBA | [Assignment 2](assignments/Assignment2.md) 
+April 27 | Basic probability | [A mathy tutorial](https://tutors4you.com/probabilitytutorial.htm) | [Assignment 2](assignments/Assignment2.md) 
 April 29 | Basic statistics | TBA |
 May 4 | Basic statistics | TBA | Blogs 3
 May 6 | Basic Machine Learning concepts | TBA | Assignment 3 
