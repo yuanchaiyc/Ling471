@@ -103,8 +103,8 @@ April 20 | [Text processing; ](slides/0420.pdf) [code](demos/April20.py)| [0. Re
 April 22 | Text processing, contd. Unicode. Evaluation and error analysis. Metrics  | [Precision and recall](https://medium.com/@shrutisaxena0617/precision-vs-recall-386cf9f89488)  | 
 April 27 | Basic probability | [A mathy tutorial](https://tutors4you.com/probabilitytutorial.htm) | [Assignment 2](assignments/Assignment2.md) 
 April 29 | Basic statistics | Start [tutorial](https://www.edureka.co/blog/statistics-and-probability/), read through "Measures of spread" |
-May 4 | Basic statistics | Finish [tutorial](https://www.edureka.co/blog/statistics-and-probability/), skip the section about R | Blogs 3
-May 6 | Basic Machine Learning concepts | TBA | Assignment 3 
+May 4 | Basic statistics | Finish [tutorial](https://www.edureka.co/blog/statistics-and-probability/), skip the section about R but make sure to read Bayes Theorem | Blogs 3
+May 6 | Basic Machine Learning concepts | [Regression and classification; ](https://medium.com/quick-code/regression-versus-classification-machine-learning-whats-the-difference-345c56dd15f7) [Naive Bayes](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/) | Assignment 3 
 May 11 | Basic Deep Learning concepts | TBA |
 May 13 | Using pre-trained models | TBA | Blogs 4
 May 18 | Working with linguistic corpora | TBA | 
