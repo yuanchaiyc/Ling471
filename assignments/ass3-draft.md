@@ -72,9 +72,9 @@ The **expected output** is:
 
 3. Summarize your findings in a text file called `yourNetID_EA_assignment3.txt` and add it to the repository you created for **Assignment 1**.
 
-### Submit:
+### Part 6 Submit
 
-1. Your commit number **in the repository which you created for Assignment 1**. In that repository, we should be able to find **yourNetID_assignment3.py** along with any files it imports, as well as **yourNetID_EA_assignment3.txt**.
+1. Link to the commit you want us to grade **in the repository which you created for Assignment 1**. In that repository, we should be able to find **yourNetID_assignment3.py** along with any files it imports, as well as **yourNetID_EA_assignment3.txt**.
 
 
 # You are now done with Assignment 3!
