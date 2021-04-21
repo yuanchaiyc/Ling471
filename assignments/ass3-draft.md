@@ -40,11 +40,19 @@ As before, you will submit your final version to the repository you created for 
 
 3. Go over your code, cleaning it up as needed. **In particular, remove absolutely all print statements at this point**. This is **important for our grading procedure**. 
 
-4. At the end of your program, output **5 numbers, one per line** in the **exact** following order: Overall system accuracy, precision wrt positive (training) reviews, recall wrt positive (training) reviews, precision wrt negative (training) reviews, recall wrt positive (training) reviews. **Do not output any text**; we need just the numbers, for faster grading.
+4. At the end of your program, output **5 numbers, one per line** in the **exact** following order: 
+    1. Overall system accuracy
+    2. Precision wrt positive (training) reviews
+    3. Recall wrt positive (training) reviews
+    4. Precision wrt negative (training) reviews,
+    5. Recall wrt positive (training) reviews. 
+    
+    **Do not output any text**; we need just the numbers, for faster grading.
 
-5. At the end, your main() should do the following:
+
+**At the end,** your main() should do the following:
     1. Accept two filepaths, one for postive (training) files and one for negative (training) files.
-    2. Output **5 numbers** in the **exact** order specified above in step 4.
+    2. Output **5 numbers** in the **exact** order specified above in Part 4 Step 4.
 
 The **expected output** is:
 
