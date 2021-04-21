@@ -12,6 +12,7 @@ As before, you will submit your final version to the repository you created for 
 
 ### Part 1: Assignment 2 clean-up/fixes and Setup
 1. Address any comments you received for Assignment 2 (if you already got it back), or otherwise make sure your Assignment 2 program is working correctly.
+
 2. Fork the repository we created for Assignment 3 setup. You will find **two files** there: evaluation.py and review_vector.py. Now **add** a copy your Assignment2 python program  to your private repo in which you will work on Assignment 3. **Rename** it appropriately: yourNetID_assignment3.py.
 
 ### Part 2: Running simplistic prediction on many files
@@ -57,9 +58,15 @@ The **expected output** is:
 
 
 ### Part 5: Error analysis
-1. Take note of 5 positive and 5 negative reviews which were classified incorrectly. (You can collect the filenames for which the prediction is incorrect, in a list, and then inspect it in the debugger.) Inspect the contents of these 10 files. What do you notice? What kind of phenomena (syntactic, semantic) can you observe which led to your system mistaking a good review for a bad review, and vice versa? The precision for negative reviews is much lower than for positive; upon inspecting the files, why do you think that is? Summarize your findings in a text file called `error_analysis.txt` and add it to the repository.
 
+1. Take note of 5 positive and 5 negative reviews which were classified incorrectly. (You can collect the filenames for which the prediction is incorrect, in a list, and then inspect it in the debugger.) Inspect the contents of these 10 files. What do you notice? What kind of phenomena (syntactic, semantic) can you observe which led to your system mistaking a good review for a bad review, and vice versa? The precision for negative reviews is much lower than for positive; upon inspecting the files, why do you think that is? 
 
-From now on, we will only be using our simplisticPrediction() as a "baseline". In other words, we will use more sophisticated models (we won't build them ourselves but will use off-the-shelf ones) and compare their performance to each other and to our simplistic procedure. The purpose of writing simplisticPrediction() ourselves was mostly to practice basic programming.
+2. Why do you think the precision and recall for positive reviews are better than for negative reviews?
+
+3. Summarize your findings in a text file called `error_analysis.txt` and add it to the repository.
+
+**You are now done with Assignment 3!**
+
+In the remaining couple of assignments, we will only be using our simplisticPrediction() as a **baseline**. In other words, we will use more sophisticated models (including off-the-shelf models) and compare their performance to each other and to our simplistic procedure. The purpose of writing simplisticPrediction() ourselves was mostly to practice basic programming.
 
 
