@@ -48,11 +48,10 @@ As before, you will submit your final version to the repository you created for 
     5. Recall wrt positive (training) reviews. 
     
     **Do not output any text**; we need just the numbers, for faster grading.
-
-
-**At the end,** your main() should do the following:
+    
+5. **At the end,** your main() should do the following:
     1. Accept two filepaths, one for postive (training) files and one for negative (training) files.
-    2. Output **5 numbers** in the **exact** order specified above in Part 4 Step 4.
+    2. Output **5 numbers** in the **exact** order specified above in Step 4.
 
 The **expected output** is:
 
