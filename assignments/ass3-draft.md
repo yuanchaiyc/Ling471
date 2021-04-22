@@ -56,7 +56,7 @@ As before, you will **submit** your final version to the repository you created 
 
 ### Part 4: Error analysis
 
-1. Take note of 5 positive and 5 negative reviews which were classified incorrectly. (You can collect the filenames for which the prediction is incorrect, in a list, and then inspect it in the debugger.) Inspect the contents of these 10 files. What do you notice? What kind of phenomena (syntactic, semantic) can you observe which led to your system mistaking a good review for a bad review, and vice versa? The precision for negative reviews is much lower than for positive; upon inspecting the files, why do you think that is? 
+1. Take note of 5 positive and 5 negative reviews which were classified incorrectly. (You can collect the filenames for which the prediction is incorrect, in a list, and then inspect it in the debugger.) Inspect the contents of these 10 files. What do you notice? What kind of phenomena (syntactic, semantic) can you observe which led to your system mistaking a good review for a bad review, and vice versa? 
 
 2. Why do you think the precision and recall for positive reviews are better than for negative reviews?
 
