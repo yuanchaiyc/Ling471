@@ -9,7 +9,7 @@ Here's specific steps you could use to guide you through parts of Assignment 3.
 
 3. Now, instead of passing your main() function a filename, pass it that new **directory** name. At this point, your program will **stop working**. Don't panic; the next step will fix it.
 
-4. Review the lecture about the python **pathlib** module. In your main() function, write a loop which iterates over all files in the directory whose name was passed as the argument to main(). In the loop, call the simplisticPrediction() function on the file. For now, the loop will only run **once**, since there is only a single file in your test directory. This is your chance to calmly explore what's happening.
+4. Review the lecture about the python **pathlib** module. In your main() function, write a loop which iterates over all **.txt** files in the directory whose name was passed as the argument to main(). In the loop, call the simplisticPrediction() function on the file. For now, the loop will only run **once**, since there is only a single file in your test directory. This is your chance to calmly explore what's happening.
 
 5. Step through the entire execution and make sure the program processes the sole file in the test directory correctly (and outputs POSITIVE, as before).
 
