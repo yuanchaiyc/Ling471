@@ -35,7 +35,7 @@ You need to modify that file to do certain things in VS Code. For example, you m
 The `args` variable specifies a list of arguments. In the example above, there is only one argument passed to the program.
 
 In order to be able to **import modules** in the debugging mode in VS Code, you need to perform 2 steps:
-1. Create a file called `.env` and put it inside `.vscode`. In that file, write the command adding the path to the**folder containint the module** to PYTHONPATH. For Mac OSX:
+1. Create a file called `.env` and put it inside `.vscode`. In that file, write the command adding the path to the **folder containing the module** to PYTHONPATH. For Mac OSX:
 
 `PYTHONPATH=${PYTHONPATH}:/Users/olzama/Ling471/projects/modules`
 
