@@ -17,6 +17,8 @@ After we are sure we know how to process multiple files, store the data as vecto
 
 Below you will find the assignment description in several parts. If you are not sure how to do something, please make sure to also consult the [detailed walkthrough for Parts 2 and 3](Assignment3-hints.md). That walkthrough is not the only way of doing things; it is intended as helpful though. Ask questions!
 
+Just one **hint for everyone**: Make it so your program **only pays attention to files with the .txt extension** and ignores everything else which may have ended up in the directory!
+
 As before, you will **submit** your final version to the repository you created for the class in Assignment 1, and you will submit the commit number to Canvas, for time stamp.
 
 ### Part 1: Assignment 2 clean-up/fixes and Setup
