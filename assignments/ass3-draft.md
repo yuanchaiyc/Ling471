@@ -8,7 +8,14 @@ You will start with the code you submitted for Assignment 2 and will develop it 
 
 After we are sure we know how to process multiple files, store the data as vectors and compute things, we will leave our simplisticPrediction() behind and will proceed with deploying more sophisticated (off-the-shelf) techniques on our data.
 
-Below you will find a shorter assignment description. If you are not sure how to do something, please make sure to consult the [more detailed walkthrough for Parts 2 and 3](Assignment3-hints.md).
+**Spec:** After you are done, your main() should do the following:
+
+1. Accept two filepaths, one for postive (training) files and one for negative (training) files.
+2. Output **5 numbers** in the **exact** order specified below in Part 3 Step 2.
+
+**Do not output any text**; we need just the numbers, for faster grading.
+
+Below you will find the assignment description in several parts. If you are not sure how to do something, please make sure to also read consult the [detailed walkthrough for Parts 2 and 3](Assignment3-hints.md). That walkthrough is not the only way of doing things; it is intended as helpful though. Ask questions!
 
 As before, you will **submit** your final version to the repository you created for the class in Assignment 1, and you will submit the commit number to Canvas, for time stamp.
 
@@ -34,19 +41,15 @@ As before, you will **submit** your final version to the repository you created 
     
     You can use the python built-in round() function to round up the floats. It accepts two arguments: the float and the number of decimal points.
     
-5. **At the end,** your main() should do the following:
-    1. Accept two filepaths, one for postive (training) files and one for negative (training) files.
-    2. Output **5 numbers** in the **exact** order specified above in Step 4.
+    The **expected output** is:
 
-The **expected output** is:
-
-```
-0.2751
-0.2942
-0.3214
-0.2521
-0.2287
-```
+    ```
+    0.2751
+    0.2942
+    0.3214
+    0.2521
+    0.2287
+    ```
 
 
 ### Part 4: Error analysis
