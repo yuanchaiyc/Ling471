@@ -8,7 +8,9 @@ You will start with the code you submitted for Assignment 2 and will develop it 
 
 After we are sure we know how to process multiple files, store the data as vectors and compute things, we will leave our simplisticPrediction() behind and will proceed with deploying more sophisticated (off-the-shelf) techniques on our data.
 
-As before, you will submit your final version to the repository you created for the class in Assignment 1, and you will submit the commit number to Canvas, for time stamp.
+Below you will find a shorter assignment description. If you are not sure how to do something, please make sure to consult the [more detailed walkthrough for Parts 2 and 3](Assignment3-hints.md).
+
+As before, you will **submit** your final version to the repository you created for the class in Assignment 1, and you will submit the commit number to Canvas, for time stamp.
 
 ### Part 1: Assignment 2 clean-up/fixes and Setup
 1. Address any comments you received for Assignment 2 (if you already got it back), or otherwise make sure your Assignment 2 program is working correctly.
@@ -16,10 +18,10 @@ As before, you will submit your final version to the repository you created for 
 2. Fork [the repository we created for Assignment 3 setup](https://github.com/olzama/olzama-SP2021-Ling471-HW3.git). You will find **two files** there: evaluation.py and review_vector.py. Now **add** a copy your Assignment2 python program  to your private repo in which you will work on Assignment 3. **Rename** it appropriately: yourNetID_assignment3.py.
 
 ### Part 2: Running simplistic prediction on many files
-1. **Refactor** your assignment3.py program so that your main() function iterates over all files in both train/pos and train/neg directories.
+1. Refactor your assignment3.py program so that your main() function iterates over all files in both train/pos and train/neg directories, outputting a prediction for each file.
 
 ### Part 3: Computing accuracy, and computing precision and recall
-1. Compute **accuracy, precision, and recall** of your system. The acuracy is for overall system while precision and recall are **with respect to** positive and negative review classes, **separately**. 
+1. Compute **accuracy, precision, and recall** of your system. The acuracy is for the overall system while precision and recall are **with respect to** positive and negative review classes, **separately**. 
 
 2. At the end of your program, output **5 numbers, one per line, rounded to 4 decimal points,** in the **exact** following order: 
     1. Overall system accuracy
@@ -47,7 +49,7 @@ The **expected output** is:
 ```
 
 
-### Part 5: Error analysis
+### Part 4: Error analysis
 
 1. Take note of 5 positive and 5 negative reviews which were classified incorrectly. (You can collect the filenames for which the prediction is incorrect, in a list, and then inspect it in the debugger.) Inspect the contents of these 10 files. What do you notice? What kind of phenomena (syntactic, semantic) can you observe which led to your system mistaking a good review for a bad review, and vice versa? The precision for negative reviews is much lower than for positive; upon inspecting the files, why do you think that is? 
 
@@ -55,7 +57,7 @@ The **expected output** is:
 
 3. Summarize your findings in a text file called `yourNetID_EA_assignment3.txt` and add it to the repository you created for **Assignment 1**.
 
-### Part 6 Submit
+### Part 5 Submit
 
 1. Link to the commit you want us to grade **in the repository which you created for Assignment 1**. In that repository, we should be able to find **yourNetID_assignment3.py** along with any files it imports, as well as **yourNetID_EA_assignment3.txt**.
 
