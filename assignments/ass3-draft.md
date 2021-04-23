@@ -51,9 +51,9 @@ As before, you will **submit** your final version to the repository you created 
 
     ```
     0.2751
-    0.2942
+    0.5558
     0.3214
-    0.2521
+    0.8072
     0.2287
     ```
 
@@ -62,9 +62,11 @@ As before, you will **submit** your final version to the repository you created 
 
 1. Take note of 5 positive and 5 negative reviews which were classified incorrectly. (You can collect the filenames for which the prediction is incorrect, in a list, and then inspect it in the debugger.) Inspect the contents of these 10 files. What do you notice? What kind of phenomena (syntactic, semantic) can you observe which led to your system mistaking a good review for a bad review, and vice versa? 
 
-2. Why do you think the precision and recall for positive reviews are better than for negative reviews?
+2. Why do you think the precision is so much better than the recall?
 
-3. Summarize your findings in a text file called `yourNetID_EA_assignment3.txt` and add it to the repository you created for **Assignment 1**.
+3. Why do you think the precision for negative reviews may be so much better than for positive reviews?
+
+4. Summarize your findings in a text file called `yourNetID_EA_assignment3.txt` and add it to the repository you created for **Assignment 1**.
 
 ### Part 5 Submit
 
