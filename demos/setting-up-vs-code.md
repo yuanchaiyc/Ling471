@@ -1,3 +1,5 @@
+[Home](../index.md)
+
 ## VS Code settings
 
 <img width="199" alt="Screen Shot 2021-04-22 at 1 42 38 PM" src="https://user-images.githubusercontent.com/10963114/115790461-99b4cd00-a37b-11eb-8049-be20953f9514.png">
@@ -107,3 +109,5 @@ Put together, the two settings would look like this:
 ```
 
 You can create `settings.json` outside of VS Code or you can bring it up from within VS Code by pressing `command+shift+p` and choosing "Workspace settings".
+
+[Home](../index.md)
