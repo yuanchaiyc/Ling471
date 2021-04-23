@@ -1,3 +1,5 @@
+[Home](../index.md)
+
 ## Assignment 3
 
 ### Summary
@@ -71,4 +73,5 @@ As before, you will **submit** your final version to the repository you created 
 
 In the remaining couple of assignments, we will only be using our simplisticPrediction() as a **baseline**. In other words, we will use more sophisticated models (including off-the-shelf models) and compare their performance to each other and to our simplistic procedure. The purpose of writing simplisticPrediction() ourselves was mostly to practice basic programming.
 
+[Home](../index.md)
 
