@@ -1,3 +1,5 @@
+[Home](../index.md)
+
 ### Assignment 3 hints
 
 Here's specific steps you could use to guide you through parts of Assignment 3.
@@ -31,3 +33,5 @@ doesn't output the correct values for the large dataset.
 3. Compute **precision** and **recall** with respect to positive and negative reviews, separately. Consult the function spec which you will find in evaluation.py. You can implement your function there and import it in your assignment3.py file. Review carefully what precision and recall are, in the lecture and reading. **NB**: the terms "positive" and "negative" may introduce **confusion**, because precision and recall is often talked about in the terms of "true/false positive/negative". Take your time to make sure you treat the terms appropriately. E.g., if a negative review is classified NEG, then, with respect to negative review class, this is a TRUE POSITIVE! (Yes, confusing. A common problem in data science, too :) ). The key here is to think about positive and negative reviews absolutely **separately**, as if they had nothing to do with each other. It might help to mentally "rename" positive and negative reviews in "good" and "bad" reviews; that'll make it easier for you not to confuse the review labels with the types of error. For the tiny-test dataset, the precision wrt positive reviews should be `0.6667`; recall `0.5`. The precision wrt negative reviews in the tiny-test dataset should `0.6`; recall `0.75`. 
 
 4. Go over your code, cleaning it up as needed. **In particular, remove absolutely all print statements at this point**. This is **important for our grading procedure**. 
+
+[Home](../index.md)
