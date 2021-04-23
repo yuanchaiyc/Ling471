@@ -13,7 +13,7 @@ Here's specific steps you could use to guide you through parts of Assignment 3.
 
 5. Step through the entire execution and make sure the program processes the sole file in the test directory correctly (and outputs POSITIVE, as before).
 
-6. Now, replace the path that you are giving to your main function by the **path to all the TRAINING POSITIVE files** in the dataset. So, train/pos on Mac or train\\\pos\\\ on Windows. Observe the program output predictions for all the files in that folder! There is a lot of files, so, it will take the program a while to print all the outputs. (Consider [setting up settings.json](../demos/vscode_settings_json.md) and running the program in non-debug mode at this point, unless you actually want to debug.)
+6. Now, replace the path that you are giving to your main function by the **path to all the TRAINING POSITIVE files** in the dataset. So, train/pos on Mac or train\\\pos\\\ on Windows. Observe the program output predictions for all the files in that folder! There is a lot of files, so, it will take the program a while to print all the outputs. (Consider [setting up settings.json](../demos/setting-up-vs-code.md) and running the program in non-debug mode at this point, unless you actually want to debug.)
 
 7. Add a second argument to your main() in launch.json (and settings.json, if you are using it as well); this second argument will be the path to all NEGATIVE TRAIN files in the dataset. Add another for-loop which processes all negative files before or after processing all positive ones. You should see lots of printed output sentences, one for each file.
 
