@@ -10,12 +10,14 @@ You will start with the code you submitted for Assignment 2 and will develop it 
 
 After we are sure we know how to process multiple files, store the data as vectors and compute things, we will leave our simplisticPrediction() behind and will proceed with deploying more sophisticated (off-the-shelf) techniques on our data.
 
-**Spec:** After you are done, your main() should do the following:
+**Spec:** After you are done, your program should do the following:
 
-1. Accept two filepaths, one for postive (training) files and one for negative (training) files.
+1. Accept two filepaths as input, one the first one for postive (training) files and the second one for negative (training) files.
 2. Output **5 numbers** in the **exact** order specified below in Part 3 Step 2.
 
-**Do not output any text**; we need just the numbers, for faster grading.
+**Do not output any text**; we need just the numbers, for faster grading. 
+
+We should be able to run your program in command line as follows: `python netID_assignment3.py path_to_the_pos_dir path_to_the_neg_dir`. It's a good idea to test it out in command line before you submit.
 
 Below you will find the assignment description in several parts. If you are not sure how to do something, please make sure to also consult the [detailed walkthrough for Parts 2 and 3](Assignment3-hints.md). That walkthrough is not the only way of doing things; it is intended as helpful though. Ask questions!
 
