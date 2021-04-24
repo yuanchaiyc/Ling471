@@ -34,7 +34,7 @@ As before, you will **submit** your final version to the repository you created 
 1. Refactor your assignment3.py program so that your main() function iterates over all files in both train/pos and train/neg directories, outputting a prediction for each file.
 
 ### Part 3: Computing accuracy, and computing precision and recall
-1. Compute **accuracy, precision, and recall** of your system. The acuracy is for the overall system while precision and recall are **with respect to** positive and negative review classes, **separately**. The NONE predictions should be counted as mistakes.
+1. Compute **accuracy, precision, and recall** of your system. The acuracy is for the overall system while precision and recall are **with respect to** positive and negative review classes, **separately**. The NONE predictions should be counted as mistakes (think carefully here!).
 
 2. At the end of your program, output **5 numbers, one per line, rounded to 4 decimal points,** in the **exact** following order: 
     1. Overall system accuracy
