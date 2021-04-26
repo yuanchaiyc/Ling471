@@ -32,7 +32,7 @@ As before, you will **submit** your final version to the repository you created 
 ### Part 1: Assignment 2 clean-up/fixes and Setup
 1. Address any comments you received for Assignment 2 (if you already got it back), or otherwise make sure your Assignment 2 program is working correctly.
 
-2. Import or otherwise privately copy the repository we created for Assignment 3 setup. **Do not fork** (that has privacy issues because forks are public). Go to [https://github.com/new/import](https://github.com/new/import) and enter the assignment 3 url: https://github.com/olzama/Ling471-SP2021-HW3.git. Make sure to create a **private** repo. You will find **two files** there: evaluation.py and review_vector.py. Now **add** a copy your Assignment2 python program  to your private repo in which you will work on Assignment 3. **Rename** it appropriately: yourNetID_assignment3.py.
+2. Import or otherwise privately copy the repository we created for Assignment 3 setup. **Do not fork** (that has privacy issues because forks are public). Go to [https://github.com/new/import](https://github.com/new/import) and enter the assignment 3 url: `https://github.com/olzama/Ling471-SP2021-HW3.git`. Make sure to create a **private** repo. You will find **two files** there: evaluation.py and review_vector.py. Now **add** a copy your Assignment2 python program  to your private repo in which you will work on Assignment 3. **Rename** it appropriately: yourNetID_assignment3.py.
 
 ### Part 2: Running simplistic prediction on many files
 1. Refactor your assignment3.py program so that your main() function iterates over all files in both train/pos and train/neg directories, outputting a prediction for each file.
