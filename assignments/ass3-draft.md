@@ -2,6 +2,10 @@
 
 ## Assignment 3
 
+### Attention
+
+The way to obtain the assignment skeleton **changed**. Please read Part 1 carefully.
+
 ### Summary
 
 In this assignment, you will continue developing a movie review classifier. Mostly, you will be practicing **evaluating** a system. In particular, you will compute **accuracy** and **precision and recall** of the simplistic "system" you built in Assignment 2.
