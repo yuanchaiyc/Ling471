@@ -4,7 +4,10 @@
 
 ### Attention
 
-The way to obtain the assignment skeleton **changed**. Please read Part 1 carefully.
+1. The way to obtain the assignment skeleton **changed**. Please read Part 1 carefully.
+
+2. A [detailed walkthrough](Assignment3-hints.md) is available for Parts 2 and 3. It is located on a **separate webpage**, to keep this page shorter.
+ 
 
 ### Summary
 
