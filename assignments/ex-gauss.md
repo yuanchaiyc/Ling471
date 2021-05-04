@@ -10,7 +10,7 @@ Pick one person to share their screen and work together. You can change who shar
 ### Steps
 1. Download (or copy and paste into a new VS Code project) the [python skeleton](../demos/May4-skeleton.py).
 2. Pip-install the `numpy` package for python (in command line, type `pip install numpy`)
-3. Pip-install the `mathplotlib` package for python.
+3. Pip-install the `matplotlib` package for python (note no h in `matplotlib`).
 4. If one of these won't install or you can't import it, engage with others on a consulting level; all people don't have to be coding at the same time.
 5. Follow the comments in the skeleton. The formula for the Gaussian distribution is:
 
