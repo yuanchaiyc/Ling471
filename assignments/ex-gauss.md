@@ -21,3 +21,4 @@ Pick one person to share their screen and work together. You can change who shar
 
 8. Admire the bell curve which fits the histogram!
  
+9. Experiment with different values for mu and sigma! Observe the shape change.
