@@ -12,7 +12,7 @@ Submit as usual, to your repo which you share with the instructors.
 
 ### Summary of input/output:
 1. Your main() for this assignment will accept **4 file paths**: to train/pos, train/neg, test/pos, and test/neg.
-2. If you did everything as specified (particularly the clean up), then the output should be two numbers. The first number represents the accuracy of the Naive Bayes classifier on the **training data**. The second number is the accuracy on the **test data**. The expected output is:
+2. If you did everything as specified (and did not do any additional clean up or anything like that), then the output should be two numbers. The first number represents the accuracy of the Naive Bayes classifier on the **training data**. The second number is the accuracy on the **test data**. The expected output is:
     ```
     92.464
     50.0
