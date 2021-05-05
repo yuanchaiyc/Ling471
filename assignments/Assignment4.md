@@ -43,7 +43,7 @@ You will need multiple packages in this assignment. That's great because it mean
 
 ### Part 2: Dataframes: Another vector representation
 
-In Assignment 3, we had a class for review vectors. That can be convenient for debugging/thinking about the problem, but in actuality, people usually use tables to store data vectors. Such a table simply contains rows where one of the columns is the gold label and another column represents the data. There may be other columns as well. Columns may have names, which is convenient because then you can access cells in the table by their name. Tables are **fast** to access, so it is important to know how to use them. 
+In Assignment 3, we had a class for review vectors. That can be convenient for debugging/thinking about the problem (and we had to learn about classes!), but in actuality, people usually use tables to store data vectors. Such a table simply contains rows where one of the columns is the gold label and another column represents the data. There may be other columns as well. Columns may have names, which is convenient because then you can access cells in the table by their name. Tables are **fast** to access, so it is important to know how to use them. 
 
 1. Install (via `pip`) and import (in your assignment4.py) the `pandas` module. 
 
