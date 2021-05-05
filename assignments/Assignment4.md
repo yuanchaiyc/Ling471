@@ -2,7 +2,7 @@
 
 In this assignment, you will use a Naive Bayes classifier to classify the IMDB reviews. Its performance should be significantly better than our "simplistic model" on the training data, though it will still be not too impressive on the test data (it will be 50% accuracy on the test data, so, may as well be tossing a coin!).
 
-The main() function is already provided for you for the most part. Your task is mostly to put the IMDB data into a **dataframe**, such that the data can be fed to odd-the-shelf packages. That's what you'll spend most of your time working on in this assignment, and that's very normal for data science to spend lots of time on formatting the data such that a package accepts it. 
+The main() function is already provided for you for the most part. Your task is mostly to put the IMDB data into a **dataframe** (an object from the popular data science package called "pandas"), such that the data can be fed to off-the-shelf packages. That's what you'll spend most of your time working on in this assignment, and that's very normal for data science to spend lots of time on formatting the data such that a package accepts it. 
 
 In addition, we are asking you to think about what the provided code in main() is doing, reviewing the lectures from May 6 and May 11 as well as any python documentation that comes with the packages. We are asking you to **add comments** explaining, in your own words, what the code is doing. You do not need to be formal or 100% correct there, but you need to make a good effort. The last comment we ask you to add is regarding the difference in the score for training and test data.
 
