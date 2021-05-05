@@ -68,12 +68,17 @@ The main() is almost fully written for you. Only one TODO asks you to add a few 
 
 1. Find the third TODO in the main():
   ```
-     # TODO: Set the below 4 variables to contain:
+    # TODO: Set the below 4 variables to contain:
     # X_train: the training data; y_train: the training data labels;
     # X_test: the test data; y_test: the test data labels.
     # Access the data frames by column names.
-  ```
-  Uncomment the next 4 lines of code and store the appropriate values in each. This requires thinking about how what the dataframe looks like and how to access columns in it.
+    # X_train = 
+    # y_train = 
+    # X_test = 
+    # y_test =   
+ ```
+  
+  Uncomment the last 4 lines of code (the assignment statements) and store the appropriate values in each. This requires thinking about what the dataframe looks like and how to access columns in it.
   
   After this, the code should start working. It will take it a few minutes to finish. You should now see the correct output!
   
