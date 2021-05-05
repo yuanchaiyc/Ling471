@@ -78,9 +78,9 @@ The main() is almost fully written for you. Only one TODO asks you to add a few 
     # y_test =   
  ```
   
-  Uncomment the last 4 lines of code (the assignment statements) and store the appropriate values in each. This requires thinking about what the dataframe looks like and how to access columns in it.
+   Uncomment the last 4 lines of code (the assignment statements) and store the appropriate values in each. This requires thinking about what the dataframe looks like and how to access columns in it.
   
-  After this, the code should start working. It will take it a few minutes to finish. You should now see the correct output!
+   After this, the code should start working. It will take it a few minutes to finish. You should now see the correct output!
   
 2. Go through all the remaining TODOs, study the function docs where needed, and add comments, where required, explaining in your words what the code is doing. You don't need to be 100% correct or formal, but you need to show effort. The lecture from May 11 should be helpful here.
 
