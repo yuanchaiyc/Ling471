@@ -1,3 +1,5 @@
+[Home](../index.md)
+
 # Assignment 4: Dataframes and the Naive Bayes classifier
 
 In this assignment, you will use a Naive Bayes classifier to classify the IMDB reviews. Its performance should be significantly better than our "simplistic model" on the training data, though it will still be not too impressive on the test data (it will be 50% accuracy on the test data, so, may as well be tossing a coin!).
@@ -91,3 +93,5 @@ The main() is almost fully written for you. Only one TODO asks you to add a few 
 2. Submit the commit number which you would like us to grade, to Canvas.
 
 ### You are now done with Assignment 4!
+
+[Home](../index.md)
