@@ -108,8 +108,8 @@ May 6 | Bayes Theorem. Dataframes | Finish [tutorial](https://www.edureka.co/blo
 May 11 | Machine Learning overview. Naive Bayes  | [Regression and classification; ](https://medium.com/quick-code/regression-versus-classification-machine-learning-whats-the-difference-345c56dd15f7) [Naive Bayes; ](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/) [Logistic regression](https://www.tibco.com/reference-center/what-is-logistic-regression) |
 May 13 | Deep Learning overview. Pre-trained models | [Deep learning for NLP; ](https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0d8f40a776d) [Testing NLP models](https://slideslive.com/38929272/beyond-accuracy-behavioral-testing-of-nlp-models-with-checklist) | Blogs 4
 May 18 | Working with linguistic corpora | TBA | 
-May 20 | Working with linguistic corpora | TBA | Assignment 4
-May 25 | Visualization and Communication | TBA | 
+May 20 | Working with linguistic corpora | TBA | 
+May 25 | Visualization and Communication | TBA | Assignment 4
 May 27 | Visualization and Communication | TBA | Blogs 5
 June 1 | Presentations 
 June 3 | Presentations
