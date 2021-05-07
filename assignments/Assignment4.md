@@ -36,25 +36,21 @@ Submit as usual, to your repo which you share with the instructors, and a commit
     
     Tne numbers may vary slightly but only very, very slightly, e.g. they should definitely be within a percent.
     
-### Part 0: Getting the skeleton
+### Part 0: Getting the skeleton and installing packages
 
-Set up a **private** repository to work on this assignment. Some options are listed here. You can download the skeleton repository and copy it to your submission repository (but then the instructors will see all your commits; it is not a problem for us though so long as you do not add other collaborators to the repository). Alternatively, import or otherwise privately copy the repository we created for Assignment 4 setup. Please **do not fork** (that has privacy issues because it turns out forks are public). To import, go to https://github.com/new/import and enter the assignment 4 url: `https://github.com/olzama/Ling471-SP2021-HW4`. Make sure to create a private repo at this step. In any case, please **make sure to not publish any solutions to this assignment anywhere, including but not limited to GitHub**.
+1. Set up a **private** repository to work on this assignment. Some options are listed here. You can download the skeleton repository and copy it to your submission repository (but then the instructors will see all your commits; it is not a problem for us though so long as you do not add other collaborators to the repository). Alternatively, import or otherwise privately copy the repository we created for Assignment 4 setup. Please **do not fork** (that has privacy issues because it turns out forks are public). To import, go to https://github.com/new/import and enter the assignment 4 url: `https://github.com/olzama/Ling471-SP2021-HW4`. Make sure to create a private repo at this step. In any case, please **make sure to not publish any solutions to this assignment anywhere, including but not limited to GitHub**.
 
-### Part 1: Installing packages
+2. Make sure you have `pip` working on your machine. Please consult the Discussion board ("logistics"); some solutions are provided there.
 
-**Please leave ample time for this, especially if your pip isn't working!**
-
-You will need at least two packages in this assignment. That's great because it means you can write a program which does something complex and get some results without having to write several complex programs first and then to test and debug them for a long time until you fix all the bugs. However, installing packages can sometimes be a pain at first.
-
-1. Make sure you have `pip` working on your machine. Please consult the Discussion board ("logistics"); some solutions are provided there.
-
-2. After pip start working, install the following packages (by typing `pip install [packagename]`):
+3. After pip start working, install the following packages (by typing `pip install [packagename]`):
     1. pandas
     2. scikit-learn
 
     There should be no red error messages, ideally, in your terminal, when you install each.
 
-### Part 2: Put the IMDB data into a pandas DataFrame object
+4. The skeleton contains several import statements. If you installed the packages and are using the same version of python in VS Code that you have in the terminal, VS Code should not complain about the import statements at this point.
+
+### Part 1: Put the IMDB data into a pandas DataFrame object
 
 In Assignment 3, we had a class for review vectors. That can be convenient for debugging/thinking about the problem (and we had to learn about classes!), but in actuality, people usually use tables to store data vectors. Such a table simply contains rows where one of the columns is the gold label and another column represents the data. There may be other columns as well. Columns may have names, which is convenient because then you can access cells in the table by their name. Tables are **fast** to access, so it is important to know how to use them. 
 
@@ -84,7 +80,7 @@ The main() in the skeleton is mostly written for you. Only a couple TODOs ask yo
 2. Once the code is working and you are satisfied with the results, go through all the remaining TODOs, study the function docs where needed, and add comments, where required, explaining in your words what the code is doing. You don't need to be 100% correct or formal, but you need to show effort. The lecture from May 11 should be helpful here.
 
 
-### Part 4: Submit
+### Part 3: Submit
 1. Rename your files appropriately: `UWNetID_imdb_dataframe.py` and `UWNetID_assignment4.py` and add them to the repo you created in Assignment 1. If you used any other files (other than packages such as numpy, pandas, and sklearn), add them also.
 2. Submit the commit number which you would like us to grade, to Canvas.
 
