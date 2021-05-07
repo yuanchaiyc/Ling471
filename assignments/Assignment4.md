@@ -43,8 +43,8 @@ Submit as usual, to your repo which you share with the instructors, and a commit
 2. Make sure you have `pip` working on your machine (e.g. run `pip install pandas` and see if pip actually runs). If you have issues (`pip is not recognized`), please consult the Discussion board ("Logistics and General Questions"); some solutions are provided there.
 
 3. After pip starts working, install the following packages (by typing `pip install [packagename]`):
-    1. pandas (Documentation: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)
-    2. scikit-learn (Documentation: https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html#sklearn.naive_bayes.MultinomialNB)
+    1. pandas (Documentation: [https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html))
+    2. scikit-learn (Documentation: [https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html#sklearn.naive_bayes.MultinomialNB](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html#sklearn.naive_bayes.MultinomialNB))
 
     There should be no red error messages, ideally, in your terminal, when you install each.
 
