@@ -50,7 +50,7 @@ Submit as usual, to your repo which you share with the instructors, and a commit
 
 4. The skeleton contains several import statements. If you installed the packages and are using the same version of python in VS Code that you have in the terminal, VS Code should not complain about the import statements at this point.
 
-### Part 1: Put the IMDB data into a pandas DataFrame and saving the result as a CSV file
+### Part 1: Putting the IMDB data into a pandas DataFrame and saving the result as a CSV file
 
 In Assignment 3, we had a class for review vectors. That can be convenient for debugging/thinking about the problem (and we had to learn about classes!), but in actuality, people usually use tables to store data vectors. Such a table simply contains rows where one of the columns is the gold label and another column represents the data. There may be other columns as well. Columns may have names, which is convenient because then you can access cells in the table by their name. Tables are **fast** to access, so it is important to know how to use them. 
 
