@@ -46,16 +46,13 @@ Set up a **private** repository to work on this assignment. Some options are lis
 
 You will need at least two packages in this assignment. That's great because it means you can write a program which does something complex and get some results without having to write several complex programs first and then to test and debug them for a long time until you fix all the bugs. However, installing packages can sometimes be a pain at first.
 
-1. Make sure you have `pip` working on your machine. First, just type `pip` in command line and if you see `command unrecognized`, then consult this, for example: [https://phoenixnap.com/kb/install-pip-windows](https://phoenixnap.com/kb/install-pip-windows). Sometimes even after you install `pip`, you still get the error message that the command is not recognized. You could try several solutions offered here: [https://stackoverflow.com/questions/23708898/pip-is-not-recognized-as-an-internal-or-external-command](https://stackoverflow.com/questions/23708898/pip-is-not-recognized-as-an-internal-or-external-command) -- one of them may work. Come to office hours and we can try them together.
+1. Make sure you have `pip` working on your machine. Please consult the Discussion board ("logistics"); some solutions are provided there.
 
-2. After pip start working (test with e.g. `pip install numpy`), install the following packages (by typing `pip install [packagename]`):
+2. After pip start working, install the following packages (by typing `pip install [packagename]`):
     1. pandas
     2. scikit-learn
 
     There should be no red error messages, ideally, in your terminal, when you install each.
-
-3.  Import or clone and copy **privately** the skeleton for Assignment 4. It will have all the import statements; run the program and make sure everything gets imported successfully.
-
 
 ### Part 2: Put the IMDB data into a pandas DataFrame object
 
