@@ -40,9 +40,9 @@ Submit as usual, to your repo which you share with the instructors, and a commit
 
 1. Set up a **private** repository to work on this assignment. Some options are listed here. You can download the skeleton repository and copy it to your submission repository (but then the instructors will see all your commits; it is not a problem for us though so long as you do not add other collaborators to the repository). Alternatively, import or otherwise privately copy the repository we created for Assignment 4 setup. Please **do not fork** (that has privacy issues because it turns out forks are public). To import, go to https://github.com/new/import and enter the assignment 4 url: `https://github.com/olzama/Ling471-SP2021-HW4`. Make sure to create a private repo at this step. In any case, please **make sure to not publish any solutions to this assignment anywhere, including but not limited to GitHub**.
 
-2. Make sure you have `pip` working on your machine. Please consult the Discussion board ("logistics"); some solutions are provided there.
+2. Make sure you have `pip` working on your machine (e.g. run `pip install pandas` and see if pip actually runs). If you have issues (`pip is not recognized`), please consult the Discussion board ("Logistics and General Questions"); some solutions are provided there.
 
-3. After pip start working, install the following packages (by typing `pip install [packagename]`):
+3. After pip starts working, install the following packages (by typing `pip install [packagename]`):
     1. pandas
     2. scikit-learn
 
