@@ -50,11 +50,11 @@ Submit as usual, to your repo which you share with the instructors, and a commit
 
 4. The skeleton contains several import statements. If you installed the packages and are using the same version of python in VS Code that you have in the terminal, VS Code should not complain about the import statements at this point.
 
-### Part 1: Put the IMDB data into a pandas DataFrame object
+### Part 1: Put the IMDB data into a pandas DataFrame and saving the result as a CSV file
 
 In Assignment 3, we had a class for review vectors. That can be convenient for debugging/thinking about the problem (and we had to learn about classes!), but in actuality, people usually use tables to store data vectors. Such a table simply contains rows where one of the columns is the gold label and another column represents the data. There may be other columns as well. Columns may have names, which is convenient because then you can access cells in the table by their name. Tables are **fast** to access, so it is important to know how to use them. 
 
-1.  Work on `imdb_dataframe_skeleton.py` until you have successfully created the file. There should be **one dataframe** for all the data. There are **three columns** which you must have, and they are the label of the review, the "type" (train or test), and the review itself (its text). You may add more columns if you find them helpful, such as the file name ("file" in the example below). You may call the columns whatever you like so long as you use them correctly in Part 2. However, as for the values, you must **use 1 and 0 for labels** where 1 is the "positive" ("good") review label. You also **should not modify the review text** apart from the usual clean up that you did for Assignment 3. You should have 50,000 rows in the resulting dataframe.
+1.  Work on `imdb_dataframe_skeleton.py` until you have successfully created a .csv file which contains **all the data in one table**. In particular, there are **three columns** which you must have, and they are the label of the review, the "type" (train or test), and the review itself (its text). You may add more columns if you find them helpful, such as the file name ("file" in the example below). You may call the columns whatever you like so long as you use them correctly in Part 2. However, as for the values, you must **use 1 and 0 for labels** where 1 is the "positive" ("good") review label. You also **should not modify the review text** apart from the usual clean up that you did for Assignment 3. You should have 50,000 rows in the resulting dataframe.
 
 3. If you print out the dataframe, you should see something like this:
 
