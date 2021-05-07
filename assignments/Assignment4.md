@@ -2,7 +2,7 @@
 
 # Assignment 4: Dataframes and the Naive Bayes classifier
 
-In this assignment, you will use a Naive Bayes classifier to classify the IMDB reviews. Its performance should be significantly better than our "simplistic model" on the training data, though it will still be not too impressive on the test data (it will be 50% accuracy on the test data, so, may as well be tossing a coin!).
+In this assignment, you will use a Naive Bayes classifier to classify the IMDB reviews. Its performance should be significantly better than our "simplistic model".
 
 The main() function is already provided for you for the most part. Your task is mostly to put the IMDB data into a **dataframe** (an object from the popular data science package called "pandas"), such that the data can be fed to off-the-shelf packages. That's what you'll spend most of your time working on in this assignment, and that's very normal for data science to spend lots of time on formatting the data such that a package accepts it. 
 
@@ -14,12 +14,21 @@ Submit as usual, to your repo which you share with the instructors, and a commit
 
 ### Summary of input/output:
 1. Your main() for this assignment will accept **4 file paths**: to train/pos, train/neg, test/pos, and test/neg.
-2. If you did everything as specified (and did not do any additional clean up or anything like that), then the output should be two numbers. The first number represents the accuracy of the Naive Bayes classifier on the **training data**. The second number is the accuracy on the **test data**. The expected output is:
+2. The output should look as follows:
     ```
-    92.464
-    50.0
+    Train accuracy:                 0.9736
+    Train precision positive:       0.9833
+    Train recall positive:          0.9635
+    Train precision negative:       0.9642
+    Train recall negative:          0.9836
+    Test accuracy:                  0.8697
+    Test precision positive:        0.9011
+    Test recall positive:           0.8305
+    Test precision negative:        0.8428
+    Test recall negative:           0.9089    
     ```
-    (We will not be computing precision and recall for this assignment.)
+    
+    Tne numbers may vary slightly but only very, very slightly, e.g. they should definitely be within a percent.
     
 ### Part 0: Getting the skeleton
 
