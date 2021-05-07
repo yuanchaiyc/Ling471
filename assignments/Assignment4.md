@@ -43,8 +43,8 @@ Submit as usual, to your repo which you share with the instructors, and a commit
 2. Make sure you have `pip` working on your machine (e.g. run `pip install pandas` and see if pip actually runs). If you have issues (`pip is not recognized`), please consult the Discussion board ("Logistics and General Questions"); some solutions are provided there.
 
 3. After pip starts working, install the following packages (by typing `pip install [packagename]`):
-    1. pandas
-    2. scikit-learn
+    1. pandas (Documentation: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)
+    2. scikit-learn (Documentation: https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html#sklearn.naive_bayes.MultinomialNB)
 
     There should be no red error messages, ideally, in your terminal, when you install each.
 
@@ -56,7 +56,7 @@ In Assignment 3, we had a class for review vectors. That can be convenient for d
 
 **NB**: If you look on Canvas --> Files, you will see a .csv file there called `imdb_master.cvs`. That file is similar in format to what we ask you to produce (but it has 100,000 rows instead of 50,000). You may look at it for reference and test the code in Part 2 with it, if you like. You will still be graded for whether your code for Part 1 works though, separately! We could just use that file directly but the goal is to learn how to **create** such files when they are not available.
 
-1.  Work on `imdb_dataframe_skeleton.py` until you have successfully created a .csv file which contains **all the data in one table**. In particular, there are **three columns** which you must have, and they are the label of the review, the "type" (train or test), and the review itself (its text). You may add more columns if you find them helpful, such as the file name ("file" in the example below). You may call the columns whatever you like so long as you use them correctly in Part 2. However, as for the values, you must **use 1 and 0 for labels** where 1 is the "positive" ("good") review label. You also **should not modify the review text** apart from the usual clean up that you did for Assignment 3. You should have 50,000 rows in the resulting dataframe.
+1.  Work on `imdb_dataframe_skeleton.py` until you have successfully created a .csv file which contains **all the data in one table**. In particular, there are **three columns** which you must have, and they are the label of the review, the "type" (train or test), and the review itself (its text). You may add more columns if you find them helpful, such as the file name ("file" in the example below). You may call the columns whatever you like so long as you use them correctly in Part 2. However, as for the values, you must **use 1 and 0 for labels** where 1 is the "positive" ("good") review label and 0 is the "negative" ("bad") label. You also **should not modify the review text** apart from the usual clean up that you did for Assignment 3. You should have 50,000 rows in the resulting dataframe.
 
 3. If you print out the dataframe, you should see something like this:
 
