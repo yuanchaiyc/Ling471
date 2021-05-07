@@ -109,7 +109,7 @@ May 11 | Machine Learning overview. Naive Bayes  | [Regression and classificatio
 May 13 | Deep Learning overview. Pre-trained models | [Deep learning for NLP; ](https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0d8f40a776d) [Testing NLP models](https://slideslive.com/38929272/beyond-accuracy-behavioral-testing-of-nlp-models-with-checklist) | Blogs 4
 May 18 | Working with linguistic corpora | TBA | 
 May 20 | Working with linguistic corpora | TBA | 
-May 25 | Visualization and Communication | TBA | Assignment 4
+May 25 | Visualization and Communication | TBA | [Assignment 4](https://olzama.github.io/Ling471/assignments/Assignment4.html)
 May 27 | Visualization and Communication | TBA | Blogs 5
 June 1 | Presentations 
 June 3 | Presentations
