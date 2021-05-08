@@ -71,7 +71,7 @@ In Assignment 3, we had a class for review **vectors**. That can be convenient f
 
     -- these are the first five negative reviews from the test data. You may put training data first, but then make sure to read it in appropriately in Part 2. Once again, **make sure** you have **label, type, and review** columns in place and with the appropriate values. The table may look different in other respects.
 
-4. Make sure to **save the result in a file** so that you don't have to redo this step every time you test your Part 2 program. This line of code is already included in the skeleton. The file will appear in your working directory. You can change this if you like!
+4. Make sure to **save the result in a file** so that you don't have to redo this step every time you test your Part 2 program. This line of code is already included in the skeleton. The file should appear in your working directory.
  
 ### Part 2: Understanding and finishing up the main() function.
 
