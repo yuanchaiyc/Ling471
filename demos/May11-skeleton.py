@@ -22,7 +22,52 @@ matrix2 = [(2, 0, 2),
            (2, 2, 2)]
 
 
+# Fruit pie sales exercise:
 
+# TODO: Store the pie prices in a variable as a 1x3 matrix (vector):
+
+matrix1 = 
+
+# TODO: Store the sales records in a variable as a 3x4 matrix:
+
+matrix2 = 
+
+# TODO: convert to pandas dataframes. 
+# Note: ideally, the indices of the first matrix should be the same 
+# as the columns of the second. Then it will be easier to multiply :).
+
+df1 = 
+df2 = 
+
+# Print out to check dimensions and indices/column names:
+
+print("Matrix1:")
+
+print(df1.to_string(index=True))
+
+print("Dimension:")
+
+print(df1.shape)
+
+
+print("Matrix2:")
+
+print(df2.to_string(index=True))
+
+print("Dimension:")
+
+print(df2.shape)
+
+# Multiply the matrices. It is the dot() function:
+result = df.dot(dataFrame2)
+
+print("Matrix multiplication – resultant matrix:")
+
+print(result.to_string(index=False))
+
+print("Dimension of the resultant matrix:")
+
+print(result.shape)
 
 # The data: Distance needed for cars at different speeds to stop
 data_url = 'https://raw.githubusercontent.com/cmdlinetips/data/master/cars.tsv'
