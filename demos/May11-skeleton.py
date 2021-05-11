@@ -22,6 +22,11 @@ matrix2 = [(2, 0, 2),
            (2, 2, 2)]
 
 
+# Data structure options for creating dataframes: 1) list of lists (each list is a ROW)
+# 2) dicts (each key is a column name, each value, which must be a list, is a row)
+# Can also create a list of row/column names and pass it to the constructor.
+# The index= parameter is for row names; the columns= parameter is for column names.
+
 # Fruit pie sales exercise:
 
 # TODO: Store the pie prices in a variable as a 1x3 matrix (vector):
