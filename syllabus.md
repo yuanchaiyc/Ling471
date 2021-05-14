@@ -109,7 +109,7 @@ May 11 | [Machine Learning and matrices: Linear regression; ](slides/0511.pdf) [
 May 13 | [ML-contd. Classification: Logistic regression, Naive Bayes; ](slides/0513.pdf) [code](demos/May13.py)| [Logistic regression; ](https://www.tibco.com/reference-center/what-is-logistic-regression)  [Naive Bayes; ](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)  | Blogs 4
 May 18 | Language models. Non-linearity and neural nets. Deep Learning overview.  | [Deep learning for NLP; ](https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0d8f40a776d) [Non-linear problems; ](https://towardsdatascience.com/how-neural-networks-solve-the-xor-problem-59763136bdd7) [Testing NLP models](https://slideslive.com/38929272/beyond-accuracy-behavioral-testing-of-nlp-models-with-checklist) | 
 May 20 | Using linguistic knowledge in NLP | [Ettinger et al. 2017](https://www.aclweb.org/anthology/W17-5401.pdf) | 
-May 25 | Working with linguistic corpora | Aijmer 2021 (found on Canvas-->Files-->papers)  | [Assignment 4](https://olzama.github.io/Ling471/assignments/Assignment4.html)
+May 25 | Working with linguistic corpora | Aijmer 2021 or Stange 2021 (both found on Canvas-->Files-->papers)  | [Assignment 4](https://olzama.github.io/Ling471/assignments/Assignment4.html)
 May 27 | Visualization and Communication | 🐙[To dissect an octopus; ](https://blog.julianmichael.org/2020/07/23/to-dissect-an-octopus.html) [visualization with pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)| Blogs 5
 June 1 | Presentations 
 June 3 | Presentations
