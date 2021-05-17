@@ -1,6 +1,6 @@
 # Assignment 5
 
-In this final assignment, you will (1) add some linguistic preprocessing to your data; and (2) compare various models with each other, ending up preparing a report with a few visualizations. (You will also use standard output (print statements) as a progress indicator for slow programs.)
+In this final assignment, you will (1) add some linguistic preprocessing to your data; and (2) compare various models with each other, preparing a report with a few visualizations. (You will also use standard output (print statements) as a progress indicator for slow programs.)
 
 ### Submission summary, to be committed to the repo that you share with the instructors:
 1. The updated `imdb_dataframe.py` (see Part 1).
