@@ -42,4 +42,19 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
 
 
 ### Part 2: Model comparison (in UWNetID_assignment5.py)
-1. Compare the most frequent words from the "review" (uncleaned, original text) column to the most frequent words in the "cleaned_review" column. Look at training reviews only. To do this, use the TF-IDF vectorizer object. This object has a method `get_features()`.
+1. Start a document (in your favorite text editor but such that it can be saved as PDF). In this Part, we will ask you to include various tables and figures in the document and comment on them.
+
+2. Import your Assignment 3 and Assignment 4 code into the Assignment 5 code as modules. (You may or may not need Assignment 2, depending on whether your Assignment 3 relies on it.)
+ 
+3. Using python documentation and/or StackOverflow (or similar), **learn how to sort a python dict by value in reverse (descending order)**. (I could explain it to you, but it is important to learn to figure such things out on your own.) For example, given a dict: `{'a':1, 'b':3, g: '2'}`, you should get: `{'b':3, 'g':2, 'a':1}`. Feel free to ask on Discussion board if you don't understand the documentation/solution.
+
+4. After you successfully sort a toy python dict by value in descending order, use this knowledge to compare the most frequent words from the "review" (uncleaned, original text) column to the most frequent words in the "cleaned_review" column, using your word counter from Assignment 2 or any other method (you can use others' code here, but do give the source in a comment). Look at training reviews only. **In your document, present** the most common (top 30) words in positive and negative reviews (separately!), for cleaned and uncleaned data. So, you have 2 dimensions: positive/negative and cleaned/uncleaned. That's **four** groups of sorted word counts. You can use any mode of presentation, e.g. a table or a graph. It should be effective/readable. **It must not be a text description but a visualization**. You can accompany the visualization with a comment.
+
+5. Run several different models and record the 10 numbers (which you reported for Assignment 4) **for each model**:
+    5.1 predictSimplistic (now run it not only on training but also on test data)
+    5.2 NaiveBayes on the original review text (that's your Assignment 4)
+    5.3 NaiveBayes with additional clean up provided in Assignment 5 skeleton **but without removing stopwords and with no lemmatization**
+    5.4 Naive Bayes with additional clean up and with stopwords removed
+    5.5 Naive Bayes with additional clean up, with stopwords removed, and with lemmatization
+
+6. Plot all numbers in one or several graphs, such that the X axis is the type of model and the Y axis is a percentage score. Use different colors to indicate accuracy, precision, and recall. You may use different graphs for positive and negative reviews, or you may use different colors/styles of line/bar/whatever-you-choose-for-visualization here as well and cram everything in one plot. **It must be clear and readable, and effective in conveying the information.**
