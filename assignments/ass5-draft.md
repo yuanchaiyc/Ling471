@@ -3,8 +3,23 @@
 In this final assignment, you will (1) add some linguistic preprocessing to your data; and (2) compare various models with each other, ending up preparing a report with a few visualizations.
 
 ### Submission summary:
-1. You **do not** need to submit imbd_dataframe.py
-2. The csv file with at least 4 columns: file type (train or test), gold label (1 or 0), review text, and cleaned review text. Additional columns (such as file name) are optional.
+1. Updated `imdb_dataframe.py` (see Part I)
+
+2. A text file capturing the **standard output** of your `imdb_dataframe.py`. Name it: UW_NET_ID_dataframe.txt. The file should look something like this:
+    ```
+    Test NEG: Processing dir 1/4, file 100 out of 12500
+    Test NEG: Processing dir 1/4, file 200 out of 12500
+    Test NEG: Processing dir 1/4, file 300 out of 12500
+    Test NEG: Processing dir 1/4, file 400 out of 12500
+    ...
+    Train POS: Processing dir 4/4, file 12200 out of 12500
+    Train POS: Processing dir 4/4, file 12300 out of 12500
+    Train POS: Processing dir 4/4, file 12400 out of 12500
+    ```
+    Standard output are the print statements. To capture it in a file, run your program in command line like this: 
+    `python imdb_dataframe.py dir1 dir2 dir3 dir4 > output.txt`
+
+4. The **csv file** that your `imdb_dataframe.py` output, with at least 4 columns: file type (train or test), gold label (1 or 0), review text, and cleaned review text. Additional columns (such as file name) are optional.
 
 ### Part 0: Get the skeleton
 
