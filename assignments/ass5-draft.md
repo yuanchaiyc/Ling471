@@ -1,6 +1,6 @@
 # Assignment 5
 
-In this final assignment, you will (1) add some linguistic preprocessing to your data; and (2) compare various models with each other, preparing a report with a few visualizations. (You will also use standard output (print statements) as a progress indicator for slow programs.)
+In this final assignment, you will (1) add some linguistic preprocessing to your data; and (2) compare various models with each other (including different *data* models/formats), preparing a report with a few visualizations. (You will also use standard output (print statements) as a progress indicator for slow programs.)
 
 ### Submission summary, to be committed to the repo that you share with the instructors:
 1. The updated `imdb_dataframe.py` (see Part 1).
@@ -52,11 +52,11 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
 4. After you successfully sort a toy python dict by value in descending order, use this knowledge to compare the most frequent words from the "review" (uncleaned, original text) column to the most frequent words in the "cleaned_review" column, using your word counter from Assignment 2 or any other method (you can use others' code here, but do give the source in a comment). Look at training reviews only. **In your document, present** the most common (top 30) words in positive and negative reviews (separately!), for: (i) original data; (ii) data cleaned from non-letters; and (iii) data without stopwords. That's **six** groups of sorted word counts. You can use any mode of presentation, e.g. a table or a graph/plot where word counts are e.g. bars. It should be effective/readable. **It must not be a text description but a visualization** (a table counts as visualization so long it is well-formatted). You can accompany the visualization with a comment.
 
 5. Run several different models and record the 10 numbers (which you reported for Assignment 4) **for each model**:
-    5.1. predictSimplistic (now run it not only on training but also on test data)
-    5.2. NaiveBayes on the original review text (that's your Assignment 4)
-    5.3. NaiveBayes with additional clean up provided in Assignment 5 skeleton **but without lowercasing, without removing stopwords, and with no lemmatization**
-    5.4. Naive Bayes with additional clean up and with lowercasing.
-    5.4. Naive Bayes with additional clean up, lowercasing, and with stopwords removed.
-    5.5. Naive Bayes with additional clean up, with lowercasing, with stopwords removed, and with lemmatization.
+    1. predictSimplistic (now run it not only on training but also on test data)
+    2. NaiveBayes on the original review text (that's your Assignment 4)
+    3. NaiveBayes with additional clean up provided in Assignment 5 skeleton **but without lowercasing, without removing stopwords, and with no lemmatization**
+    4. Naive Bayes with additional clean up and with lowercasing.
+    5. Naive Bayes with additional clean up, lowercasing, and with stopwords removed.
+    6. Naive Bayes with additional clean up, with lowercasing, with stopwords removed, and with lemmatization.
 
-6. Plot all numbers in one or several graphs, such that the X axis is the type of model and the Y axis is a percentage score. Use different colors to indicate training vs. test data and furthermore different colors/style for lines tracking accuracy, precision, and recall. You may use different graphs for positive and negative reviews, or you may use different colors/styles of line/bar/whatever-you-choose-for-visualization here as well and cram *everything* in one plot. Keep in mind that the graph(s) **must be clear and readable, and effective in conveying the information.** It is not obvious what is best here. For example, keeping train and test data in one plot may be very effective, because it is then easier to compare them, and same goes for positive and negative reviews. But perhaps you can't cram *everything* in one graph. You will need to prioritize and make decisions.
+6. Plot all numbers in one or several graphs, such that the X axis is the type of model (just its name) and the Y axis is a percentage score. So, you will have 7 (seven) discrete ticks on the X axis, but 10 scores corresponding to **each**, so, potentially 10 different lines/bars/charts in one plot. Use different colors to indicate training vs. test data and furthermore different colors/style for lines tracking accuracy, precision, and recall. You may use different graphs for positive and negative reviews, or you may use different colors/styles of line/bar/whatever-you-choose-for-visualization here as well and cram *everything* in one plot. Keep in mind that the graph(s) **must be clear and readable, and effective in conveying the information.** It is not obvious what is best here. For example, keeping train and test data in one plot may be very effective, because it is then easier to compare them, and same goes for positive and negative reviews. But perhaps you can't cram *everything* in one graph. You will need to prioritize and make decisions. Experiment and explore; looks at how others visualize multiple models comparison and try to learn how to do what seems effective to you.
