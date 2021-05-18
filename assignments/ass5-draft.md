@@ -25,7 +25,9 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
 
 5. Your UW_NET_ID_assignment5.py (Part 2)
 
-### Part 0: Get the skeleton
+### Part 0: Get the skeleton and run the neural model
+1. Obtain the skeleton the usual way from FIXME.
+2. In the skeleton, there is a file `imbd_neural.py`. Install all the missing packages (particularly `tensorflow`) and make sure the program runs as expected (you can check against the original blog here:[https://thedatafrog.com/en/articles/word-embedding-sentiment-analysis/](https://thedatafrog.com/en/articles/word-embedding-sentiment-analysis/)). Ask any questions you like about the code on the discussion board, and note how the author of the code visualizes things such as accuracy in matplotlib.
 
 ### Part 1: Better clean up and lemmatization (in imdb_dataframe.py)
 
