@@ -1,3 +1,5 @@
+[home](../index.md)
+
 # Assignment 5
 
 In this final assignment, you will (1) add some linguistic preprocessing to your data; and (2) compare various models with each other (including different *data* models/formats), preparing a report with a few visualizations. (You will also use standard output (print statements) as a progress indicator for slow programs.)
@@ -71,3 +73,4 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
 
 1. There are two TODOs in `neural_imdb.py`. They ask you to come up with an experimental "unseen" review and visualize it. Complete these TODOs. After this, you should have 7 `png` files produced by this program: `accuracy.png, words.png, Review15.png, Review17.png, my_review1.png, my_review2.png, and my_review3.png`. Include all these figures in your report/document. Comment on each figure, what it means/represents, and anything you find interesting about it. For `my_review2.png` and `my_review2.png`in particular, comment about whether the spatial representation for this "review" in 2D ended up meaningful in any respect (like the representation of `my_review1`) and if not, why do you think that is.
 
+[home](../index.md)
