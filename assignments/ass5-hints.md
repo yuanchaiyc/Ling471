@@ -1,42 +1,9 @@
 [home](../index.md)
 
-# Assignment 5
+# Assignment 5 Hints
 
-In this final assignment, you will (1) add some linguistic preprocessing to your data; and (2) compare various models with each other (including different *data* models/formats), preparing a report with a few visualizations. (You will also use standard output (print statements) as a progress indicator for slow programs.)
+Consult these steps if you don't know how to start the programming in Part 1 and Part 2.
 
-**You have come very far. You started perhaps with zero programming experience, and you are now going to be manipulating powerful data models! Take a moment to think back and appreciate just how far you have come!**
-
-**This assignment is going to be annoying. It's long and at times tedious. Sorry! I think you won't regret going through it though, because this is the real practical stuff :)**.
-
-### Submission summary, to be committed to the repo that you share with the instructors:
-1. The updated `imdb_dataframe.py` (see Part 1).
-
-2. A text file capturing the **standard output** of your `imdb_dataframe.py`. Name it: UW_NET_ID_dataframe.txt. The file should look something like this:
-    ```
-    Test NEG: Processing dir 1/4, file 100 out of 12500
-    Test NEG: Processing dir 1/4, file 200 out of 12500
-    Test NEG: Processing dir 1/4, file 300 out of 12500
-    ...
-    ...
-    ...
-    Train POS: Processing dir 4/4, file 12200 out of 12500
-    Train POS: Processing dir 4/4, file 12300 out of 12500
-    Train POS: Processing dir 4/4, file 12400 out of 12500
-    ```
-    **You can format this output as you like**, so long as it is clearly reporting progress. It **does not** need to look exactly like above.
-
-3. The **csv file** that your `imdb_dataframe.py` output, with at least 7 (seven) columns: file type (train or test), gold label (1 or 0), original review text, cleaned review text, lowercased review text, review text with stopwords removed, and lemmatized review text. (These levels of processing are already implemented for you and explained in Part 1.) Additional columns (such as file name) are optional.
-
-4. A PDF file with your report for Part 2.
-
-5. Your UW_NET_ID_assignment5.py (Part 2)
-
-6. If you did the bonus word embeddings part (Part III), your updated `neural_imdb.py` with the TODOs completed.
-
-### Part 0: Get the skeleton and run the neural model
-1. Obtain the skeleton the usual way from FIXME.
-
-2. In the skeleton, there is a file `imbd_neural.py`. This is a **bonus** assignment. If you wish to complete it, install all the missing packages (particularly `tensorflow`) and make sure the program runs as expected (you can check against the original blog here:[https://thedatafrog.com/en/articles/word-embedding-sentiment-analysis/](https://thedatafrog.com/en/articles/word-embedding-sentiment-analysis/)). Ask any questions you like about the code on the discussion board, and note how the author of the code visualizes things such as accuracy in matplotlib. It's pretty **fun** but feel free to leave it till the end. There is no programming involved, everything is already implemented.
 
 ### Part 1: Better clean up and lemmatization (in imdb_dataframe.py and in UWNetID_assignment5.py)
 
@@ -56,11 +23,9 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
 
 7. After you've successfully sorted a toy python dict by value in descending order, use this knowledge to compare the most frequent words from the "review" (uncleaned, original text) column to the most frequent words in the newly added columns, using your word counter from Assignment 2 or any other method (you can use others' code here, but do give the source in a comment). Look at **training reviews only**. 
 
-8. In your document, present the most common (top 20) words in positive and negative reviews (separately!), for: (i) original data; (ii) data cleaned from non-letters; and (iii) data without stopwords. That's **six** groups of sorted word counts. You can use any mode of presentation, e.g. a table or a graph/plot where word counts are e.g. bars. It should be effective/readable. **It must not be a text description but a visualization** (a table counts as visualization so long it is well-formatted). You can accompany the visualization with a comment.
 
 
 ### Part 2: Model comparison (in UWNetID_assignment5.py)
-1. Start a document (in your favorite text editor but such that it can be saved as PDF). In this Part, we will ask you to include various tables and figures in the document and comment on them.
 
 2. Import or copy your `evaluation.py` functions computing accuracy and precision and recall into Assignment 5. 
 
@@ -81,10 +46,5 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
     
     **You may either program your main() to run all the functions one after another automatically and automatically populate an array with the scores, or you may output the numbers for each model in a separate file and either read them automatically from a file or manually put them into an array for plotting**. Doing everything automatically is better but we are not requiring that in this assignment. If you are putting numbers in manually, triple check that you didn't make any mistakes; that's a lot of numbers to enter!
 
-6. Plot all numbers in one or several graphs, such that the X axis is the type of model (just its name) and the Y axis is a percentage score. So, you will have 7 (seven) discrete ticks on the X axis, but 10 scores corresponding to **six** of them, so, potentially 10 different lines/bars/charts in one plot. Use different colors to indicate training vs. test data and furthermore different colors/style for lines tracking accuracy, precision, and recall. You may use different graphs for positive and negative reviews, or you may use different colors/styles of line/bar/whatever-you-choose-for-visualization here as well and cram *everything* in one plot. Keep in mind that the graph(s) **must be clear and readable, and effective in conveying the information.** It is not obvious what is best here. For example, keeping train and test data in one plot may be very effective, because it is then easier to compare them, and same goes for positive and negative reviews. But perhaps you can't cram *everything* in one graph. You will need to prioritize and make decisions. Experiment and explore; looks at how others visualize multiple models comparison and try to learn how to do what seems effective to you. 
-
-### Part 3: Fun with embeddings!
-
-1. There are two TODOs in `neural_imdb.py`. They ask you to come up with an experimental "unseen" review and visualize it. Complete these TODOs. After this, you should have 7 `png` files produced by this program: `accuracy.png, words.png, Review15.png, Review17.png, my_review1.png, my_review2.png, and my_review3.png`. Include all these figures in your report/document. Comment on each figure, what it means/represents, and anything you find interesting about it. For `my_review2.png` and `my_review2.png`in particular, comment about whether the spatial representation for this "review" in 2D ended up meaningful in any respect (like the representation of `my_review1`) and if not, why do you think that is.
 
 [home](../index.md)
