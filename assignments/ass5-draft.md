@@ -6,7 +6,9 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
 
 **You have come very far. You started perhaps with zero programming experience, and you are now going to be manipulating powerful data models! Take a moment to think back and appreciate just how far you have come!**
 
-**This assignment is going to be annoying. It's long and at times tedious. Sorry! I think you won't regret going through it though, because this is the real practical stuff :)**.
+**Disclaimer:** This assignment may be somewhat annoying. It's long and at times tedious. Sorry! I think you won't regret going through it though, because this is the real practical stuff :).
+
+**Disclaimer2:** To our disappointment, we will find that linguistic processing didn't give us much! It is not the case that linguistic knowledge isn't important; it is more that it is hard to integrate it properly into the model. See Part 1...
 
 ### Submission summary, to be committed to the repo that you share with the instructors:
 1. The updated `imdb_dataframe.py` (see Part 1).
@@ -53,23 +55,31 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
 
 5. Compare the most frequent words from the "review" (uncleaned, original text) column to the most frequent words in the newly added columns, using your word counter from Assignment 2 or any other method (you can use others' code here, but do give the source in a comment). Look at **training reviews only**. See [hints](ass5-hints.md).
 
-6. In your document, present the most common (top 20) words in positive and negative reviews (separately!), for: (i) original data; (ii) data cleaned from non-letters; and (iii) data without stopwords. That's **six** groups of sorted word counts. You can use any mode of presentation, e.g. a table or a graph/plot where word counts are e.g. bars. It should be effective/readable. **It must not be a text description but a visualization** (a table counts as visualization so long it is well-formatted). You can accompany the visualization with a comment.
+6. In your document, present the most common (top 20) words in positive and negative reviews (separately!), for: (i) original data; (ii) data cleaned from non-letters; (iii) data without stopwords, and (iv) lemmatized data. That's **eight** groups of sorted word counts. You can use any mode of presentation, e.g. a table or a graph/plot where word counts are e.g. bars. It should be effective/readable. It can be a couple tables. **It must not be a text description but a visualization** (a table counts as visualization so long it is well-formatted). You can accompany the visualization with a comment.
+
+7. Inspect the "lemmatized" words. Did the NLTK lemmatizer do a good job? What can you say about what it did?
 
 
 ### Part 2: Model comparison (in UWNetID_assignment5.py)
  
-1. Run several different models and record the 10 numbers (which you reported for Assignment 4) **for each model**:
-    1. predictSimplistic (now run it not only on training but also on test data)
+1. Run several different models (differing mainly in data processing) and record the 10 numbers (which you reported for Assignment 4) **for each model**:
     2. NaiveBayes on the original review text (that's your Assignment 4)
     3. NaiveBayes with additional clean up provided in Assignment 5 skeleton **but without lowercasing, without removing stopwords, and with no lemmatization**
     4. Naive Bayes with additional clean up and with lowercasing.
     5. Naive Bayes with additional clean up, lowercasing, and with stopwords removed.
     6. Naive Bayes with additional clean up, with lowercasing, with stopwords removed, and with lemmatization.
-    7. The neural model that you got with the skeleton (yes, it uses a different version of the dataset. It's not ideal but it's OK for this assignment. Don't do that (compare models' performance on different versions of data) in real life :). For the neural model, you only have the accuracy score. That's OK.
+    7. **BONUS**: The neural model that you got with the skeleton (yes, it uses a different version of the dataset. It's not ideal but it's OK for this assignment. Don't do that (compare models' performance on different versions of data) in real life :). For the neural model, you only have the accuracy score. That's OK.
+    8. **BONUS**: predictSimplistic (now run it not only on training but also on test data)
     
     See [hints](ass5-hints.md).
     
-6. Plot all numbers in one or several graphs, such that the X axis is the type of model (just its name) and the Y axis is a percentage score. So, you will have 7 (seven) discrete ticks on the X axis, but 10 scores corresponding to **six** of them, so, potentially 10 different lines/bars/charts in one plot. Use different colors to indicate training vs. test data and furthermore different colors/style for lines tracking accuracy, precision, and recall. You may use different graphs for positive and negative reviews, or you may use different colors/styles of line/bar/whatever-you-choose-for-visualization here as well and cram *everything* in one plot. Keep in mind that the graph(s) **must be clear and readable, and effective in conveying the information.** It is not obvious what is best here. For example, keeping train and test data in one plot may be very effective, because it is then easier to compare them, and same goes for positive and negative reviews. But perhaps you can't cram *everything* in one graph. You will need to prioritize and make decisions. Experiment and explore; looks at how others visualize multiple models comparison and try to learn how to do what seems effective to you. 
+6. Plot all numbers in one or several graphs, such that the X axis is the type of model (just its name) and the Y axis is a percentage score. So, you will have 5--7 (five to seven) discrete ticks on the X axis, but 10 scores corresponding to most of them, so, potentially 10 different lines/bars/charts in one plot. Use different colors to indicate training vs. test data and furthermore different colors/style (e.g. dotted) for lines tracking accuracy, precision, and recall. You may use different graphs for positive and negative reviews, or you may use different colors/styles of line/bar/whatever-you-choose-for-visualization here as well and cram *everything* in one plot. Keep in mind that the graph(s) **must be clear and readable, and effective in conveying the information.** It is not obvious what is best here. For example, keeping train and test data in one plot may be very effective, because it is then easier to compare them, and same goes for positive and negative reviews. But perhaps you can't cram *everything* in one graph. You will need to prioritize and make decisions. Experiment and explore; looks at how others visualize multiple models comparison and try to learn how to do what seems effective to you. 
+
+7. In the document, explain what the graphs indicate, in your own words. Then comment on the numbers.  We don't know why the numbers are what they are, but we can think about several things:
+    1. English as a language, its properties. E.g. English is a morphologically simple language. How does this potentially affect the value of lemmatization?
+    2. Dataset size. IMDB is fairly large! How may this affect the value of preprocessing?
+    3. The genre. How do people tend to write reviews, what style/grammar do they tend to employ? How might that affect the value of e.g. lowercasing?
+    4. ...anything else that you might think about here! We look forward to hearing your thoughts!
 
 ### Part 3: Fun with embeddings!
 
