@@ -38,6 +38,9 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
 
 2. In the skeleton, there is a file `imbd_neural.py`. This is a **bonus** assignment. If you wish to complete it, install all the missing packages (particularly `tensorflow`) and make sure the program runs as expected (you can check against the original blog here:[https://thedatafrog.com/en/articles/word-embedding-sentiment-analysis/](https://thedatafrog.com/en/articles/word-embedding-sentiment-analysis/)). Ask any questions you like about the code on the discussion board, and note how the author of the code visualizes things such as accuracy in matplotlib. It's pretty **fun** but feel free to leave it till the end. There is no programming involved, everything is already implemented.
 
+3. Start a document (in your favorite text editor but such that it can be saved as PDF). We will later ask you to include various tables and figures in the document and comment on them.
+
+
 ### Part 1: Better clean up and lemmatization (in imdb_dataframe.py and in UWNetID_assignment5.py)
 
 1. In the `imdb_dataframe.py` skeleton, you will notice that the CleanFileContents() function has changed. We added several additional things to it. There are some comments there explaining the new steps. Set up the debugger and step through some of the program execution (e.g. some number of words in one file) to understand what the function is doing now and what changed.
@@ -54,17 +57,8 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
 
 
 ### Part 2: Model comparison (in UWNetID_assignment5.py)
-1. Start a document (in your favorite text editor but such that it can be saved as PDF). In this Part, we will ask you to include various tables and figures in the document and comment on them.
-
-2. Import or copy your `evaluation.py` functions computing accuracy and precision and recall into Assignment 5. 
-
-3. Put all your Naive Bayes code from Assignment 4 into a function and import that function into Assignment 5. 
-
-4. Modify it such that it accepts a column name and grabs the review text from that column. 
-
-5. Modify it such that it returns a dict or a list contatining the 10 output numbers. It is up to you which order/format; just make sure it is clear to you what that is and you don't make a mistake later accessing the numbers.
  
-5. Run several different models and record the 10 numbers (which you reported for Assignment 4) **for each model**:
+1. Run several different models and record the 10 numbers (which you reported for Assignment 4) **for each model**:
     1. predictSimplistic (now run it not only on training but also on test data)
     2. NaiveBayes on the original review text (that's your Assignment 4)
     3. NaiveBayes with additional clean up provided in Assignment 5 skeleton **but without lowercasing, without removing stopwords, and with no lemmatization**
@@ -73,8 +67,8 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
     6. Naive Bayes with additional clean up, with lowercasing, with stopwords removed, and with lemmatization.
     7. The neural model that you got with the skeleton (yes, it uses a different version of the dataset. It's not ideal but it's OK for this assignment. Don't do that (compare models' performance on different versions of data) in real life :). For the neural model, you only have the accuracy score. That's OK.
     
-    **You may either program your main() to run all the functions one after another automatically and automatically populate an array with the scores, or you may output the numbers for each model in a separate file and either read them automatically from a file or manually put them into an array for plotting**. Doing everything automatically is better but we are not requiring that in this assignment. If you are putting numbers in manually, triple check that you didn't make any mistakes; that's a lot of numbers to enter!
-
+    See [hints](ass5-hints.md).
+    
 6. Plot all numbers in one or several graphs, such that the X axis is the type of model (just its name) and the Y axis is a percentage score. So, you will have 7 (seven) discrete ticks on the X axis, but 10 scores corresponding to **six** of them, so, potentially 10 different lines/bars/charts in one plot. Use different colors to indicate training vs. test data and furthermore different colors/style for lines tracking accuracy, precision, and recall. You may use different graphs for positive and negative reviews, or you may use different colors/styles of line/bar/whatever-you-choose-for-visualization here as well and cram *everything* in one plot. Keep in mind that the graph(s) **must be clear and readable, and effective in conveying the information.** It is not obvious what is best here. For example, keeping train and test data in one plot may be very effective, because it is then easier to compare them, and same goes for positive and negative reviews. But perhaps you can't cram *everything* in one graph. You will need to prioritize and make decisions. Experiment and explore; looks at how others visualize multiple models comparison and try to learn how to do what seems effective to you. 
 
 ### Part 3: Fun with embeddings!
