@@ -8,7 +8,7 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
 
 **Disclaimer:** This assignment may be somewhat annoying. It's long and at times tedious. Sorry! I think you won't regret going through it though, because this is the real practical stuff :).
 
-**Disclaimer2:** To our disappointment, we will find that linguistic processing didn't give us much! It is not the case that linguistic knowledge isn't important; it is more that it is hard to integrate it properly into the model. See Part 1...
+**Disclaimer2:** To our disappointment, we will find that linguistic processing didn't give us much! It is not the case that linguistic knowledge isn't important; it is more that it is hard to integrate it properly into the model. Also, sometimes the simplest model is simply... *good enough*! And that's an important lesson. 
 
 ### Submission summary, to be committed to the repo that you share with the instructors:
 1. The updated `imdb_dataframe.py` (see Part 1).
