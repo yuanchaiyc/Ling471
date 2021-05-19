@@ -27,13 +27,13 @@ Consult these steps if you don't know how to start the programming in Part 1 and
 
 ### Part 2: Model comparison (in UWNetID_assignment5.py)
 
-2. Import or copy your `evaluation.py` functions computing accuracy and precision and recall into Assignment 5. 
+1. Import or copy your `evaluation.py` functions computing accuracy and precision and recall into Assignment 5. 
 
-3. Put all your Naive Bayes code from Assignment 4 into a function and import that function into Assignment 5. 
+2. Put all your Naive Bayes code from Assignment 4 into a function and import that function into Assignment 5. 
 
-4. Modify it such that it accepts a column name and grabs the review text from that column. 
+3. Modify it such that it accepts a column name and grabs the review text from that column. 
 
-5. Modify it such that it returns a dict or a list contatining the 10 output numbers. It is up to you which order/format; just make sure it is clear to you what that is and you don't make a mistake later accessing the numbers.
+4. Modify it such that it returns a dict or a list contatining the 10 output numbers. It is up to you which order/format; just make sure it is clear to you what that is and you don't make a mistake later accessing the numbers.
  
 5. Run several different models and record the 10 numbers (which you reported for Assignment 4) **for each model**:
     1. predictSimplistic (now run it not only on training but also on test data)
