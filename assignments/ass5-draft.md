@@ -45,15 +45,15 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
 
 ### Part 1: Preprocessing (in imdb_dataframe.py and in UWNetID_assignment5.py)
 
-1. In the `imdb_dataframe.py` skeleton, you will notice that the **CleanFileContents()** function has changed. We added several additional things to it. There are some comments there explaining the new steps. Set up the debugger and **step through some of the program execution** (e.g. some number of words in one file) to understand what the function is doing now and what changed.
+1. In the `imdb_dataframe.py` skeleton, you will notice that the **CleanFileContents()** function has changed. We added several additional things to it. There are some comments there explaining the new steps. Set up the debugger and **step through some of the program execution** (e.g. some number of words in one file) to understand what the function is doing now and what changed. **NB:** You need to pip-install the **nltk package** for this to work. Make sure you can do that **early**.
 
-3. Merge your `imdb_dataframe.py` with this new one such that it works with the new CleanFileContents(), and store **additional return values** (`cleaned_text`, `lowercased`, `no_stopwords`, and `lemmatized`) in **additional columns** in the dataframe, **named appropriately**. 
+3. Merge your `imdb_dataframe.py` with this new one such that it works with the new CleanFileContents(), and store **additional return values** (`cleaned_text`, `lowercased`, `no_stopwords`, and `lemmatized`) in **additional columns** in the dataframe, named appropriately. 
 
 4. Run `imdb_dataframe.py` on all IMDB files saving the result in a new csv file. You may call it `my_expanded_imdb.csv`. 
 
 5. Step 4 takes some time. This is because you are iterating over every word in each text and performing expensive language processing such as stemming. To reassure yourself that your program is making progress, insert a print statement in main() which will print out a message for every 100th file: "Processing dir {} out of {}, file {} out of {}".    **Capture the standard output** in a text file. NB: This step (both the progress indicator and capturing standard output in a file) is **required** because these are both important techniques and we want to make sure you learn it! See [hints](ass5-hints.md).
     
-5. Compare the **most frequent words** from the "review" (uncleaned, **original** text) column to the most frequent words in the **newly added** columns, using your word counter from Assignment 2 or any other method (you can use others' code here, but do give the source in a comment). Look at **training reviews only**. See [hints](ass5-hints.md).
+5. Once you have the new dataframe file, move to `assignment5.py`. There, compare the **most frequent words** from the "review" (uncleaned, **original** text) column to the most frequent words in the **newly added** columns, using your word counter from Assignment 2 or any other method (you can use others' code here, but do give the source in a comment). Look at **training reviews only**. See [hints](ass5-hints.md).
 
 6. In your document, present the most common (**top 20**) words in positive and negative reviews (separately!), for: (i) original data; (ii) data cleaned from non-letters; (iii) data without stopwords, and (iv) lemmatized data. That's **eight** groups of sorted word counts. You can use **any effective mode of presentation**, e.g. a table or a graph/plot where word counts are e.g. bars. It should be effective/readable. It can be a couple tables. **It must not be a text description but a visualization** (a table counts as visualization so long it is well-formatted). You can accompany the visualization with a comment.
 
