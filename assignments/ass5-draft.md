@@ -36,7 +36,7 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
 6. If you did the bonus word embeddings part (Part III), your updated `neural_imdb.py` with the TODOs completed.
 
 ### Part 0: Get the skeleton
-1. Obtain the skeleton the usual way from FIXME.
+1. Obtain the skeleton the usual way by importing or privately copying https://github.com/olzama/Ling471-SP2021-HW5.
 
 2. In the skeleton, there is a file `imbd_neural.py`. This is a **bonus** assignment. If you wish to complete it, install all the missing packages (particularly `tensorflow`) and make sure the program runs as expected (you can check against the original blog here:[https://thedatafrog.com/en/articles/word-embedding-sentiment-analysis/](https://thedatafrog.com/en/articles/word-embedding-sentiment-analysis/)). Ask any questions you like about the code on the discussion board, and note how the author of the code visualizes things such as accuracy in matplotlib. It's pretty **fun** but feel free to leave it till the end. There is no programming involved, everything is already implemented.
 
