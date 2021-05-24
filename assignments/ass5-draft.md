@@ -62,20 +62,15 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
 
 ### Part 2: Model comparison (in UWNetID_assignment5.py)
  
-1. Run several different models (differing mainly in data processing) and record the 10 numbers (which you reported for Assignment 4) **for each model**:
-    2. NaiveBayes on the original review text (that's your Assignment 4)
-    3. NaiveBayes with additional clean up provided in Assignment 5 skeleton **but without lowercasing, without removing stopwords, and with no lemmatization**
-    4. Naive Bayes with additional clean up and with lowercasing.
-    5. Naive Bayes with additional clean up, lowercasing, and with stopwords removed.
-    6. Naive Bayes with additional clean up, with lowercasing, with stopwords removed, and with lemmatization.
-    7. **BONUS**: The neural model that you got with the skeleton (yes, it uses a different version of the dataset. It's not ideal but it's OK for this assignment. Don't do that (compare models' performance on different versions of data) in real life :). For the neural model, you only have the accuracy score. That's OK.
-    8. **BONUS**: predictSimplistic (now run it not only on training but also on test data)
-    
-    See [hints](ass5-hints.md).
-    
-6. **Plot** all numbers in one or several graphs, such that the X axis is the type of model (just its name) and the Y axis is a percentage score. So, you will have 5--7 (five to seven) discrete ticks on the X axis, but 10 scores corresponding to most of them, so, **potentially** 10 different lines/bars/charts in one plot. Use different colors to indicate training vs. test data and furthermore different colors/style (e.g. dotted) for lines tracking accuracy, precision, and recall. You may use different graphs for positive and negative reviews, or you may use different colors/styles of line/bar/whatever-you-choose-for-visualization here as well and cram *everything* in one plot. Keep in mind that the graph(s) **must be clear and readable, and effective in conveying the information.** It is **not obvious what is best** here. For example, keeping train and test data in one plot may be very effective, because it is then easier to compare them, and same goes for positive and negative reviews. But perhaps you can't cram *everything* in one graph. You will need to prioritize and make decisions. **Experiment and explore**; look at how others visualize multiple models comparison and try to learn how to do what seems effective to you. 
+1. Run several different models (differing mainly in data processing) and record the 10 numbers (which you reported for Assignment 4) **for each model**. The code is kind of already in place but it assumes a certain signature (input/output) of the Naive Bayes method. See comments in the skeleton! You can adapt either your naive_bayes() program or the HW5 skeleton; up to you! See also [hints](ass5-hints.md). 
+ 
+2. **BONUS**: Add the neural model that you got with the skeleton (yes, it uses a different version of the dataset. It's not ideal but it's OK for this assignment. Don't do that (compare models' performance on different versions of data) in real life :). For the neural model, you only have the accuracy score. That's OK.
 
-7. In the document, **explain what the graphs indicate**, in your own words. Then **comment on the numbers**.  We don't know why the numbers are what they are, but we can think about **several things**:
+3. **BONUS**: Add the predictSimplistic model (now run it not only on training but also on test data)
+    
+4. **Plot** all numbers in one or several graphs, such that the X axis is the type of model (just its name) and the Y axis is a percentage score. So, you will have 5--7 (five to seven, depending on whether you did the bonus parts) discrete ticks on the X axis, but 10 scores corresponding to most of them, so, **potentially** 10 different lines/bars/charts in one plot. Use different colors to indicate training vs. test data and furthermore different colors/style (e.g. dotted) for lines tracking accuracy, precision, and recall. You may use different graphs for positive and negative reviews, or you may use different colors/styles of line/bar/whatever-you-choose-for-visualization here as well and cram *everything* in one plot. Keep in mind that the graph(s) **must be clear and readable, and effective in conveying the information.** It is **not obvious what is best** here. For example, keeping train and test data in one plot may be very effective, because it is then easier to compare them, and same goes for positive and negative reviews. But perhaps you can't cram *everything* in one graph. You will need to prioritize and make decisions. **Experiment and explore**; look at how others visualize multiple models comparison and try to learn how to do what seems effective to you. 
+
+5. In the document, **explain what the graphs indicate**, in your own words. Then **comment on the numbers**.  We don't know why the numbers are what they are, but we can think about **several things**:
     1. English as a language, it has certain properties. E.g. English is a morphologically simple language. How does this potentially affect the value of lemmatization?
     2. Dataset size. IMDB is fairly large! How may this affect the value of preprocessing?
     3. The genre. How do people tend to write reviews, what style/grammar do they tend to employ? How might that affect the value of e.g. lowercasing?
