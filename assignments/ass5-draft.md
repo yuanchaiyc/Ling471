@@ -78,6 +78,6 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
 
 ### Part 3: BONUS (optional): Fun with embeddings!
 
-1. There is **one TODOs** in `neural_imdb.py`. They ask you to come up with an experimental "unseen" review and visualize it. Complete this TODO. After this, you should have **6** `png` files produced by this program: `accuracy.png, words.png, Review15.png, Review17.png, my_review1.png, my_review2.png`. **Include all these figures in your report/document**. **Comment on each figure**, what it means/represents, and anything you find interesting about it. For `my_review2.png` in particular, comment about whether the spatial representation for this "review" in 2D ended up meaningful in any respect (like the representation of `my_review1`) and if not, why do you think that is.
+1. There is **one TODOs** in `neural_imdb.py`. It asks you to come up with an experimental "unseen" review and visualize it. Complete this TODO. After this, you should have **6** `png` files produced by this program: `accuracy.png, words.png, Review15.png, Review17.png, my_review1.png, my_review2.png`. **Include all these figures in your report/document**. **Comment on each figure**, what it means/represents, and anything you find interesting about it. For `my_review2.png` in particular, comment about whether the spatial representation for this "review" in 2D ended up meaningful in any respect (like the representation of `my_review1`) and if not, why do you think that is.
 
 [home](../index.md)
