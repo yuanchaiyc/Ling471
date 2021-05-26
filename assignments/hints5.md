@@ -14,7 +14,7 @@ Consult these steps if you don't know how to start the programming in Part 1 and
     Check that you now have the file called `UW_NET_ID_output.txt` in your working directory. Look what's in it!
     Hint: you can start practicing capturing standard output from a simple "Hello world!" program. Then move on to you imdb_dataframe.py.
 
-2. You will need to keep a counter for this, but you know how to do this! 
+2. You will need to keep a counter to print a message every 100th iteration. A list index serves as a great counter when you iterate over a list. You have an example of how to use the `enumerate()` function for list iteration in the skeleton; it returns **both** the element in the list and its index! 
 
 ### Part 1: Sorting dicts for word frequency
 
