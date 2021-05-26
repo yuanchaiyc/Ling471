@@ -16,15 +16,19 @@ Consult these steps if you don't know how to start the programming in Part 1 and
 
 2. You will need to keep a counter to print a message every 100th iteration. A list index serves as a great counter when you iterate over a list. You have an example of how to use the `enumerate()` function for list iteration in the skeleton; it returns **both** the element in the list and its index! 
 
-### Part 1: Sorting dicts for word frequency
+### Part 1: Sorting dicts/dataframes for word frequency
 
-To get the most frequent words from the dataframe columns:
+To get the most frequent words from the dataframe columns, you have a couple options: sorting python dicts or sorting dataframe objects. I don't know which one is simpler; both are fine. Sorting a dict will give you more generic knowledge but sorting directly in a dataframe may feel more cool :).
+
+For python dicts:
 
 1. Using python documentation and/or StackOverflow (or similar), **learn how to sort a python dict by value in reverse (descending order)**. (I could explain it to you, but it is important to learn to figure such things out on your own.) For example, given a dict: `{'a':1, 'b':3, g: '2'}`, you should get: `{'b':3, 'g':2, 'a':1}`. Feel free to ask on Discussion board if you don't understand the documentation/solution. **Do not implement your own sorting algorithm"; use the built-in python methods.** It may feel intimidating you use code which you don't fully understand at first but it's important to try/learn how. Google and ask on the board!
 
 2. **After** you've successfully sorted a **toy** python dict (as in the above a,b,g example) by value in descending order, use this knowledge to sort the counts obtained from feeding your Assignment 2 counter a column from your dataframe. 
 
+For dataframes:
 
+1. Using pandas documentation, figure out how to count words in a column and how to sort the counts in descending order. 
 
 ### Part 2: Model comparison (in UWNetID_assignment5.py)
 
