@@ -32,7 +32,7 @@ To get the most frequent words from the dataframe columns:
 
 2. Put all your Naive Bayes code from Assignment 4 into a function and import that function into Assignment 5. 
 
-3. Modify it such that it accepts a column name and grabs the review text from that column. 
+3. Modify it such that it accepts a column and grabs the review text from that column. (Maybe you won't need to modify anything if that's how you wrote it in the first place.) 
 
 4. Modify it such that it returns a dict or a list contatining the 10 output numbers. It is up to you which order/format; just make sure it is clear to you what that is and you don't make a mistake later accessing the numbers. See example/comments in the skeleton code.
  
