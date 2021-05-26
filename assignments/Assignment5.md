@@ -47,7 +47,7 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
 
 1. In the `imdb_dataframe.py` skeleton, you will notice that the **CleanFileContents()** function has changed. We added several additional things to it. There are some comments there explaining the new steps. Set up the debugger and **step through some of the program execution** (e.g. some number of words in one file) to understand what the function is doing now and what changed. **NB:** You need to pip-install the **nltk package** for this to work. Make sure you can do that **early**.
 
-2. Merge your `imdb_dataframe.py` with this new one such that it works with the new CleanFileContents(), and store **additional return values** (`cleaned_text`, `lowercased`, `no_stopwords`, and `lemmatized`) in **additional columns** in the dataframe, named appropriately. 
+2. Merge your `imdb_dataframe.py` with this new one such that it works with the new CleanFileContents() and stores **additional return values** (`cleaned_text`, `lowercased`, `no_stopwords`, and `lemmatized`) in **additional columns** in the dataframe, named appropriately. The code is already there, you just need to harmonize it with your main(). 
 
 3. Run `imdb_dataframe.py` on all IMDB files saving the result in a new csv file. You may call it `my_expanded_imdb.csv`. 
 
