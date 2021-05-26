@@ -113,7 +113,7 @@ May 25 | [Working with linguistic corpora](slides/0525.pdf) | Aijmer 2021 or Sta
 May 27 | Visualization and Communication | 🐙[(1) To dissect an octopus; ](https://blog.julianmichael.org/2020/07/23/to-dissect-an-octopus.html) [(2) Keras word embeddings tutorial](https://thedatafrog.com/en/articles/word-embedding-sentiment-analysis/) (a working version of this is part of your HW5 skeleton) [(3) Visualization with pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)| Blogs 5
 June 1 | Presentations 
 June 3 | Presentations (possibly asynch.)
-June 8 | | | Assignment 5 
+June 8 | | | [Assignment 5](assignments/Assignment5.md) 
 
 
 ## Academic Integrity
