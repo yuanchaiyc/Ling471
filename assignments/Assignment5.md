@@ -47,9 +47,9 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
 
 1. In the `imdb_dataframe.py` skeleton, you will notice that the **CleanFileContents()** function has changed. We added several additional things to it. There are some comments there explaining the new steps. Set up the debugger and **step through some of the program execution** (e.g. some number of words in one file) to understand what the function is doing now and what changed. **NB:** You need to pip-install the **nltk package** for this to work. Make sure you can do that **early**.
 
-2. Merge your `imdb_dataframe.py` with this new one such that it works with the new CleanFileContents() and stores **additional return values** (`cleaned_text`, `lowercased`, `no_stopwords`, and `lemmatized`) in **additional columns** in the dataframe, named appropriately. The code is already there, you just need to harmonize it with your main(). 
+2. Merge your `imdb_dataframe.py` with this new one such that it works with the new CleanFileContents() and stores additional return values (`cleaned_text`, `lowercased`, `no_stopwords`, and `lemmatized`) in additional columns in the dataframe, named appropriately. The code is already there, you just need to harmonize it with your main(). 
 
-3. Run `imdb_dataframe.py` on all IMDB files saving the result in a new csv file. You may call it `my_expanded_imdb.csv`. 
+3. **Run** `imdb_dataframe.py` on **all** IMDB files **saving the result** in a **new** csv file. You may call it `my_expanded_imdb.csv`. The **saving** part is **already included**, but you need to **add iteration over directories and files**.
 
 4. Step 3 takes some time. This is because you are iterating over every word in each text and performing expensive language processing such as stemming. To reassure yourself that your program is making progress, insert a print statement in main() which will print out a message for every 100th file: "Processing dir {} out of {}, file {} out of {}".    **Capture the standard output** in a text file. NB: This step (both the progress indicator and capturing standard output in a file) is **required** because these are both important techniques and we want to make sure you learn it! See [hints](hints5.md).
     
