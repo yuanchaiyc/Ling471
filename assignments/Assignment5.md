@@ -43,7 +43,7 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
 3. Start a **document** (in your favorite text editor but such that it can be ultimately **saved as PDF**). We will later ask you to include various tables and figures in the document and comment on them.
 
 
-### Part 1: Preprocessing (in imdb_dataframe.py and in UWNetID_assignment5.py)
+### Part 1: Preprocessing (in imdb_dataframe.py and in largest_counts.py)
 
 1. In the `imdb_dataframe.py` skeleton, you will notice that the **CleanFileContents()** function has changed. We added several additional things to it. There are some comments there explaining the new steps. Set up the debugger and **step through some of the program execution** (e.g. some number of words in one file) to understand what the function is doing now and what changed. **NB:** You need to pip-install the **nltk package** for this to work. Make sure you can do that **early**.
 
@@ -53,7 +53,7 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
 
 4. Step 3 takes some time. This is because you are iterating over every word in each text and performing expensive language processing such as stemming. To reassure yourself that your program is making progress, insert a print statement in main() which will print out a message for every 100th file: "Processing dir {} out of {}, file {} out of {}".    **Capture the standard output** in a text file. NB: This step (both the progress indicator and capturing standard output in a file) is **required** because these are both important techniques and we want to make sure you know them! See [hints](hints5.md).
     
-5. Once you have the new dataframe file, move to `assignment5.py`. There, obtain the **most frequent words** from the "review" (uncleaned, **original** text) column and also the most frequent words in the **newly added** columns, using your word counter from Assignment 2 or any other method (you can use others' code here, but do give the source in a comment). Look at **training reviews only**. See [hints](hints5.md).
+5. Once you have the new dataframe file, move to `largest_counts.py`. Finish implementing the function (sort the counts), and obtain the **most frequent words** from the "review" (uncleaned, **original** text) column and also the most frequent words in the **newly added** columns, using your word counter from Assignment 2 or any other method (you can use others' code here, but do give the source in a comment). Look at **training reviews only**. See [hints](hints5.md).
 
 6. In your document, present the most common (**top 20**) words in positive and negative reviews (separately!), for: (i) original data; (ii) data cleaned from non-letters; (iii) data without stopwords, and (iv) lemmatized data. That's **eight** groups of sorted word counts. You can use **any effective mode of presentation**, e.g. a table or a graph/plot where word counts are e.g. bars. It should be effective/readable. It can be a couple tables. **It must not be a text description but a visualization** (a table counts as visualization so long it is well-formatted). You can accompany the visualization with a comment.
 
