@@ -8,7 +8,7 @@ Y = [pow(x, 2) for x in X]
 plt.plot(X, Y) plt.show()
 plt.xlabel('X', color='fuchsia', fontweight='bold')
 plt.ylabel('f(x)')
-plt.plot(X, Y, 'o-', label='squared')
+plt.plot(X, Y, 'o-', label='squared') # other styles: '--', ':'
 plt.legend(loc="upper left")
 
 plt.savefig('figures/parabola.png')
