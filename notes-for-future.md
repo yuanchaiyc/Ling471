@@ -4,3 +4,5 @@
 2. Lecture on corpora has space for another 10 or even 15 minutes of content. In particular, information theory study could be explained (along with information theory!)
 3. Presentation components should all be graded
 4. If asking for comments in the code: ask also to label them somehow.
+5. Require only the commit URL for submission
+6. Consider checking in assignment skeletons into students' private repos? Instead of creating public repos and then asking them not to post solutions etc.
