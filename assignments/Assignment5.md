@@ -27,8 +27,6 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
     ```
     **You can format this output as you like**, so long as it is clearly reporting progress. It **does not** need to look exactly like above.
 
-3. The **csv file** that your `imdb_dataframe.py` output, with at least 7 (seven) columns: file type (train or test), gold label (1 or 0), original review text, cleaned review text, lowercased review text, review text with stopwords removed, and lemmatized review text. (These levels of processing are already implemented for you and explained in Part 1.) Additional columns (such as file name) are optional.
-
 3. Your `largest_counts.py` (with the function completed).
 
 4. A **PDF file** with your report for Part 2.
