@@ -4,6 +4,8 @@ I developed this introductory course in programming and data science for the Uni
 
 Feel free to clone and use to teach your own class!
 
+Contact me with any questions, (including how to set up a webpage).
+
 This repository contains a course structure (as it was in Spring 2021) and five assignment descriptions along with code skeletons.
 
 Please see also "notes for future class iterations", for pitfalls.
