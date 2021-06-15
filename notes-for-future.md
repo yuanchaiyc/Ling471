@@ -10,4 +10,4 @@
 8. Giving students more time for assignments is good but I think I gave them way too much time and they didn't start early enough anyway. So, the neural assignment could certainly be squeezed in.
 9. Consider ditching the blog assignment in favor of "reading questions", or entirely (in favor of more assignments). Alternatively, ditch the readings which aren't blogging readings. At any rate, having both is confusing; just have one reading-related set of items.
 10. VS Code is not ideal for python. Consider using PyCharm instead.
-
+11. Current assignment 5: make it clear that the PDF report is worth a lot, and it is the report that will mainly be graded. Otherwise some students won't submit it and may be surprised to lose many points.
