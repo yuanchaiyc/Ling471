@@ -1,11 +1,5 @@
 # Computational Methods for Linguists
 
-I developed this introductory course in programming and data science for the University of Washington Department of Linguistics in 2021.
+This course is forked from Olga Zamaraeva's [original repo](https://github.com/olzama/Ling471) for the course, which was developed for the University of Washington Department of Linguistics in 2021.
 
-Feel free to clone and use to teach your own class!
-
-Contact me with any questions, (including how to set up a webpage).
-
-This repository contains a course structure (as it was in Spring 2021) and five assignment descriptions along with code skeletons.
-
-Please see also "notes for future class iterations", for pitfalls.
+More information will be added to this README as necessary. Please note that while you are free to read through the materials and assignments from the original offering of this course, the lectures and assignments will not be identical, so it may not be a big benefit for you to try to work ahead in that manner.
