@@ -1,6 +1,0 @@
-theme: jekyll-theme-cayman
-markdown: kramdown
-future: true
-timezone: America/Los_Angeles
-github:
-  is_project_page: false
