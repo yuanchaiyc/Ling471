@@ -1,5 +1,3 @@
-[Home](../index.md)
-
 ## Assignment 1: Preliminaries
 
 In this assignment, you will:
@@ -66,11 +64,12 @@ In this part of the assignment, you will start learning how to program in python
 
 1. Add a python file to your PyCharm project. Make sure the folder from Git is selected, and then click "File > New > Python file". **It is crucial that the file name has your UW netID in it!!!**.
 
-1. You will be asked if you want to add this file to Git. Say, "Add."
+1. You will be asked if you want to add this file to Git. Say, "Add." Your PyCharm project should look similar to this:
 
-  ![File in PyCharm](https://github.com/maetshju/Ling471/raw/main/imgs/file_in_pycharm.png).
+    ![File in PyCharm](https://github.com/maetshju/Ling471/raw/main/imgs/file_in_pycharm.png).
 
 1. Write a program in python which prints a statement, such as "Hello, world!" (or whatever you like).
+
 1. In the menu, click "Git > Commit". You will see a message like this:
 
 
