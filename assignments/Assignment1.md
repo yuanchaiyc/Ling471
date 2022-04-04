@@ -68,20 +68,15 @@ In this part of the assignment, you will start learning how to program in python
 
 1. You will be asked if you want to add this file to Git. Say, "Add."
 
-    !!!!!!!!!!!!!!!! FILE IN PYCHARM.PNG !!!!!!!!!!!!!!!!!!!!!!!!!!
+  ![File in PyCharm](https://github.com/maetshju/Ling471/raw/main/imgs/file_in_pycharm.png).
 
-    <img width="833" alt="Screen Shot 2021-03-22 at 12 13 59 PM" src="https://user-images.githubusercontent.com/10963114/112045463-1f88f280-8b08-11eb-9a96-edd63c825887.png">
 1. Write a program in python which prints a statement, such as "Hello, world!" (or whatever you like).
 1. In the menu, click "Git > Commit". You will see a message like this:
 
 
-    !!!!!!!!!!!!!!!!!!!!  PYCHARM COMMIT.PNG !!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-    <img width="934" alt="Screen Shot 2021-03-22 at 12 24 10 PM" src="https://user-images.githubusercontent.com/10963114/112046758-ac807b80-8b09-11eb-8f22-787ea6eae364.png">
+    ![PyCharm commit screen](https://github.com/maetshju/Ling471/raw/main/imgs/pycharm_commit.png)
 
 1. Enter a meaningfull commit message. Then click on the "Commit" button.
-
-    ![VS-code-pic](https://user-images.githubusercontent.com/10963114/113206348-3627fb80-9224-11eb-96ec-f529ddef61c4.JPG)
 
 1. In the menu, click on "Git > Push". In the dialog box that appears, click on the "Push" button. This will push your new Python file into your GitHub repository.
 
@@ -139,8 +134,6 @@ It is important to be able to connect to a remote server and to be able to copy 
     It will ask you for your GitHub username and password. Your password is the token you generated in Part 4. There may be some error messages; ignore them. Just make sure you type your password correctly, or better yet, copy and paste it from where you stored it.
 
 1. Navigate into your repository folder on patas with `cd`. Execute the python program and observe it printing whatever it prints.
-
-    <img width="460" alt="Screen Shot 2021-03-22 at 1 45 46 PM" src="https://user-images.githubusercontent.com/10963114/112056206-fc187480-8b14-11eb-99c6-cbe36e422261.png">
 
 1. Copy your python program to /dropbox/21-22/471 (the class folder). **It is crucial that the file name has your UW netID in it!!! Otherwise you may overwrite other people's homework, plus we won't know the program is yours and you won't get credit.**
 
