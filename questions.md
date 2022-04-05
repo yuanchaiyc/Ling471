@@ -1,5 +1,3 @@
-[Home](index.md)
-
 ## Asking questions on the Discussion Board ##
 
 Asking questions on the Discussion Board on Canvas is very important for your **and others'** success in this class. Here's how to do it best.
