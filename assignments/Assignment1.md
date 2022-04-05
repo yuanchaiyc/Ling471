@@ -19,7 +19,7 @@ Submission summary:
 * Part 5: Your program from Part 3 submitted to the "patas" cluster. **It is crucial that the program name has your UW netID in it!!!**
 
 ### NB: This assignment may seem very long. 
-The purpose is to give you enough time to become accustomed to a range of tools which are unavoidable in most computational work. Go through it gradually, one part at a time (and split those between multiple days if needed). Post any questions to the Discussion Board on Canvas! Consult the [Asking Questions on the Discussion Board Guidelines](../questions.md)
+The purpose is to give you enough time to become accustomed to a range of tools which are unavoidable in most computational work. Go through it gradually, one part at a time (and split those between multiple days if needed). Post any questions to the Discussion Board on Canvas! Consult the [Asking Questions on the Discussion Board Guidelines](https://github.com/maetshju/Ling471/blob/main/questions.md)
 
 ### Part 1: The IMDB review dataset
 
@@ -48,14 +48,14 @@ In this part of the assignment, you will create a GitHub repository for your cod
 
     <img width="1287" alt="Screen Shot 2021-03-22 at 12 04 44 PM" src="https://user-images.githubusercontent.com/10963114/112044524-26fbcc00-8b07-11eb-9dff-05106a9234ba.png">
 
-1. Go to Settings and add maetshju and yuanheTian as "collaborators" (**NB:** this counts as your **submission** for this task):
+1. Go to Settings and add maetshju and {CASSIE'S USERNAME HERE} as "collaborators" (**NB:** this counts as your **submission** for this task):
 
     <img width="1286" alt="Screen Shot 2021-03-22 at 12 22 26 PM" src="https://user-images.githubusercontent.com/10963114/112046453-4a277b00-8b09-11eb-85e9-acecf900369b.png">
 
 1. Now, install git on your machine. Click on the "Latest Source Release 2.35.1." button [here](https://git-scm.com/downloads) 
-1. Ask some question about git or leave a comment about it in the Assignment 1 area on Canvas. It can be anything. 
+1. Ask a question about git or leave a comment about it in the Assignment 1 discussion board area on Canvas. It can be anything. 
 
-### Part 3: Python and Visual Studio Code. (NB: Complete what you can now. You should be able to do everything after April 7.)
+### Part 3: Python and PyCharm. (NB: Complete what you can now. You should be able to do everything after April 7.)
 In this part of the assignment, you will start learning how to program in python and how to use an Integrated Development Environment. You should already have Python and PyCharm installed from lecture. You should also already know that it is working.
 
 1. Set up Git and GitHub in PyCharm using [the steps on this page](https://www.jetbrains.com/help/pycharm/github.html#register-account).
@@ -90,7 +90,7 @@ In this part of the assignment, you will start learning how to program in python
 
 1. Now go to PyCharm, and in the menu, click "Git > Pull" and then click "Pull" in the box that appears. Make sure that you now see the updated README!
 
-1. Leave a question or comment about VS Code in the Assignment 1 discussion area on Canvas, if you haven't already. (The purpose is to show that you got at least some experience with the software. Otherwise, it can be about anything.)
+1. Leave a question or comment about PyCharm in the Assignment 1 discussion area on Canvas, if you haven't already.
 
 ### Part 4: Generating a personal access token.
 
@@ -110,7 +110,7 @@ Last year, GitHub removed the option to log into GitHub with a username and pass
 
 1. On the next page, you will be shown what the token is. It starts with "ghp_". Save it somewhere **RIGHT NOW**. You will not be able to see it in plain text ever again once you leave this page. It helps if you click on the two overlapping square icon next to the token, which will copy it to your clipboard. Save this token somewhere safe because you will be using it like a password on the command line.
 
-1. If you did not get your token saved, that's okay. Just make a new one!
+1. If you did not get your token written down, that's okay. Just make a new one!
 
 ### Part 5: Command line and remote servers. (**NB: Complete after April 7**)
 
