@@ -48,7 +48,7 @@ In this part of the assignment, you will create a GitHub repository for your cod
 
     <img width="1287" alt="Screen Shot 2021-03-22 at 12 04 44 PM" src="https://user-images.githubusercontent.com/10963114/112044524-26fbcc00-8b07-11eb-9dff-05106a9234ba.png">
 
-1. Go to Settings and add maetshju and {CASSIE'S USERNAME HERE} as "collaborators" (**NB:** this counts as your **submission** for this task):
+1. Go to Settings and add maetshju and Cassie-Maz as "collaborators" (**NB:** this counts as your **submission** for this task):
 
     <img width="1286" alt="Screen Shot 2021-03-22 at 12 22 26 PM" src="https://user-images.githubusercontent.com/10963114/112046453-4a277b00-8b09-11eb-85e9-acecf900369b.png">
 
