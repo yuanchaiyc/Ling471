@@ -134,6 +134,6 @@ It is important to be able to connect to a remote server and to be able to copy 
 
 1. Navigate into your repository folder on patas with `cd`. Execute the python program and observe it printing whatever it prints.
 
-1. Copy your python program to /dropbox/21-22/471 (the class folder). **It is crucial that the file name has your UW netID in it!!! Otherwise you may overwrite other people's homework, plus we won't know the program is yours and you won't get credit.**
+1. Copy your python program to /dropbox/21-22/471/a1 (the class folder). **It is crucial that the file name has your UW netID in it!!! Otherwise you may overwrite other people's homework, plus we won't know the program is yours and you won't get credit.** ***If you do not have your netID in your file name, you will receive a 0 for this portion of the assignment!***
 
 You are now **DONE** with Assignment 1! **Don't forget to submit the file for Part 1 to Canvas**. In Assignment 2, you will already be writing programs and running them on the IMDB review data!
