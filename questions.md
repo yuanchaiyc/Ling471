@@ -1,5 +1,3 @@
-[Home](index.md)
-
 ## Asking questions on the Discussion Board ##
 
 Asking questions on the Discussion Board on Canvas is very important for your **and others'** success in this class. Here's how to do it best.
@@ -26,5 +24,3 @@ You are trying to run a program which is supposed to print out a sentence, but y
 _It doesn't work_ is frustrating but it is **uninformative**!
 
 Finally, remember that **others will benefit from you posting the question!**
-
-[Home](index.md)
