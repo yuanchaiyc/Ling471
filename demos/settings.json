@@ -1,5 +1,0 @@
-{
-    "terminal.integrated.env.osx": {
-        "PYTHONPATH": "${env:PYTHONPATH}:/Users/olzama/Teaching/Ling471/April20/modules",
-    }
-}
