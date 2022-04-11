@@ -48,7 +48,7 @@ In this part of the assignment, you will create a GitHub repository for your cod
 
     <img width="1287" alt="Screen Shot 2021-03-22 at 12 04 44 PM" src="https://user-images.githubusercontent.com/10963114/112044524-26fbcc00-8b07-11eb-9dff-05106a9234ba.png">
 
-1. Go to Settings and add maetshju and Cassie-Maz as "collaborators" (**NB:** this counts as your **submission** for this task):
+1. Go to Settings and add `maetshju` and `Cassie-Maz` as "collaborators" (**NB:** this counts as your **submission** for this task):
 
     <img width="1286" alt="Screen Shot 2021-03-22 at 12 22 26 PM" src="https://user-images.githubusercontent.com/10963114/112046453-4a277b00-8b09-11eb-85e9-acecf900369b.png">
 
@@ -124,7 +124,7 @@ It is important to be able to connect to a remote server and to be able to copy 
     `ssh your-NetID@patas.ling.washington.edu`
  
      (It will ask you whether you should add patas to trusted hosts; type yes.)
-1. Check that you have proper access to patas. You should see something like: `your-user-name@patas:~$` or simply `bash-4.2$`. If you don't yet have access, let Olga know. Sometimes there are delays in how the accounts are created and set up. If you see `bash-4.2$` or similar but would like to see your username and current directory instead, try typing the following in the terminal: `echo "PS1='\u@patas:\w\$ '" >> ~/.bash_profile; source ~/.bash_profile` -- and pressing `Enter`. That will change what you see in the prompt.
+1. Check that you have proper access to patas. You should see something like: `your-user-name@patas:~$` or simply `bash-4.2$`. If you don't yet have access, let Matt know. Sometimes there are delays in how the accounts are created and set up. If you see `bash-4.2$` or similar but would like to see your username and current directory instead, try typing the following in the terminal: `echo "PS1='\u@patas:\w\$ '" >> ~/.bash_profile; source ~/.bash_profile` -- and pressing `Enter`. That will change what you see in the prompt.
 
 1. Clone your git repository into your home directory on patas:
 
