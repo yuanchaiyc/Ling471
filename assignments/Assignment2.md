@@ -24,7 +24,7 @@ Logistical summary: You will **get** the homework by cloning this class Git repo
 ### Important note about grading.
 The preliminary assessment for this assignment will be done automatically. For this reason, it is crucial that you do exactly what the assignment is asking you and not something else, even if something else is better. There are always better ways of doing things, especially in programming. In this assignment, we are learning how to do some of the basic things following instructions, such that everyone arrives at the exact same result.
 
-### Part 1. Forking the skeleton code and stepping through it in the debugger. (Recommended to complete asap):
+### Part 1. Cloning the skeleton code and stepping through it in the debugger. (Recommended to complete asap):
 1. Clone this course repository with
 
     ```bash
