@@ -26,7 +26,7 @@ def cleanFileContents(f):
     # The below two lines open the file and read all the text from it
     # storing it into a variable called "text".
     # You do not need to modify the below two lines; they are already working as needed.
-    with open(f, 'r') as f:
+    with open(f, 'r', encoding='utf-8') as f:
         text = f.read()
 
     # The below line will clean the text of punctuation marks.
