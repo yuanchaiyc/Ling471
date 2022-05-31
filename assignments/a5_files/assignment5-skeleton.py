@@ -14,7 +14,6 @@ import matplotlib.pyplot as plt
 
 # TODO: Your custom imports here; or copy the functions to here manually.
 from evaluation import computeAccuracy, computePrecisionRecall
-from assignment3 import predictSimplistic
 
 # TODO: You may need to modify assignment 4 if you just had a main() there.
 # my_naive_bayes() should take a column as input and return as output 10 floats (numbers)
