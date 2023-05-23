@@ -6,7 +6,7 @@
     1. ...it involves statistical analysis of language data
     2. ...you understand enough of it to clearly talk about what was done and why. (This does not mean that you need to understand everything!)
 
-2. Prepare a 5-minute presentation. I recommend no more than 3-4 slides of content. If your slides are dense, then no more than 3.
+2. Prepare a 5-minute presentation. I recommend no more than 3-4 slides of content. If your slides are dense, then no more than 3. Any length within the range of 4.5 to 6 minutes will earn full points on presentation length.
     1. Present the project: when was it done, by whom, what's the title. **Include the citation** (this is a requirement!).
     2. Why is the project interesting or imporant?
     3. Summarize the approach. You do not need to get too technical. Clarity is key.
