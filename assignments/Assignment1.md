@@ -116,21 +116,35 @@ Somewhat recently, GitHub removed the option to log into GitHub with a username 
 
 It is important to be able to use a command line when programming. This may be performed on your local computer, or on a remote server like Patas. You will not always have access to a graphical interface like PyCharm or the GitHub website, and text-based interfaces are sometimes more convenient than graphical ones.
 
-For the following instructions, you may perform them either on your own computer or using Patas. This quarter, Patas has been somewhat unreliable, so I would recommend trying to use your own computer first.
+For the following instructions, you may perform them either on your own computer or using Patas. If you are using Mac or Linux, you can use either your own computer (option A) or Patas (option B). If you are using Windows, I recommend you use Patas (option B). You can still use your own computer (option A), but it requires extra steps.
 
 #### Part 5 option A: Using your own computer
 
-If you are using a Mac or Linux, you should be able to use the built in command lines. If you are on Windows 10/11, you will likely want to [install the Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install) to use the Linux-based command line (Windows 8 and earlier cannot do this). However, I will provide instructions for using the Windows PowerShell and CMD command lines as well.
+If you are using a Mac or Linux, you should be able to use the built in command lines. The steps are as below.
 
 1. Open your command line utility (e.g., `Terminal`, `CMD`, `PowerShell`, `Konsole`, etc.). Use the `cd` command to navigate to a folder where you would like to download a copy of your Git repository on GitHub. (The `cd` command is the same across all the types of command lines we will be using.)
 
-2. [If you have not yet installed Git, please do so now.](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) On Windows, the Git for Windows option is often easiest. Then, type the command `git clone your-repo-address` and press enter/return.
+2. [If you have not yet installed Git, please do so now.](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) Type the command `git clone your-repo-address` and press enter/return.
 
 	It will ask you for your GitHub username and password. Your password is the token you generated in Part 4. There may be some error messages; ignore them. Just make sure you type your password correctly, or better yet, copy and paste it from where you stored it.
 	
 3. Enter your repository folder using `cd`. Execute the Python program and observe it printing whatever it prints.
 
 4. Take a screenshot of the output and add this to your submission on Canvas. Please note that we will be running your script during grading, and the output should match what is shown in your screenshot.
+
+If you are using a Windows, you need install the [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install) to use the Linux-based command line (Windows 8 and earlier cannot do this).
+
+1. Open the command line and type `wsl --install`.
+   
+2. Create a UNIX username and password when prompted.
+
+3. Use the `cd` command to navigate to a folder where you would like to download a copy of your Git repository on GitHub. Note that the path is `cd /mnt/your address`. Omit the ":" in the Windows path.
+
+4. Type the command `git clone your-repo-address` and press enter/return.
+
+5. Enter your repository folder using `cd`. Execute the Python program and observe it printing whatever it prints.
+
+6. Take a screenshot of the output and add this to your submission on Canvas. Please note that we will be running your script during grading, and the output should match what is shown in your screenshot.
 
 #### Part 5 option B: Using Patas
 
