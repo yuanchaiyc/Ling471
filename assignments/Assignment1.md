@@ -10,7 +10,7 @@ In this assignment, you will:
 
 Submission summary:
 * Part 1: A text file answering questions about the IMDB review dataset.
-* Part 2: Private GitHub repository created; Matt and Siyu added as collaborators.
+* Part 2: Private GitHub repository created; Yuan and Yuanhe added as collaborators.
 * Part 3: 
    * A file **called your-UW-NetID-assignment1.py** in your repository
    * A question/comment in the Discussion area for Assignment 1 related to how things are organized in PyCharm (note: a question about installation won't count here!)
