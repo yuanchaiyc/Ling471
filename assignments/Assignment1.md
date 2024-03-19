@@ -98,9 +98,9 @@ Somewhat recently, GitHub removed the option to log into GitHub with a username 
 
 1. Go to GitHub and log in if needed. Click on your profile image in the upper right. Click on "Settings."
 
-1. In the page that loads, click on "< > Developer settings" at the bottom of the left-hand side. Then, click on "Personal access tokens."
+1. In the page that loads, click on "< > Developer settings" at the bottom of the left-hand side. Then, click on "Personal access tokens", under which click on "Tokens (classic)."
 
-1. In the next page, click on "Generate new token." Put an informative name into the "Note" field.
+1. In the next page, click on "Generate new token" --> "Generate new token (classic)." Put an informative name into the "Note" field.
 
 1. Choose how long you want the token to last for. Note that if it expires, you will need to make a new one.
 
@@ -120,17 +120,18 @@ For the following instructions, you may perform them either on your own computer
 
 #### Part 5 option A: Using your own computer
 
-If you are using a Mac or Linux, you should be able to use the built in command lines. The steps are as below.
-
 1. Open your command line utility (e.g., `Terminal`, `CMD`, `PowerShell`, `Konsole`, etc.). Use the `cd` command to navigate to a folder where you would like to download a copy of your Git repository on GitHub. (The `cd` command is the same across all the types of command lines we will be using.)
 
 2. [If you have not yet installed Git, please do so now.](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) Type the command `git clone your-repo-address` and press enter/return.
 
-	It will ask you for your GitHub username and password. Your password is the token you generated in Part 4. There may be some error messages; ignore them. Just make sure you type your password correctly, or better yet, copy and paste it from where you stored it.
-	
-3. Enter your repository folder using `cd`. Execute the Python program and observe it printing whatever it prints.
+	It will ask you for your GitHub username and password. Your password is the personal access token you generated in Part 4. There may be some error messages; ignore them. Just make sure you type your password correctly, or better yet, copy and paste it from where you stored it.
+	Note that if you are using Windows, it will prompt you with a graphic window. You can close that window and type your username and the personal access token through the command line.
+	![Image of where the commit number link is located.](../imgs/a1_github_signin.png)
 
-4. Take a screenshot of the output and add this to your submission on Canvas. Please note that we will be running your script during grading, and the output should match what is shown in your screenshot.
+	
+4. Enter your repository folder using `cd`. Execute the Python program and observe it printing whatever it prints.
+
+5. Take a screenshot of the output and add this to your submission on Canvas. Please note that we will be running your script during grading, and the output should match what is shown in your screenshot.
 
 If you are using a Windows, you need install the [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install) to use the Linux-based command line (Windows 8 and earlier cannot do this).
 
