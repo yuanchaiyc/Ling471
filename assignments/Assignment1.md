@@ -81,12 +81,12 @@ In this part of the assignment, you will start learning how to program in python
 
 1. Give it a few minutes, and check that your python file can be found not only in the local copy but also in the remote repository. (NB: This will count as your **submission** for this task.) **Check once more that the file name is in the format of `UWNetID_a1.py`!!! If not, rename it so it does!**
 
-     <img width="962" alt="Screen Shot 2021-03-22 at 12 31 09 PM" src="https://github.com/yuanchaiyc/Ling471/blob/main/imgs/a1_after_push.png">
+     <img width="962" alt="after push" src="https://github.com/yuanchaiyc/Ling471/blob/main/imgs/a1_after_push.png">
 
 1. Write YOUR FULL NAME in your README file using the GitHub website. Click on the README file, click on edit, write something, then click on "Commit changes". If you do not have a README file in your repository, click on the "Add file" button in GitHub and then "Create new file." Title the file README and then fill in as specified before.
 
-    <img width="1096" alt="Screen Shot 2021-03-22 at 12 53 47 PM" src="https://user-images.githubusercontent.com/10963114/112050069-a8eef380-8b0d-11eb-900e-a3af67081026.png">
-    <img width="816" alt="Screen Shot 2021-03-22 at 12 54 49 PM" src="https://user-images.githubusercontent.com/10963114/112050206-ce7bfd00-8b0d-11eb-8bb1-943a1f182d95.png">
+    <img width="1096" alt="Screen Shot 2021-03-22 at 12 53 47 PM" src="https://github.com/yuanchaiyc/Ling471/blob/main/imgs/a1_edit_readme.png">
+    <img width="800" alt="Screen Shot 2021-03-22 at 12 54 49 PM" src="https://github.com/yuanchaiyc/Ling471/blob/main/imgs/a1_commit_readme.png">
 
 1. Now go to PyCharm, and in the menu, click "Git > Pull" and then click "Pull" in the box that appears. Make sure that you now see the updated README!
 
