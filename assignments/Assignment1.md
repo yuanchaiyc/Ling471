@@ -120,7 +120,7 @@ For the following instructions, you may perform them either on your own computer
 
 #### Part 5 option A: Using your own computer
 
-1. Open your command line utility (e.g., `Terminal`, `CMD`, `PowerShell`, `Konsole`, etc.). Use the `cd` command to navigate to a folder where you would like to download a copy of your Git repository on GitHub. (The `cd` command is the same across all the types of command lines we will be using.)
+1. Open your command line utility (e.g., `Terminal`, `CMD`, `PowerShell`, `Konsole`, etc.). Use the `cd` command to navigate to a folder where you would like to download a copy of your Git repository on GitHub. (The `cd` command is the same across all the types of command lines we will be using.) Please note that you already have a copy of your Git repo on your local device by cloning it through PyCharm. Please create a different folder on your device for this part. You can choose which folder you want to use to store your future assignments and delete the duplicate.
 
 2. [If you have not yet installed Git, please do so now.](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) Type the command `git clone your-repo-address` and press enter/return.
 
