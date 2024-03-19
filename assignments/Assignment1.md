@@ -66,7 +66,7 @@ In this part of the assignment, you will start learning how to program in python
 
 1. You will be asked if you want to add this file to Git. Say, "Add." Your PyCharm project should look similar to this:
 
-    ![File in PyCharm](https://github.com/yuanchaiyc/Ling471/blob/main/imgs/a1_create_py_pycharm.png).
+    <img width="800" alt="commit in pycharm" src="https://github.com/yuanchaiyc/Ling471/blob/main/imgs/a1_create_py_pycharm.png">
 
 1. Write a program in python that prints a statement, such as "Hello, world!" (or whatever you like).
 
