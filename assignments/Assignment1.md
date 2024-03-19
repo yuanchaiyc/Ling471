@@ -133,7 +133,7 @@ For the following instructions, you may perform them either on your own computer
 
 5. Take a screenshot of the output and add this to your submission on Canvas. Please note that we will be running your script during grading, and the output should match what is shown in your screenshot.
 
-If you are using a Windows, you need install the [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install) to use the Linux-based command line (Windows 8 and earlier cannot do this).
+If you are using a Windows, you can also install the [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install) to use the Linux-based command line (Windows 8 and earlier cannot do this).
 
 1. Open the command line and type `wsl --install`.
    
