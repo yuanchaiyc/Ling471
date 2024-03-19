@@ -133,19 +133,7 @@ For the following instructions, you may perform them either on your own computer
 
 5. Take a screenshot of the output and add this to your submission on Canvas. Please note that we will be running your script during grading, and the output should match what is shown in your screenshot.
 
-If you are using a Windows, you can also install the [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install) to use the Linux-based command line (Windows 8 and earlier cannot do this).
-
-1. Open the command line and type `wsl --install`.
-   
-2. Create a UNIX username and password when prompted.
-
-3. Use the `cd` command to navigate to a folder where you would like to download a copy of your Git repository on GitHub. Note that the path is `cd /mnt/your address`. Omit the ":" in the Windows path.
-
-4. Type the command `git clone your-repo-address` and press enter/return.
-
-5. Enter your repository folder using `cd`. Execute the Python program and observe it printing whatever it prints.
-
-6. Take a screenshot of the output and add this to your submission on Canvas. Please note that we will be running your script during grading, and the output should match what is shown in your screenshot.
+If you are using a Windows, you can also install the [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install) to use the Linux-based command line (Windows 8 and earlier cannot do this). More instructions for how to use Linux-based command line on Windows is available [here](https://github.com/yuanchaiyc/Ling471/blob/main/demos/linux-on-windows.md).
 
 #### Part 5 option B: Using Patas
 
