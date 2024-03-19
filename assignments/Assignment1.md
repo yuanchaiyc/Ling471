@@ -62,20 +62,20 @@ In this part of the assignment, you will start learning how to program in python
 
 1. Now, clone the repository you've created in Part 2 into PyCharm. Use the instructions on [this page of the PyCharm documentation](https://www.jetbrains.com/help/pycharm/set-up-a-git-repository.html#clone-repo) (go to the "Check out a project from a remote host (clone)﻿" section).
 
-1. Add a python file to your PyCharm project. Make sure the folder from Git is selected, and then click "File > New > Python file". **It is crucial that the file name has your UW netID in it!!!**.
+1. Add a python file to your PyCharm project. Make sure the folder from Git is selected, and then click "File > New > Python file". **It is crucial that the file name is in the format of UW netID_a1.py (e.g. My netID is "yuanchai", so my file name will be "yuanchai_a1.py")**.
 
 1. You will be asked if you want to add this file to Git. Say, "Add." Your PyCharm project should look similar to this:
 
-    ![File in PyCharm](https://github.com/maetshju/Ling471/raw/main/imgs/file_in_pycharm.png).
+    ![File in PyCharm](https://github.com/yuanchaiyc/Ling471/blob/main/imgs/a1_create_py_pycharm.png).
 
-1. Write a program in python which prints a statement, such as "Hello, world!" (or whatever you like).
+1. Write a program in python that prints a statement, such as "Hello, world!" (or whatever you like).
 
 1. In the menu, click "Git > Commit". You will see a message like this:
 
 
-    ![PyCharm commit screen](https://github.com/maetshju/Ling471/raw/main/imgs/pycharm_commit.png)
+    ![PyCharm commit screen](https://github.com/yuanchaiyc/Ling471/blob/main/imgs/a1_commit_pycharm.png)
 
-1. Enter a meaningfull commit message. Then click on the "Commit" button.
+1. Enter a meaningful commit message. Then click on the "Commit" button.
 
 1. In the menu, click on "Git > Push". In the dialog box that appears, click on the "Push" button. This will push your new Python file into your GitHub repository.
 
