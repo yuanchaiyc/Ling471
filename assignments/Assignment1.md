@@ -62,7 +62,7 @@ In this part of the assignment, you will start learning how to program in python
 
 1. Now, clone the repository you've created in Part 2 into PyCharm. Use the instructions on [this page of the PyCharm documentation](https://www.jetbrains.com/help/pycharm/set-up-a-git-repository.html#clone-repo) (go to the "Check out a project from a remote host (clone)﻿" section).
 
-1. Add a python file to your PyCharm project. Make sure the folder from Git is selected, and then click "File > New > Python file". **It is crucial that the file name is in the format of UW netID_a1.py (e.g. My netID is "yuanchai", so my file name will be "yuanchai_a1.py")**.
+1. Add a python file to your PyCharm project. Make sure the folder from Git is selected, and then click "File > New > Python file". **It is crucial that the file name is in the format of UWnetID_assignment1.py (e.g. My netID is "yuanchai", so my file name will be "yuanchai_assignment1.py")**.
 
 1. You will be asked if you want to add this file to Git. Say, "Add." Your PyCharm project should look similar to this:
 
@@ -79,7 +79,7 @@ In this part of the assignment, you will start learning how to program in python
 
 1. In the menu, click on "Git > Push". In the dialog box that appears, click on the "Push" button. This will push your new Python file into your GitHub repository.
 
-1. Give it a few minutes, and check that your python file can be found not only in the local copy but also in the remote repository. (NB: This will count as your **submission** for this task.) **Check once more that the file name is in the format of `UWNetID_a1.py`!!! If not, rename it so it does!**
+1. Give it a few minutes, and check that your python file can be found not only in the local copy but also in the remote repository. (NB: This will count as your **submission** for this task.) **Check once more that the file name is in the format of `UWNetID_assignment1.py`!!! If not, rename it so it does!**
 
      <img width="962" alt="after push" src="https://github.com/yuanchaiyc/Ling471/blob/main/imgs/a1_after_push.png">
 
