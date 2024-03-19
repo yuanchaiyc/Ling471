@@ -42,15 +42,15 @@ In this part of the assignment, you will create a GitHub repository for your cod
 1. Create an account on https://github.com/
 1. Create a new repository; make it private. Call it whatever you like, but you will use it for this class. The screenshot below shows what creating a repository looks like on GutHub:
 
-    <img width="736" alt="Screen Shot 2021-03-22 at 12 35 41 PM" src="https://user-images.githubusercontent.com/10963114/112048004-34b35080-8b0b-11eb-90e8-12cce9c612dd.png">
+    <img width="736" alt="create new repo" src="https://github.com/yuanchaiyc/Ling471/blob/main/imgs/a1_create_repo.png">
 
 1. After you've created the repository, note its https:// address:
 
-    <img width="1287" alt="Screen Shot 2021-03-22 at 12 04 44 PM" src="https://user-images.githubusercontent.com/10963114/112044524-26fbcc00-8b07-11eb-9dff-05106a9234ba.png">
+    <img width="1287" alt="Screen Shot 2021-03-22 at 12 04 44 PM" src="https://github.com/yuanchaiyc/Ling471/blob/main/imgs/a1_get_repo_address.png">
 
-1. Go to Settings and add `maetshju` and `siyuliang` as "collaborators" (**NB:** this counts as your **submission** for this task):
+1. Go to Settings and add `yuanchaiyc` as "collaborators" (**NB:** this counts as your **submission** for this task):
 
-    <img width="1286" alt="Screen Shot 2021-03-22 at 12 22 26 PM" src="https://user-images.githubusercontent.com/10963114/112046453-4a277b00-8b09-11eb-85e9-acecf900369b.png">
+    <img width="1286" alt="add collaborator" src="https://github.com/yuanchaiyc/Ling471/blob/main/imgs/a1_add_collaborator.png">
 
 1. Now, install git on your machine. Click on the "Latest Source Release 2.35.1." button [here](https://git-scm.com/downloads) 
 1. Ask a question about git or leave a comment about it in the Assignment 1 discussion board area on Canvas. It can be anything. 
