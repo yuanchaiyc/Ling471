@@ -125,7 +125,7 @@ For the following instructions, you may perform them either on your own computer
 2. [If you have not yet installed Git, please do so now.](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) Type the command `git clone your-repo-address` and press enter/return.
 
 	It will ask you for your GitHub username and password. Your password is the personal access token you generated in Part 4. There may be some error messages; ignore them. Just make sure you type your password correctly, or better yet, copy and paste it from where you stored it.
-	Note that if you are using Windows, it will prompt you with a graphic window. You can close that window and type your username and the personal access token through the command line.
+	Note that if you are using Windows, it will prompt you with a sign-in window (as below). You can close that window and type your username and the personal access token through the command line.
 	
  	<img width="200" alt="window sign in" src="https://github.com/yuanchaiyc/Ling471/blob/main/imgs/a1_github_signin.png">
 
