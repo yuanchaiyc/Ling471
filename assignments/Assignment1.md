@@ -73,8 +73,8 @@ In this part of the assignment, you will start learning how to program in python
 1. In the menu, click "Git > Commit". You will see a message like this:
 
 
-    ![PyCharm commit screen](https://github.com/yuanchaiyc/Ling471/blob/main/imgs/a1_commit_pycharm.png)
-
+    <img width="400" alt="commit in pycharm" src="https://github.com/yuanchaiyc/Ling471/blob/main/imgs/a1_commit_pycharm.png">
+    
 1. Enter a meaningful commit message. Then click on the "Commit" button.
 
 1. In the menu, click on "Git > Push". In the dialog box that appears, click on the "Push" button. This will push your new Python file into your GitHub repository.
