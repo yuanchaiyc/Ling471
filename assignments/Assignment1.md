@@ -163,7 +163,7 @@ If you are using a Windows, you can also install the [Windows Subsystem for Linu
 2. Go to your GitHub respository and locate the link to the commit number toward the top of your repo. (See below image.)
 
 
-    <img width="500" alt="submission" src="https://github.com/yuanchaiyc/Ling471/blob/main/imgs/a1_submission.png">
+    <img width="700" alt="submission" src="https://github.com/yuanchaiyc/Ling471/blob/main/imgs/a1_submission.png">
     
 3. Click on the link, and then copy the URL of the page it takes you to. Add this link to a text file/document (e.g., .txt, .docx, .odt, etc.) and add this file to your Canvas submission.
 
