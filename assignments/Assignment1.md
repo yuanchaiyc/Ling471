@@ -16,10 +16,11 @@ Submission summary:
    * A question/comment in the Discussion area for Assignment 1 related to how things are organized in PyCharm (note: a question about installation won't count here!)
    * A question/comment in the Discussion area for Assignment 1 related to Source Control and how to stage, commit, push, and pull changes using, e.g., PyCharm. (You can use command line if you know how to do it, or some other tool).
 * Part 4: Nothing
-* Part 5: A screenshot of your program output from the command line, and a document containing the link to the GitHub repository commit.
+* Part 5: A screenshot of your program output from the command line, and the link to the GitHub repository commit. Put them in the same text file that you created for Part 1.
+* In summary, at the end of this assignment, you will submit a text file containing information for Parts 1 and 5 on **Canvas**. You will post two questions in the Discussion area on **Canvas**. You will have a GitHub repo where you have a **README** file and your **assignment 1** python file. In that GitHub repo, You will have added Yuan and Yuanhe as your collaborators.
 
 ### NB: This assignment may seem very long. 
-The purpose is to give you enough time to become accustomed to a range of tools which are unavoidable in most computational work. Go through it gradually, one part at a time (and split those between multiple days if needed). Post any questions to the Discussion Board on Canvas! Consult the [Asking Questions on the Discussion Board Guidelines](https://github.com/maetshju/Ling471/blob/main/questions.md)
+The purpose is to give you enough time to become accustomed to a range of tools which are unavoidable in most computational work. Go through it gradually, one part at a time (and split those between multiple days if needed). Post any questions to the Discussion Board on Canvas! Consult the [Asking Questions on the Discussion Board Guidelines](https://github.com/yuanchaiyc/Ling471/blob/main/questions.md)
 
 ### Part 1: The IMDB review dataset
 
