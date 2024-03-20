@@ -132,13 +132,13 @@ For the following instructions, you may perform them either on your own computer
 
 4. Enter your repository folder using `cd`. Execute the Python program and observe it printing whatever it prints.
 
-5. Take a screenshot of the output and add this to your submission on Canvas. Please note that we will be running your script during grading, and the output should match what is shown in your screenshot.
+5. Take a screenshot of the output and add this to your submission on Canvas. Please note that we will be running your script during grading, and the output should match what is shown in your screenshot. The command line will be python UWNETID_assignment1.py. If that gives you an error, try python3 UWNETID_assignment1.py.
 
 If you are using a Windows, you can also install the [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install) to use the Linux-based command line (Windows 8 and earlier cannot do this). More instructions for how to use Linux-based command line on Windows is available [here](https://github.com/yuanchaiyc/Ling471/blob/main/demos/linux-on-windows.md).
 
 #### Part 5 option B: Using Patas
 
-1. Open a terminal on your Linux/Mac or Windows 10/11 (if you have an earlier version of Windows, you will need additional instructions, so contact Matt and Siyu ahead of time).
+1. Open a terminal on your Linux/Mac or Windows 10/11 (if you have an earlier version of Windows, you will need additional instructions, so contact Yuan and Yuanhe ahead of time).
 1. Connect to the patas cluster (where you should have created an account last week!):
 
     `ssh your-NetID@patas.ling.washington.edu`
