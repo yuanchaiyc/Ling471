@@ -153,7 +153,7 @@ If you are using a Windows, you can also install the [Windows Subsystem for Linu
 
     It will ask you for your GitHub username and password. Your password is the token you generated in Part 4. There may be some error messages; ignore them. Just make sure you type your password correctly, or better yet, copy and paste it from where you stored it.
 
-1. Navigate into your repository folder on patas with `cd`. Execute the python program and observe it printing whatever it prints.
+1. Navigate into your repository folder on patas with `cd`. Execute the python program and observe it printing whatever it prints. The command line will be `python UWNETID_assignment1.py`. If that gives you an error, try `python3 UWNETID_assignment1.py`.
 
 1. Take a screenshot of the output and add this to your submission on Canvas. Please note that we will be running your script during grading, and the output should match what is shown in your screenshot.
 
@@ -161,7 +161,7 @@ If you are using a Windows, you can also install the [Windows Subsystem for Linu
 
 1. Take a screenshot of the output and add this to your submission on Canvas. Please note that we will be running your script during grading, and the output should match what is shown in your screenshot.
 
-2. Go to your GitHub respository and locate the link to the commit number toward the top of your repo. (See below image.)
+2. Go to your GitHub repository and locate the link to the commit number toward the top of your repo. (See below image.)
 
 
     <img width="700" alt="submission" src="https://github.com/yuanchaiyc/Ling471/blob/main/imgs/a1_submission.png">
