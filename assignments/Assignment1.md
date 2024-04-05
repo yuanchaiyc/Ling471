@@ -52,7 +52,7 @@ In this part of the assignment, you will create a GitHub repository for your cod
 
     <img width="1286" alt="Screen Shot 2021-03-22 at 12 22 26 PM" src="https://user-images.githubusercontent.com/10963114/112046453-4a277b00-8b09-11eb-85e9-acecf900369b.png">
 
-1. Now, install git on your machine. Click on the "Latest Source Release 2.35.1." button [here](https://git-scm.com/downloads) 
+1. Now, install git on your machine. Click on the "Latest Source Release 2.44.0." button [here](https://git-scm.com/downloads) 
 1. Ask a question about git or leave a comment about it in the Assignment 1 discussion board area on Canvas. It can be anything. 
 
 ### Part 3: Python and PyCharm. (NB: Complete what you can now. You should be able to do everything after April 6.)
