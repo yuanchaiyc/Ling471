@@ -79,7 +79,7 @@ You need the full path. (Hint: Try using command line techniques to navigate to 
 
     ![Screen Shot 2021-04-07 at 2 13 43 PM](https://user-images.githubusercontent.com/10963114/113936426-9848a980-97ac-11eb-9fd8-19370cbfa420.JPG)
 
-3.    **Submit the commit number and the link to Canvas as a text file**. Please don't forget a file extension!
+3.    **Submit the commit number and the link to Canvas as a text file**. Make sure you refer to the picture below to make sure you know where to find the commit number and the link.
 
    ![Screen Shot 2021-04-07 at 2 23 22 PM](https://user-images.githubusercontent.com/10963114/113936852-3f2d4580-97ad-11eb-8cc8-7d024a3b5227.JPG)
 
