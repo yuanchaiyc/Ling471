@@ -14,6 +14,6 @@
 
 3. Either prerecord your presentation and upload to Canvas or come to class prepared to present your slides.
 
-4. If presenting in class, collect feedback from instructors and peers. If prerecorded, start a discussion board thread **by May 31** and collect feedback there. 
+4. If presenting in class, collect feedback from instructors and peers. If prerecorded, start a discussion board thread **by May 29** and collect feedback there. 
 
 5. Address the feedback (related to the slides: e.g. include the citation, add slide numbers, increase font, separate content into two less dense slides, etc.) and submit the updated slides to Canvas. 
