@@ -77,7 +77,10 @@ As before, you will **submit** your final version to the repository you created 
 
 ### Part 5 Submit
 
-1. Link to the commit you want us to grade **in the repository which you created for Assignment 1**. In that repository, we should be able to find **yourNetID_assignment3.py** along with any files it imports, as well as **yourNetID_EA_assignment3.txt** (or .md).
+1. **Link** to the commit you want us to grade **in the repository which you created for Assignment 1**. In that repository, we should be able to find:
+    1. **yourNetID_assignment3.py** 
+    2. Any files that **yourNetID_assignment3.py** imports (for example, the **evaluation.py** and **review_vector.py**, if you imported functions from these files. If you had all the functions written in the main python file, and didn't import functions from any external files, then just the **yourNetID_assignment3.py** is sufficient.)
+    3. **yourNetID_EA_assignment3.txt** (or .md).
 
 
 # You are now done with Assignment 3!
