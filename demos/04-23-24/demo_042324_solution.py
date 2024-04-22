@@ -41,8 +41,15 @@ prediction3 = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
 prediction4 = [1, 1, 0, 1, 0, 0, 1, 1, 0, 1]
 
 #if we regard "political" as positive
+relevant_class = 0
+predict_list = prediction1
+true_pos = sum(1 for x, y in zip(ground_truth, predict_list) if (x==y) and (y == relevant_class))
+true_neg = sum(1 for x, y in zip(ground_truth, predict_list) if (x==y) and (y != relevant_class))
+false_pos = sum(1 for x, y in zip(ground_truth, predict_list) if (x!=y) and (y == relevant_class))
+false_neg = sum(1 for x, y in zip(ground_truth, predict_list) if (x!=y) and (y != relevant_class))
 
-#if we regard "non-political" as positve
+precision = true_pos/(true_pos + false_pos)
+recall = true_pos/(true_pos + false_neg)
 
 #------------------------
 #Class
@@ -74,10 +81,15 @@ class Recipe:
     def add(self, new):
         print(f'{new} added!')
 
+    def prepare(self):
+        # Method to prepare the dish
+        print(f"Preparing {self.name} with ingredients: {', '.join(self.ingredients)}")
 
-lasagna_recipe = None
+
+lasagna_recipe = Recipe("Lasagna", ["pasta", "tomato sauce", "cheese", "beef"])
 
 # Using methods of the Recipe class
+
 lasagna_recipe.add("Olive oil")
 lasagna_recipe.prepare()
 
@@ -116,12 +128,15 @@ files = [x.name for x in p.glob('*') if x.is_file()]
 #-------------------------
 #Programming activity 3
 from pathlib import Path
-p = Path()
-p_pos = Path()
-p_neg = Path()
+p = Path(r'C:\Work\UW\teaching\ling471\class-demo\demo_042324\pythonProject1')
+p_pos = Path(p, r'tiny-test/hw3-pos')
+p_neg = Path(p, r'tiny-test/hw3-neg')
 
+#Any files and folders in this path
+list(p_neg.glob('*.txt'))
+list(p_pos.glob('*.txt'))
 #Store all Python files in this path to a list using list comprehension
-files_pos = []
-files_neg = []
+files_pos = [x for x in p_pos.glob('*.txt') if x.is_file()]
+files_neg = [x for x in p_neg.glob('*.txt') if x.is_file()]
 
 
