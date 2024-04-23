@@ -1,0 +1,62 @@
+__author__ = 'Yuan Chai'
+#------------------------
+#Programming activity 1
+#Consider a task of classifying tweets as political or not
+#1 = political
+#0 = not political
+#You have 10 tweets, and the ground truth is:
+ground_truth = [1, 1, 0, 1, 0, 0, 1, 1, 0, 1]
+#If "political" means "positive",
+#Calculate accuracy, precision, and recall if your system outputs:
+prediction1 = [1, 1, 1, 0, 0, 0, 1, 0, 0, 1]
+
+#To Do:
+accuracy = None
+precision = None
+recall = None
+
+#If you have more time:
+prediction2 = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+prediction3 = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+prediction4 = [1, 1, 0, 1, 0, 0, 1, 1, 0, 1]
+#If you even more:
+#Treate "non-political" as "positive"
+#And calculate accuracy, precision, and recall
+#Think about how to avoid writing repetitive code for differen conditions and different lists.
+
+#------------------------
+#Programming activity 2
+class reviewVec:
+    def __init__(self, text, correct_label, prediction):
+        self.text = text
+        self.correct_label = correct_label
+        self.prediction = prediction
+#To do:
+#Create a reviewVec object
+#Assign its attributes to the following values:
+#text = "This movie is epic!"
+#correct_label = "positive"
+#prediction = "negative"
+#Print out the text, correct_label, and prediction of this reviewVec object
+
+
+#------------------------
+from pathlib import Path
+
+#Programming activity 3
+#Download the tiny-test folder for assignment 3 (you can find it in the 04-23-24 demo folder on GitHub repo as well)
+#Create two lists
+#hw3_neg: store the full path of all the files in the hw3-neg folder
+#hw3_pos: store the full path of all the files in the hw3-pos folder
+#TO DO: find the path to the tiny-test folder, and pass it to the Path() method
+folder_path_neg = Path()
+folder_path_pos = Path()
+hw3_neg = []
+hw3_pos = []
+
+#If you have more time: store only the filename, rather than the full path to these two lists
+#Instead of having to store the path to neg and pos,
+# only store the path to the tiny-test folder,
+# then use Path(,) or path1/path2 to navigate to the subfolders
+#hw3_pos = [‘g1.txt’, ’g2.txt’, ‘g3.txt’, ‘g4.txt’]
+#Hint: Use list comprehension and the .stem method for Path.

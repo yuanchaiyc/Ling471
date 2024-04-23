@@ -25,25 +25,6 @@ for i in range(len(gold)):
         corr += 1
 acc = corr / len(gold)
 
-
-
-#------------------------
-#Programming activity 1
-#Consider a task of classifying tweets as political or not
-#1 = political
-#0 = not political
-#You have 10 tweets, and the ground truth is:
-ground_truth = [1, 1, 0, 1, 0, 0, 1, 1, 0, 1]
-#Calculate accuracy, precision, and recall if your system outputs:
-prediction1 = [1, 1, 1, 0, 0, 0, 1, 0, 0, 1]
-prediction2 = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-prediction3 = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
-prediction4 = [1, 1, 0, 1, 0, 0, 1, 1, 0, 1]
-
-#if we regard "political" as positive
-
-#if we regard "non-political" as positve
-
 #------------------------
 #Class
 
@@ -111,17 +92,3 @@ files = [x.stem for x in p.glob('*') if x.is_file()]
 # ['test1', 'test2']
 files = [x.name for x in p.glob('*') if x.is_file()]
 # ['test1.txt', 'test2.txt']
-
-
-#-------------------------
-#Programming activity 3
-from pathlib import Path
-p = Path()
-p_pos = Path()
-p_neg = Path()
-
-#Store all Python files in this path to a list using list comprehension
-files_pos = []
-files_neg = []
-
-
