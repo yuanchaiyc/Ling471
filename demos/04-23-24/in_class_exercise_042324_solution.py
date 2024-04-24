@@ -23,17 +23,6 @@ prediction4 = [1, 1, 0, 1, 0, 0, 1, 1, 0, 1]
 #Treate "non-political" as "positive"
 #And calculate accuracy, precision, and recall
 #Think about how to avoid writing repetitive code for differen conditions and different lists.
-#if we regard "political" as positive
-relevant_class = 0
-predict_list = prediction1
-true_pos = sum(1 for x, y in zip(ground_truth, predict_list) if (x==y) and (y == relevant_class))
-true_neg = sum(1 for x, y in zip(ground_truth, predict_list) if (x==y) and (y != relevant_class))
-false_pos = sum(1 for x, y in zip(ground_truth, predict_list) if (x!=y) and (y == relevant_class))
-false_neg = sum(1 for x, y in zip(ground_truth, predict_list) if (x!=y) and (y != relevant_class))
-
-precision = true_pos/(true_pos + false_pos)
-recall = true_pos/(true_pos + false_neg)
-
 
 #------------------------
 #Programming activity 2
@@ -49,10 +38,7 @@ class reviewVec:
 #correct_label = "positive"
 #prediction = "negative"
 #Print out the text, correct_label, and prediction of this reviewVec object
-new_review = reviewVec("This movie is epic!", "positive", "negative")
-new_review.text
-new_review.correct_label
-new_review.prediction
+
 
 #------------------------
 from pathlib import Path
@@ -74,13 +60,3 @@ hw3_pos = []
 # then use Path(,) or path1/path2 to navigate to the subfolders
 #hw3_pos = [‘g1.txt’, ’g2.txt’, ‘g3.txt’, ‘g4.txt’]
 #Hint: Use list comprehension and the .stem method for Path.
-
-p_pos = Path(r'tiny-test/hw3-pos')
-p_neg = Path(r'tiny-test/hw3-neg')
-
-#Any files and folders in this path
-list(p_neg.glob('*.txt'))
-list(p_pos.glob('*.txt'))
-#Store all Python files in this path to a list using list comprehension
-files_pos = [x for x in p_pos.glob('*.txt') if x.is_file()]
-files_neg = [x for x in p_neg.glob('*.txt') if x.is_file()]
