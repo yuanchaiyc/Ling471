@@ -14,7 +14,8 @@ import random
 #  Flip 1,000 more and compare your results, Calculate the probability of getting heads and tails
 
 #Example of flipping one coin:
-flip = random.choices([0, 1], k = 1)
+flip = random.choi
+ces([0, 1], k = 1)
 n_H = sum(flip)
 
 #Now try writing a code to flip 1000 times:
@@ -34,6 +35,6 @@ n_H = sum(flip)
 #  Feel free to come up with your own numerical approximation method
 
 curr_max_p = 0
-curr_max_x = 0
+curr_max_theta = 0
 for x in range(0, 1000, 1):
     pass
