@@ -2,6 +2,30 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.special import erf
 
+'''
+Review: Precision and Recall
+Imagine you are a data scientist working on a language model designed to detect hate speech in tweets. 
+You have randomly selected 100 tweets from a dataset to test your model. 
+Your task is to evaluate the performance of the model based on the following results:
+
+               | Predicted: Yes | Predicted: No | Predicted: None
+---------------|----------------|---------------|---------------
+Actual: Yes    | 30             | 20            | 5
+Actual: No     | 10             | 40            | 15
+
+
+Please calculate the accuracy, precision, recall accuracy of this model for correctly detecting non-hate speech
+'''
+true_pos = None
+true_neg = None
+false_pos = None
+false_neg = None
+accuracy = None
+precision = None
+recall = None
+
+
+
 def normal_pdf(x, mu, sigma):
     # mu: the mean
     # sigma: the standard deviation
@@ -43,4 +67,4 @@ y_data_cdf = None
 plt.plot(x_data, y_data_pdf)
 # Plot cdf
 plt.plot(x_data, y_data_cdf)
-plt.show()
+#plt.show()
