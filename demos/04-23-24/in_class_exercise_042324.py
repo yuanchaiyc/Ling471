@@ -29,7 +29,7 @@ predict_list = prediction1
 true_pos = sum(1 for x, y in zip(ground_truth, predict_list) if (x==y) and (y == relevant_class))
 true_neg = sum(1 for x, y in zip(ground_truth, predict_list) if (x==y) and (y != relevant_class))
 false_pos = sum(1 for x, y in zip(ground_truth, predict_list) if (x!=y) and (y == relevant_class))
-false_neg = sum(1 for x, y in zip(ground_truth, predict_list) if (x!=y) and (y != relevant_class))
+false_neg = sum(1 for x, y in zip(predict_list, ground_truth) if (x!=y) and (y == relevant_class))
 
 precision = true_pos/(true_pos + false_pos)
 recall = true_pos/(true_pos + false_neg)
