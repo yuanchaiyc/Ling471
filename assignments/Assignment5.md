@@ -27,7 +27,7 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
 
 3. Your `largest_counts.py` (with the function completed).
 
-4. A **PDF file** with your report for Part 2. **PLEASE DO NOT FORGET TO DO THIS. IT IS WORTH *A LOT* OF POINTS.**
+4. A **PDF file** `UW_NET_ID_report.pdf` with your report for Part 1 Section 6 and 7, and Part 2. **PLEASE DO NOT FORGET TO DO THIS. IT IS WORTH *A LOT* OF POINTS.**
 
 5. Your UW_NET_ID_assignment5.py (Part 2)
 
@@ -64,6 +64,8 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
 7. Inspect the "lemmatized" words in the dataframe (e.g. by opening it in Excel). Did the NLTK lemmatizer do a good job? What can you say about what it did? **Add a comment in your report**, below the tables/visualizations associated with 6.
 
     You can read more about lemmatization, but as a brief note of the summary, a lemmatizer or stemmer should be removing any prefixes, suffixes, etc. from a word. In a lemmatized data set, you should not see words like *cats*, *dogs*, *loved*, and *reanalyze*, only base forms like *cat*, *dog*, *love*, and *analyze*.
+
+The contents of **No. 6 and 7** go into your `UW_NET_ID_report.pdf` file.
 
 
 ### Part 2: Model comparison (in UWNetID_assignment5.py)
@@ -120,3 +122,5 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
     2. Dataset size. IMDB is fairly large! How may this affect the value of preprocessing?
     3. The genre. How do people tend to write reviews, what style/grammar do they tend to employ? How might that affect the value of e.g. lowercasing?
     4. ...anything else that you might think about here! We look forward to hearing your thoughts!
+
+The graph(s) and proses in Part 2 go into `UW_NET_ID_report.pdf` file.
