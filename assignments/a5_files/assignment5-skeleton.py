@@ -36,10 +36,10 @@ def main(argv):
     # But you can also just use lists, except then you must not make a mistake, which score you are accessing,
     # when you plot graphs.
     nb_original = my_naive_bayes(data, 'review', 'label')
-    nb_cleaned = my_naive_bayes(data, 'review', 'label')
-    nb_lowercase = my_naive_bayes(data, 'review', 'label')
-    nb_no_stop = my_naive_bayes(data, 'review', 'label')
-    nb_lemmatized = my_naive_bayes(data, 'review', 'label')
+    nb_cleaned = my_naive_bayes(data, , 'cleaned_review', 'label')
+    nb_lowercase = my_naive_bayes(data, 'lowercased', 'label')
+    nb_no_stop = my_naive_bayes(data, 'no stopwords', 'label')
+    nb_lemmatized = my_naive_bayes(data, 'lemmatized', 'label')
 
     # Collect accuracies and other scores across models.
     # TODO: Harmonize this with your own naive_bayes() function!
