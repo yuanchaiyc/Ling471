@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 from evaluation import computeAccuracy, computePrecisionRecall
 
 # TODO: You may need to modify assignment 4 if you just had a main() there.
-# my_naive_bayes() should take a column as input and return as output 10 floats (numbers)
+# my_naive_bayes() should take three arguments: datafile, the review column, and the label column, and return as output 10 floats (numbers)
 # representing the metrics.
 from assignment4 import my_naive_bayes
 
@@ -35,11 +35,11 @@ def main(argv):
     # but dicts where each score will be stored by key, like [TEST][POS][RECALL], etc.
     # But you can also just use lists, except then you must not make a mistake, which score you are accessing,
     # when you plot graphs.
-    nb_original = my_naive_bayes(data['review'])
-    nb_cleaned = my_naive_bayes(data['cleaned_review'])
-    nb_lowercase = my_naive_bayes(data['lowercased'])
-    nb_no_stop = my_naive_bayes(data['no stopwords'])
-    nb_lemmatized = my_naive_bayes(data['lemmatized'])
+    nb_original = my_naive_bayes(data, 'review', 'label')
+    nb_cleaned = my_naive_bayes(data, 'review', 'label')
+    nb_lowercase = my_naive_bayes(data, 'review', 'label')
+    nb_no_stop = my_naive_bayes(data, 'review', 'label')
+    nb_lemmatized = my_naive_bayes(data, 'review', 'label')
 
     # Collect accuracies and other scores across models.
     # TODO: Harmonize this with your own naive_bayes() function!
