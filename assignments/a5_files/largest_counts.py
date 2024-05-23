@@ -17,19 +17,15 @@ def convert_to_wordlist(column):
 
 
 
-def largest_counts(data):  # TODO: Finish implementing this function
-
+def largest_counts(data):
     # TODO: Cut up the rows in the dataset according to how you stored things.
-    # The below assumes your data has a column of "type", storing whether the data is from the training or the test folder
-    # and a column of "label", storing whether the review is pos or neg
+    # The below assumes your data has a column of "type", storing whether the review is pos or neg
     # If you did differently, make corresponding changes
-    pos_train_data = data[(data['type']=="train") & (data['label']=='pos')]
-    pos_test_data = None
-    neg_train_data = None
-    neg_test_data = None
+    pos_data = data[data['label']=='pos']
+    neg_data = None
 
 
-    data_cut = [pos_train_data, pos_test_data, neg_train_data, neg_test_data]
+    data_cut = [pos_data, neg_data]
     # by value (count) in reverse (descending) order.
     # It is your task to Google and learn how to do this, but we will help of course,
     # if you come to use with questions. This can be daunting at first, but give it time.
