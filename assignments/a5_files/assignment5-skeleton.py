@@ -22,7 +22,8 @@ from assignment4 import my_naive_bayes
 
 
 def main(argv):
-    data = pd.read_csv('my_imdb_expanded.csv', index_col=[0])
+    # argv[1] is the path to 'my_imdb_expanded.csv'
+    data = pd.read_csv(argv[1], index_col=[0])
     # print(data.head())  # <- Verify the format. Comment this back out once done.
 
     # Part II:
