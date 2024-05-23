@@ -1,16 +1,17 @@
 __author__ = 'Yuan Chai'
 # TODO: Corpus terminologies
 # "The cat chases the cat that was chasing the mouse."
-# Type:
-# Token:
-# Hapax legomenon:
-# Wordform:
-# Lemma:
+# Type: the cat chase that was chasing mouse
+# Token: the: 3; cat 2; chases: 1 that: 1; was:1; chasing: 1; mouse: 1
+# Hapax legomenon: chases, that, was, chasing, mouse
+# Wordform: chases, chasing
+# Lemma: chase
 
 # TODO: explore the corpus
 #  Go to https://www.english-corpora.org and choose a corpus that seems interesting
 #  Think about some phrases you are interested in (very new phrases may not appear)
 #  Find five concordances of the words/phrases
+
 
 import matplotlib.pyplot as plt
 from collections import Counter
@@ -98,7 +99,7 @@ text1[100]
 # slice
 text1[100:200]
 
-# get the count of 'whale'
+# get the position of 'whale'
 text1.index('whale')
 
 # counting frequency
@@ -120,3 +121,14 @@ freq_distr.max()
 #  organize the frequency dictionary from largest number to smallest number
 #  Get rid of short functions words -- words that have a frequency larger than 10, and the length of word smaller than 4
 #  Create a list of words that start with 'sh'
+freq_distr_text2 = FreqDist(text2)
+# Get words with frequency larger than 10
+list_larger_than10 = [w for w in freq_distr_text2.keys() if freq_distr_text2[w] > 10]
+
+# Sort the dictionary from largest to smallest number
+dict_sorted = dict(sorted(freq_distr_text2.items(), key = lambda x:x[1], reverse=True))
+
+# Get rid of function words
+function_words = [w for w in freq_distr_text2.keys() if freq_distr_text2[w] > 10 and len(w) < 4]
+
+all_word =
