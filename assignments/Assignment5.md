@@ -32,7 +32,21 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
 
 4. Step 3 takes some time. This is because you are iterating over every word in each text and performing expensive language processing such as stemming. To reassure yourself that your program is making progress, insert a print statement in `main()` which will print out a message for every 100th file: "Processing dir {} out of {}, file {} out of {}".    **Capture the standard output** in a text file.
 
-    NB: This step (both the progress indicator and capturing standard output in a file) is **required** because these are both important techniques and we want to make sure you know them! See [hints](Assignment5-hints.md).
+    NB: These progress output lines are **required** because this is important technique and we want to make sure you know it! See [hints](Assignment5-hints.md).
+
+        ```
+    Test NEG: Processing dir 1/4, file 100 out of 12500
+    Test NEG: Processing dir 1/4, file 200 out of 12500
+    Test NEG: Processing dir 1/4, file 300 out of 12500
+    ...
+    ...
+    ...
+    Train POS: Processing dir 4/4, file 12200 out of 12500
+    Train POS: Processing dir 4/4, file 12300 out of 12500
+    Train POS: Processing dir 4/4, file 12400 out of 12500
+    ```
+    **You can format this output as you like**, so long as it is clearly reporting progress. It **does not** need to look exactly like above.
+
     
 5. Once you have the new dataframe file, move to `largest_counts.py`. Finish implementing the function (sort the counts), and obtain the **most frequent words** from the "review" (uncleaned, **original** text) column and also the most frequent words in the **newly added** columns, using your word counter from Assignment 2 or any other method (you can use others' code here, but do give the source in a comment). Look at **training reviews only**. See [hints](Assignment5-hints.md).
 
