@@ -70,7 +70,7 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
  
 1. Run the several different models indicated in the code (differing mainly in data processing) and record the 10 numbers (which you reported for Assignment 4) **for each model**. The code is kind of already in place but it assumes a certain signature (input/output) of the Naive Bayes method. See comments in the skeleton! You can adapt either your naive_bayes() program or the HW5 skeleton; up to you! Just make sure your code runs. See also [hints](Assignment5-hints.md). 
     
-2. **Plot** all numbers in one or several graphs. You are going to have 50 numbers in total to be ploted
+2. **Plot** all numbers in one or several graphs. You are going to have 50 numbers in total to be plotted.
 
     ```
     original    train   accuracy                    clean   train   accuracy      
