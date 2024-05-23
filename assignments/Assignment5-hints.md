@@ -4,20 +4,7 @@ Consult these steps if you don't know how to start the programming in Part 1 and
 
 ### Part 1: Capturing standard output
 
-1. "Capturing standard output" does **not** mean adding any code into your program! To **capture standard output** (print statements) in a file, you can run your program **in command line** like this: 
-
-    ```bash
-    python imdb_dataframe.py dir1 dir2 dir3 dir4 > UW_NET_ID_output.txt` 
-    ```
-    
-    This works on Windows, Mac, and Linux. Note, however, that you will need to ensure that you are using Python 3 and not and old Python 2 version.
-    
-    You can also make PyCharm do this for you. [See this StackOverflow post for more information.](https://stackoverflow.com/questions/21568810/how-do-i-redirect-input-and-output-with-pycharm-like-i-would-on-the-command-line) Be careful with this method because it will also save any errors that are thrown!
-
-    Check that you now have the file called `UW_NET_ID_output.txt` in your working directory. Look what's in it!
-    Hint: you can start practicing capturing standard output from a simple "Hello world!" program. Then move on to you imdb_dataframe.py.
-
-2. You will need to keep a counter to print a message every 100th iteration. A list index serves as a great counter when you iterate over a list. You have an example of how to use the `enumerate()` function for list iteration in the skeleton; it returns **both** the element in the list and its index! 
+1. To capture standard output, you will need to keep a counter to print a message every 100th iteration. A list index serves as a great counter when you iterate over a list. You have an example of how to use the `enumerate()` function for list iteration in the skeleton; it returns **both** the element in the list and its index! 
 
 ### Part 1: Sorting dicts/dataframes for word frequency
 

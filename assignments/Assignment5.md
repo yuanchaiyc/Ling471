@@ -11,25 +11,11 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
 ### Submission summary, to be committed like usual, to the repo that you share with the instructors. The commit number is submitted to Canvas for time stamp.
 1. The updated `imdb_dataframe.py` (see Part 1).
 
-2. A text file capturing the **standard output** of your `imdb_dataframe.py`. Name it: UW_NET_ID_dataframe.txt. The file should look something like this:
-    ```
-    Test NEG: Processing dir 1/4, file 100 out of 12500
-    Test NEG: Processing dir 1/4, file 200 out of 12500
-    Test NEG: Processing dir 1/4, file 300 out of 12500
-    ...
-    ...
-    ...
-    Train POS: Processing dir 4/4, file 12200 out of 12500
-    Train POS: Processing dir 4/4, file 12300 out of 12500
-    Train POS: Processing dir 4/4, file 12400 out of 12500
-    ```
-    **You can format this output as you like**, so long as it is clearly reporting progress. It **does not** need to look exactly like above.
+2. Your `largest_counts.py` (with the function completed).
 
-3. Your `largest_counts.py` (with the function completed).
+3. A **PDF file** `UW_NET_ID_report.pdf` with your report for Part 1 Section 6 and 7, and Part 2. **PLEASE DO NOT FORGET TO DO THIS. IT IS WORTH *A LOT* OF POINTS.**
 
-4. A **PDF file** `UW_NET_ID_report.pdf` with your report for Part 1 Section 6 and 7, and Part 2. **PLEASE DO NOT FORGET TO DO THIS. IT IS WORTH *A LOT* OF POINTS.**
-
-5. Your UW_NET_ID_assignment5.py (Part 2)
+4. Your UW_NET_ID_assignment5.py (Part 2)
 
 ### Part 0: Get the skeleton
 1. Obtain the skeleton from the class GitHub repository.
