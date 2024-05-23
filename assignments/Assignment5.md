@@ -34,7 +34,7 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
 
     NB: These progress output lines are **required** because this is important technique and we want to make sure you know it! See [hints](Assignment5-hints.md).
 
-        ```
+    ```
     Test NEG: Processing dir 1/4, file 100 out of 12500
     Test NEG: Processing dir 1/4, file 200 out of 12500
     Test NEG: Processing dir 1/4, file 300 out of 12500
@@ -45,6 +45,7 @@ In this final assignment, you will (1) add some linguistic preprocessing to your
     Train POS: Processing dir 4/4, file 12300 out of 12500
     Train POS: Processing dir 4/4, file 12400 out of 12500
     ```
+    
     **You can format this output as you like**, so long as it is clearly reporting progress. It **does not** need to look exactly like above.
 
     
