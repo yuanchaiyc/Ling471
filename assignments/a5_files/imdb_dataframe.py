@@ -29,7 +29,7 @@ def review_to_words(review, remove_stopwords=False, lemmatize=False):
     # Initializing an instance of the NLTK stemmer/lemmatizer class
     sno = stem.SnowballStemmer('english')
     # Removing HTML using BeautifulSoup preprocessing package
-    review_text = BeautifulSoup(review).get_text()
+    review_text = BeautifulSoup(review, "html.parser").get_text()
     # Remove non-letters using a regular expression
     review_text = re.sub("[^a-zA-Z]", " ", review_text)
     # Tokenizing by whitespace
