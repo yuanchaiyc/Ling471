@@ -76,37 +76,42 @@ The contents of **No. 6 and 7** go into your `UW_NET_ID_report.pdf` file.
 2. **Plot** all numbers in one or several graphs. You are going to have 50 numbers in total to be plotted.
 
     ```
-    original    train   accuracy                    clean   train   accuracy      
-                        pos precision                               pos precision
-                        pos recall                                  pos recall
-                        neg precision                               neg precision
-                        neg recall                                  neg recall
-                test    accuracy                            test    accuracy
-                        pos precision                               pos precision
-                        pos recall                                  pos recall
-                        neg precision                               neg precision
-                        neg recall                                  neg recall
-    lowercase   train   accuracy                    nonstop train   accuracy      
-                        pos precision                               pos precision
-                        pos recall                                  pos recall
-                        neg precision                               neg precision
-                        neg recall                                  neg recall
-                test    accuracy                            test    accuracy
-                        pos precision                               pos precision
-                        pos recall                                  pos recall
-                        neg precision                               neg precision
-                        neg recall                                  neg recall
-    lemmatized  train   accuracy                          
-                        pos precision                              
-                        pos recall                                 
-                        neg precision                              
-                        neg recall                               
-                test    accuracy                            
-                        pos precision                          
-                        pos recall                             
-                        neg precision                               
-                        neg recall                                  
+    original    train   accuracy        0.97028           clean   train   accuracy      0.97016
+                        pos precision   0.98141                           pos precision 0.98046
+                        pos recall      0.95872                           pos recall    0.95944
+                        neg precision   0.95965                           neg precision 0.96029
+                        neg recall      0.98184                           neg recall    0.98088
+                test    accuracy        0.86832                   test    accuracy      0.86912
+                        pos precision   0.90279                           pos precision 0.90184
+                        pos recall      0.82552                           pos recall    0.8284
+                        neg precision   0.83927                           neg precision 0.84132
+                        neg recall      0.91112                           neg recall    0.90984
+    lowercase   train   accuracy        0.97016           nonstop train   accuracy      0.98688 
+                        pos precision   0.98046                           pos precision 0.98907
+                        pos recall      0.95944                           pos recall    0.98464
+                        neg precision   0.96029                           neg precision 0.98470
+                        neg recall      0.98088                           neg recall    0.98912
+                test    accuracy        0.86912                   test    accuracy      0.86412
+                        pos precision   0.90184                           pos precision 0.88270
+                        pos recall      0.8284                            pos recall    0.83984
+                        neg precision   0.84132                           neg precision 0.84725
+                        neg recall      0.90984                           neg recall    0.8884
+    lemmatized  train   accuracy        0.98332                          
+                        pos precision   0.98623                             
+                        pos recall      0.98032                           
+                        neg precision   0.98043                              
+                        neg recall      0.98632                               
+                test    accuracy        0.8582                    
+                        pos precision   0.87434                       
+                        pos recall      0.83664                       
+                        neg precision   0.84339                            
+                        neg recall      0.87976                            
     ```
+
+{'train': {'accuracy': 0.97028, 'POS': {'precision': 0.9814102039145033, 'recall': 0.95872}, 'NEG': {'precision': 0.9596528266479005, 'recall': 0.98184}}, 'test': {'accuracy': 0.86832, 'POS': {'precision': 0.9027996500437445, 'recall': 0.82552}, 'NEG': {'precision': 0.8392778187177597, 'recall': 0.91112}}}
+{'train': {'accuracy': 0.97016, 'POS': {'precision': 0.980461085676913, 'recall': 0.95944}, 'NEG': {'precision': 0.9602913533834586, 'recall': 0.98088}}, 'test': {'accuracy': 0.86912, 'POS': {'precision': 0.9018463682285316, 'recall': 0.8284}, 'NEG': {'precision': 0.8413226808699512, 'recall': 0.90984}}}
+
+
 
     There are different ways to organize the data on a plot. Codes for example plots in matplotlib can be found at the [matplotlib tutorial websites](https://matplotlib.org/stable/gallery/index.html#examples-index). Y-axis will be percentage score, On x-axis, you can group the data by the parameter. For example on x-axis, you have train accuracy, test accuracy, train pos precision, test pos precision, ..., and within each parameter, you have five stacked bars for different models, so that you can compare *original* vs *clean text* vs *lowercase* vs *no stop words* vs *lemmatized* with these five bars juxtaposed to each other. You can also group data by model, for example, on x-axis, you have *original*, *clean text*, *lowercase*, *no stop words*, *lemmatized*. And within each model, you have ten stacked bars for each parameters, so that you are comparing *train accuracy* vs *test accuracy* vs *train pos precision* vs *train neg precision* vs ... .
 
